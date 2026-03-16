@@ -12,12 +12,24 @@ class InsightsAgent:
         self.api_key = api_key or os.getenv("OPENAI_API_KEY")
         self.client = OpenAI(api_key=self.api_key) if self.api_key else None
         
-        # Load the data for context
-        try:
-            self.user_metrics = pd.read_csv("data/metrics/user_metrics.csv")
-            self.repos_classified = pd.read_csv("data/processed/classifications.csv")
-        except Exception as e:
-            print(f"Error loading data for agent: {e}")
+        # Load the data for context with robust path resolution
+        paths_to_try = [
+            ("data/metrics/user_metrics.csv", "data/processed/classifications.csv"),
+            ("peru-github-users/data/metrics/user_metrics.csv", "peru-github-users/data/processed/classifications.csv")
+        ]
+        
+        found = False
+        for user_path, repo_path in paths_to_try:
+            if os.path.exists(user_path) and os.path.exists(repo_path):
+                try:
+                    self.user_metrics = pd.read_csv(user_path)
+                    self.repos_classified = pd.read_csv(repo_path)
+                    found = True
+                    break
+                except Exception:
+                    continue
+        
+        if not found:
             self.user_metrics = pd.DataFrame()
             self.repos_classified = pd.DataFrame()
 
