@@ -1,8 +1,8 @@
-# 🇵🇪 GitHub Peru Analytics - Homework 2
+# 🇵🇪 GitHub Peru Analytics - Tarea 2
 
 Un completo sistema de gestión de datos y un panel de control para analizar el ecosistema de desarrolladores de GitHub en Perú. Este proyecto extrae datos de más de 1000 desarrolladores peruanos, clasifica sus repositorios por sectores mediante inteligencia artificial (GPT-4) y visualiza los resultados en un panel interactivo de varias páginas.
 
-## 🚀 Project Overview
+## 🚀Descripción general del proyecto
 
 Esta herramienta identifica y analiza las tendencias técnicas, la distribución por sectores y las métricas de rendimiento de los desarrolladores, específicamente para los usuarios ubicados en Perú.
 ---
@@ -23,7 +23,7 @@ Esta herramienta identifica y analiza las tendencias técnicas, la distribución
 - **Agente de IA**: Un chatbot entrenado con datos del ecosistema para responder preguntas técnicas.
 ---
 
-## 📂 Repository Structure
+## 📂 Estructura del Repositorio
 
 ```
 github-peru-analytics/
@@ -127,11 +127,11 @@ python scripts/chat_with_agent.py
 
 ---
 
-## 📺 Video Demonstration
-A video tour of the project can be found at: [Link to Video] (User, please record your demo and update this link).
+## 📺 Demostración de Video
+ [Link to Video] 
 
 ---
 
-## 🎓 Author
+## 🎓 Autora
 **Julia** - *Homework 2 for Prompt Engineering Course*
 
