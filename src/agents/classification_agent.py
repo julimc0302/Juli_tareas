@@ -34,30 +34,49 @@ class InsightsAgent:
             self.repos_classified = pd.DataFrame()
 
     def get_ecosystem_summary(self):
-        """Prepare a summary of the ecosystem for the LLM context."""
-        if self.user_metrics.empty or self.repos_classified.empty:
+        """Prepare a comprehensive summary of the ecosystem for the LLM context."""
+        if self.user_metrics.empty:
             return "No data available."
             
         # Basic stats
         total_devs = len(self.user_metrics)
         top_langs = self.user_metrics["primary_languages"].str.split(", ").explode().value_counts().head(10).to_dict()
-        top_industries = self.repos_classified["industry_name"].value_counts().head(5).to_dict()
         
-        # Calculate Language-Industry Correlation
+        # Geographical Analysis
+        # Extract city from location (simplified: take the first part before comma)
+        self.user_metrics['city'] = self.user_metrics['location'].str.split(',').str[0].str.strip().str.upper()
+        # Filter for known Peruvian cities/regions to avoid noise
+        top_cities = self.user_metrics['city'].value_counts().head(5).to_dict()
+        
+        # City activity (Top cities by active developers)
+        city_activity = self.user_metrics[self.user_metrics['is_active'] == True]['city'].value_counts().head(5).to_dict()
+
+        # Industry Analysis
+        top_industries = {}
+        if not self.repos_classified.empty:
+            top_industries = self.repos_classified["industry_name"].value_counts().head(8).to_dict()
+        
+        # Language-Industry Correlation
         lang_industry_corr = {}
-        # Get correlation for the most popular languages
-        for lang in list(top_langs.keys())[:8]:
-            top_inds = self.repos_classified[self.repos_classified["language"] == lang]["industry_name"].value_counts().head(3).to_dict()
-            if top_inds:
-                lang_industry_corr[lang] = top_inds
+        if not self.repos_classified.empty:
+            for lang in list(top_langs.keys())[:5]:
+                top_inds = self.repos_classified[self.repos_classified["language"] == lang]["industry_name"].value_counts().head(3).to_dict()
+                if top_inds:
+                    lang_industry_corr[lang] = top_inds
+        
+        # Company Analysis
+        top_companies = self.user_metrics['company'].value_counts().head(5).to_dict()
 
         summary = {
             "total_developers": total_devs,
             "top_languages": top_langs,
+            "top_cities_by_count": top_cities,
+            "most_active_cities": city_activity,
+            "top_companies": top_companies,
             "top_industries": top_industries,
             "language_to_industry_correlation": lang_industry_corr,
-            "avg_stars": self.user_metrics["total_stars_received"].mean(),
-            "active_percentage": (self.user_metrics["is_active"].sum() / total_devs) * 100
+            "avg_stars_received": self.user_metrics["total_stars_received"].mean(),
+            "active_developers_percentage": (self.user_metrics["is_active"].sum() / total_devs) * 100
         }
         return str(summary)
 
