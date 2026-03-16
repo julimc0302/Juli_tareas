@@ -1,21 +1,29 @@
-# 🇵🇪 GitHub Peru Analytics - Homework 2
+# 🇵🇪 GitHub Peru Analytics - Tarea 2
 
-A comprehensive data pipeline and dashboard for analyzing the GitHub developer ecosystem in Peru. This project extracts data from over 1,000 Peruvian developers, classifies their repositories into industry categories using AI (GPT-4), and visualizes the results in a multi-page interactive dashboard.
+Un completo sistema de gestión de datos y un panel de control para analizar el ecosistema de desarrolladores de GitHub en Perú. Este proyecto extrae datos de más de 1000 desarrolladores peruanos, clasifica sus repositorios por sectores mediante inteligencia artificial (GPT-4) y visualiza los resultados en un panel interactivo de varias páginas.
 
-## 🚀 Project Overview
+## 🚀Descripción general del proyecto
 
-This tool identifies and analyzes technical trends, industry distributions, and developer performance metrics specifically for users located in Peru.
-
-### Key Features:
-- **Massive Data Extraction**: Fetches full profile details for 1,000+ Peruvian users and their latest repositories.
-- **AI-Powered Industry Classification**: Uses GPT-4o-mini to categorize projects based on the International Standard Industrial Classification (CIIU).
-- **Advanced Metrics**: Calculates h-index, engagement scores, and project-per-year ratios for all developers.
-- **Interactive Dashboard**: A 6-page Streamlit application with deep-dive analytics.
-- **AI Insights Agent**: A chatbot trained on the ecosystem data to answer technical questions.
-
+Esta herramienta identifica y analiza las tendencias técnicas, la distribución por sectores y las métricas de rendimiento de los desarrolladores, específicamente para los usuarios ubicados en Perú.
 ---
 
-## 📂 Repository Structure
+## 🥚 Huevo de Pascua
+![Huevo de pascua](demo/Huevo%20de%20pascua.PNG)
+
+
+### Características clave:
+- **Extracción masiva de datos**: Obtiene los detalles completos del perfil de más de 1000 usuarios peruanos y sus repositorios más recientes.
+
+- **Clasificación industrial con IA**: Utiliza GPT-4o-mini para categorizar proyectos según la Clasificación Industrial Internacional Uniforme (CIIU).
+
+- **Métricas avanzadas**: Calcula el índice h, las puntuaciones de participación y la proporción de proyectos por año para todos los desarrolladores.
+
+- **Panel interactivo**: Una aplicación Streamlit de 6 páginas con análisis detallados.
+
+- **Agente de IA**: Un chatbot entrenado con datos del ecosistema para responder preguntas técnicas.
+---
+
+## 📂 Estructura del Repositorio
 
 ```
 github-peru-analytics/
@@ -54,85 +62,76 @@ github-peru-analytics/
 
 ---
 
-## 🛠️ Setup Instructions
+## 🛠️ Instrucciones de configuración
 
-### 1. Requirements
-Ensure you have Python 3.8+ installed.
+### 1. Requisitos
+Asegúrese de tener Python 3.8 o superior instalado.
 
-### 2. Environment Configuration
-1. Copy `.env.example` to `.env`.
-2. Add your **GitHub Personal Access Token** (`GITHUB_TOKEN`).
-3. Add your **OpenAI API Key** (`OPENAI_API_KEY`).
+### 2. Configuración del entorno
+1. Copie `.env.example` a `.env`.
 
-### 3. Installation
+2. Añada su **Token de Acceso Personal de GitHub** (`GITHUB_TOKEN`).
+
+3. Añada su **Clave API de OpenAI** (`OPENAI_API_KEY`).
+
+### 3. Instalación
 ```bash
 pip install -r requirements.txt
 ```
 
 ---
 
-## 📈 Data Pipeline Execution
+## 📈 Ejecución del flujo de datos
 
-Run the scripts in order to build the dataset:
+Ejecute los scripts para construir el conjunto de datos:
 
-1. **Extract Users**: `python scripts/extract_users.py`
-2. **Extract Repos**: `python scripts/extract_repos.py`
-3. **Classify Repos**: `python scripts/classify_repos.py`
-4. **Finalize Metrics**: `python scripts/calculate_metrics.py`
+1. **Extraer usuarios**: `python scripts/extract_users.py`
+2. **Extraer repositorios**: `python scripts/extract_repos.py`
+3. **Clasificar repositorios**: `python scripts/classify_repos.py`
+4. **Finalizar métricas**: `python scripts/calculate_metrics.py`
 
 ---
 
-## 📊 Running the Dashboard
+## 📊 Ejecutar el panel de control
 
-Launch the interactive analytics platform:
+Iniciar la plataforma de análisis interactivo:
 ```bash
 python scripts/run_dashboard.py
 ```
-*Or directly use streamlit:* `streamlit run app/main.py`
-
+*O usar directamente streamlit:* `streamlit run app/main.py`
 ---
 
-## 🤖 AI Insights Agent
+## 🤖 Agente de IA
 
-You can interact with the AI Agent in two ways:
+Puedes interactuar con el Agente de IA de dos maneras:
 
-### 1. Through the Dashboard (GUI)
-- Run `python scripts/run_dashboard.py`.
-- Navigate to the **"06 AI Insights"** page in the sidebar.
-- Type your questions in the chat interface.
+### 1. Mediante el Panel de Control (GUI)
+- Ejecuta `python scripts/run_dashboard.py`.
 
-### 2. Through the Terminal (CLI)
-Run the dedicated chat script:
+- Navega a la página **"06 AI Insights"** en la barra lateral.
+
+- Escribe tus preguntas en la interfaz de chat.
+
+### 2. Mediante la Terminal (CLI)
+Ejecuta el script de chat:
 ```bash
 python scripts/chat_with_agent.py
 ```
 
-### Example Questions:
-- "What are the top 3 industries for developers using Python in Peru?"
-- "Which city has the most active GitHub community?"
-- "Give me a summary of the technical maturity of the Peruvian ecosystem."
+### Ejemplos de preguntas:
+- "¿Cuáles son las 3 principales industrias para desarrolladores que usan Python en Perú?"
+
+- "¿Qué ciudad tiene la comunidad de GitHub más activa?"
+
+- "Dame un resumen de la madurez técnica del ecosistema peruano."
 
 ---
 
-## 📸 Antigravity AI Implementation
-
-This project was built using **Antigravity AI**, showcasing an end-to-end agentic workflow including data engineering, AI integration, and front-end development.
-
-> [!TIP]
-> **Insert Screenshot Here**: (User, please take a screenshot of our conversation and the final dashboard and place it here as per assignment requirements).
+## 📺 Demostración de Video
+ [Link to Video] 
 
 ---
 
-## 📺 Video Demonstration
-A video tour of the project can be found at: [Link to Video] (User, please record your demo and update this link).
-
----
-
-## 🎓 Author
+## 🎓 Autora
 **Julia** - *Homework 2 for Prompt Engineering Course*
-
----
-
-## 🥚 Huevo de Pascua
-![Huevo de pascua](demo/Huevo%20de%20pascua.PNG)
 
