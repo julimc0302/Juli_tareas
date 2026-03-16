@@ -59,5 +59,25 @@ def main():
 
         st.info("👈 Navigate to different pages in the sidebar to view detailed analysis.")
 
+        # Personal Branding Footer
+        st.markdown(
+            """
+            <style>
+            .footer {
+                position: fixed;
+                right: 15px;
+                bottom: 10px;
+                color: #888;
+                font-size: 0.9rem;
+                z-index: 1000;
+            }
+            </style>
+            <div class="footer">
+                Julia Massa Coronel 🇵🇪
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+
 if __name__ == "__main__":
     main()
