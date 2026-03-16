@@ -35,15 +35,29 @@ class InsightsAgent:
 
     def get_ecosystem_summary(self):
         """Prepare a summary of the ecosystem for the LLM context."""
-        if self.user_metrics.empty:
+        if self.user_metrics.empty or self.repos_classified.empty:
             return "No data available."
             
+        # Basic stats
+        total_devs = len(self.user_metrics)
+        top_langs = self.user_metrics["primary_languages"].str.split(", ").explode().value_counts().head(10).to_dict()
+        top_industries = self.repos_classified["industry_name"].value_counts().head(5).to_dict()
+        
+        # Calculate Language-Industry Correlation
+        lang_industry_corr = {}
+        # Get correlation for the most popular languages
+        for lang in list(top_langs.keys())[:8]:
+            top_inds = self.repos_classified[self.repos_classified["language"] == lang]["industry_name"].value_counts().head(3).to_dict()
+            if top_inds:
+                lang_industry_corr[lang] = top_inds
+
         summary = {
-            "total_developers": len(self.user_metrics),
-            "top_languages": self.user_metrics["primary_languages"].str.split(", ").explode().value_counts().head(5).to_dict(),
+            "total_developers": total_devs,
+            "top_languages": top_langs,
+            "top_industries": top_industries,
+            "language_to_industry_correlation": lang_industry_corr,
             "avg_stars": self.user_metrics["total_stars_received"].mean(),
-            "top_industry": self.repos_classified["industry_name"].value_counts().idxmax(),
-            "active_percentage": (self.user_metrics["is_active"].sum() / len(self.user_metrics)) * 100
+            "active_percentage": (self.user_metrics["is_active"].sum() / total_devs) * 100
         }
         return str(summary)
 
