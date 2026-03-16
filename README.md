@@ -31,7 +31,7 @@ Basado en el análisis de 1,000 desarrolladores y 1,017 repositorios:
 ## Sección 3: Recopilación de datos
 -   **Usuarios recopilados**: 1,000 perfiles únicos.
 -   **Repositorios analizados**: 1,017 proyectos clasificados.
--   **Período de tiempo**: Datos históricos desde el 11 de abril de 2008 hasta el 2 de febrero de 2026.
+-   **Período de tiempo**: Datos históricos desde el 11 de abril de 2008 hasta el 15 de marzo de 2026.
 -   **Enfoque de limitación de velocidad (Rate Limiting)**: El sistema implementa un manejo inteligente de la tasa de transferencia. Al detectar un error `403` (límite excedido), el extractor inspecciona la cabecera `X-RateLimit-Reset` de la API de GitHub para calcular el tiempo exacto de espera necesario, pausando la ejecución de forma automática para garantizar una recolección completa sin interrupciones.
 
 ---
