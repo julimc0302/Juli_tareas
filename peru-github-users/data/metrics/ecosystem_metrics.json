@@ -1,0 +1,21 @@
+{
+    "total_users": 1000,
+    "total_repositories": 1017,
+    "top_industries": {
+        "Information and communication": 663,
+        "Education": 146,
+        "Professional, scientific activities": 51,
+        "Wholesale and retail trade": 43,
+        "Arts, entertainment and recreation": 35
+    },
+    "top_languages": {
+        "JavaScript": 6,
+        "Python": 3,
+        "Jupyter Notebook": 3,
+        "CSS": 2,
+        "TypeScript": 2
+    },
+    "average_h_index": 0.086,
+    "active_users_pct": 0.5,
+    "generation_date": "2026-03-15T12:49:35.889141"
+}

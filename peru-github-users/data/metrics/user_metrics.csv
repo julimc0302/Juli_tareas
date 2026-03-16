@@ -1,0 +1,1001 @@
+login,name,company,location,created_at,total_repos,total_stars_received,total_forks_received,avg_stars_per_repo,account_age_days,repos_per_year,followers,following,follower_ratio,h_index,impact_score,primary_languages,language_diversity,industries_served,primary_industry,has_readme_pct,has_license_pct,total_open_issues,days_since_last_push,is_active
+mabelolivera10,MABEL QUISPE OLIVERA,TITANIC SOFT EIRL,"LIMA, PERU",2023-04-21T19:19:11Z,88,720,188,8.181818181818182,1058,30.359168241965975,1197,0,1197,11,2293,"CSS, JavaScript, HTML",3,3,J,1.0,0.0,6,129,False
+devaige,Aige,"Bill Finance Technology Co.,Ltd.","Pampa de Vaca, Torata, Mariscal Nieto  Moquegua 18100, Peru",2014-08-20T14:34:09Z,6,5508,1236,918.0,4224,0.5184659090909091,1178,1,1178.0,3,9158,"Java, Kotlin, JavaScript",4,2,J,0.8333333333333334,0.5,67,2,True
+mriscoc,Miguel Risco-Castillo,PULSAR,"Lima, Peru",2012-11-07T19:46:36Z,33,3531,566,107.0,4875,2.4707692307692306,1110,2,555.0,8,5773,"Pascal, VHDL, Batchfile",13,4,J,0.7272727272727273,0.45454545454545453,23,2,True
+apholdings,SoloPython,SoloPython,"Lima, Peru",2018-10-25T17:31:42Z,54,494,167,9.148148148148149,2697,7.308120133481646,674,0,674,11,1502,"Python, JavaScript, TypeScript",6,5,J,0.3333333333333333,0.09259259259259259,6,396,False
+joelibaceta,Joel Ibaceta,,"Lima, Peru",2011-06-21T16:49:43Z,207,2337,314,11.289855072463768,5380,14.043680297397769,647,1150,0.5626086956521739,11,3612,"Python, Ruby, Jupyter Notebook",21,10,J,0.6714975845410628,0.2560386473429952,119,-1,True
+CodigoEstudiante,Codigo Estudiante,Creator,Peru,2022-03-22T19:05:08Z,139,490,260,3.5251798561151078,1453,34.91741225051617,614,1,614.0,10,1624,"C#, JavaScript, HTML",10,11,J,0.03597122302158273,0.7410071942446043,4,247,False
+csaybar,Cesar Aybar,PhD student in Valencia 🏖️,"Lima, Peru",2016-01-19T00:42:22Z,53,584,257,11.018867924528301,3708,5.217098166127292,555,67,8.283582089552239,8,1653,"R, Jupyter Notebook, Python",8,6,M,0.7358490566037735,0.37735849056603776,38,14,True
+goandreus,Andres Chavez,Citibank,Lima - Peru,2016-12-03T15:11:02Z,140,155,8,1.1071428571428572,3388,15.082644628099173,545,1338,0.40732436472346784,4,716,"Dart, Go, TypeScript",15,6,J,0.9357142857142857,0.02142857142857143,111,106,False
+emedinaa,Eduardo José Medina Alfaro,Mapsalud,"Lima, Peru",2010-06-08T20:15:18Z,155,878,219,5.664516129032258,5758,9.825460229246266,506,761,0.6649145860709592,9,1822,"Java, Kotlin, JavaScript",9,10,J,0.9419354838709677,0.1935483870967742,15,361,False
+dcajasn,Riskfolio,,"Lima, Peru",2020-02-27T01:44:20Z,5,3830,612,766.0,2207,0.8269143633892161,503,0,503,3,5557,"Jupyter Notebook, C++",2,4,P,0.8,0.2,0,6,True
+Franklin369,codigo369.com,codigo369,Peru,2020-04-28T04:36:05Z,137,415,239,3.0291970802919708,2146,23.30149114631873,438,0,438,8,1331,"JavaScript, SCSS, CSS",9,6,J,0.41605839416058393,0.0,3,711,False
+carlosal1015,Oromion,National University of Engineering,"Lima, Peru",2016-08-27T20:07:38Z,0,0,0,0,3486,0.0,423,9716,0.043536434746809384,0,423,,0,0,,0,0,0,,False
+BracoZS,BracoZS,,Peru,2022-02-28T17:33:32Z,0,0,0,0,1475,0.0,354,343,1.032069970845481,0,354,,0,0,,0,0,0,,False
+gustarting,Gustavo Mamani,,"Arequipa, Peru",2021-08-19T13:41:28Z,0,0,0,0,1668,0.0,352,424,0.8301886792452831,0,352,,0,0,,0,0,0,,False
+marco-soria,Marco Antonio,,"Huancayo, Peru",2023-07-06T01:43:17Z,0,0,0,0,982,0.0,350,319,1.09717868338558,0,350,,0,0,,0,0,0,,False
+gianbdev,Giancarlo Silva,,Peru,2024-07-04T20:03:01Z,0,0,0,0,618,0.0,345,450,0.7666666666666667,0,345,,0,0,,0,0,0,,False
+luismayta,Lucho Mayta,SRE at @infosisArg,"Lima, Peru",2011-06-06T21:03:48Z,0,0,0,0,5395,0.0,336,1180,0.2847457627118644,0,336,,0,0,,0,0,0,,False
+JkDevArg,JkDev,,Argentina/Peru,2020-08-20T17:41:32Z,0,0,0,0,2032,0.0,318,244,1.3032786885245902,0,318,,0,0,,0,0,0,,False
+jorgemunozl,Jorge Munoz Lar,@NONHUMAN-SITE,"Lima, Peru",2023-05-13T00:57:13Z,0,0,0,0,1036,0.0,311,1023,0.3040078201368524,0,311,,0,0,,0,0,0,,False
+gcoronelc,Eric Gustavo Coronel Castillo,,PERU,2012-12-27T05:53:54Z,0,0,0,0,4825,0.0,310,0,310,0,310,,0,0,,0,0,0,,False
+Anders87x,AnderCode,AnderCode,Peru,2016-07-11T21:42:39Z,0,0,0,0,3533,0.0,296,8,37.0,0,296,,0,0,,0,0,0,,False
+ivandevp,Ivan Medina,Yalo,"Borned in Lima, Peru",2014-10-17T15:08:45Z,0,0,0,0,4166,0.0,262,87,3.0114942528735633,0,262,,0,0,,0,0,0,,False
+Rimac-Seguros,Rimac Seguros,,Peru,2020-12-21T17:17:22Z,0,0,0,0,1909,0.0,261,0,261,0,261,,0,0,,0,0,0,,False
+ambarja,Antony Barja ,Innovalab - UPCH,"Lima, Peru",2016-11-05T21:51:18Z,0,0,0,0,3416,0.0,257,464,0.5538793103448276,0,257,,0,0,,0,0,0,,False
+Railly,Railly Hugo,@clerk,"Lima, Peru",2019-06-05T06:35:25Z,0,0,0,0,2474,0.0,240,42,5.714285714285714,0,240,,0,0,,0,0,0,,False
+brian-emarquez,Brian Marquez Inca Roca,Universidad Católica de Santa María,Peru,2015-04-07T16:40:19Z,0,0,0,0,3994,0.0,218,605,0.3603305785123967,0,218,,0,0,,0,0,0,,False
+yaperos,Banco de Credito del Peru,Banco de Credito del Peru,Peru,2021-11-24T18:39:58Z,0,0,0,0,1571,0.0,207,0,207,0,207,,0,0,,0,0,0,,False
+marsam,Mario Rodas,,Peru,2009-03-21T13:31:33Z,0,0,0,0,6202,0.0,207,33,6.2727272727272725,0,207,,0,0,,0,0,0,,False
+KattyaCuevas,Kattya Cuevas,,Peru,2013-04-16T20:22:53Z,0,0,0,0,4715,0.0,200,75,2.6666666666666665,0,200,,0,0,,0,0,0,,False
+alexmarinmendez,Alex Marin Mendez,,Peru,2021-01-22T00:26:47Z,0,0,0,0,1878,0.0,176,7,25.142857142857142,0,176,,0,0,,0,0,0,,False
+avelasquezn,Angel Velasquez,,"Lima, Peru",2009-11-18T16:54:06Z,0,0,0,0,5960,0.0,173,2,86.5,0,173,,0,0,,0,0,0,,False
+WelsTheory,Wels Theory,@IGP_ROJ,Lima Peru,2013-01-13T00:19:28Z,0,0,0,0,4809,0.0,172,46,3.739130434782609,0,172,,0,0,,0,0,0,,False
+jmcastagnetto,Jesus M. Castagnetto,,Peru,2010-08-14T23:19:18Z,0,0,0,0,5691,0.0,167,37,4.513513513513513,0,167,,0,0,,0,0,0,,False
+wajahat-ali-mir-dev,Wajahat Ali Mir,Wajahat Ali Mir Solutions ,uk mx ksa drc cog togo cuba peru  pk mali oman usa rsa rok uae mk cod macau laos iraq qatar gabon kosovo haiti benin syria chile niger yemen ghana nepal sudan kenya japan china india egypt italy spain france russia ukraine germany norway sweden finland,2024-01-09T16:10:14Z,0,0,0,0,795,0.0,162,1145,0.14148471615720523,0,162,,0,0,,0,0,0,,False
+marcelo-earth,Marcelo,,Peru,2019-02-20T13:47:09Z,0,0,0,0,2579,0.0,159,63,2.5238095238095237,0,159,,0,0,,0,0,0,,False
+bjrmatos,BJR Matos,,"Lima, Peru",2013-04-26T05:23:34Z,0,0,0,0,4705,0.0,155,38,4.078947368421052,0,155,,0,0,,0,0,0,,False
+jansanchez,Jan Sanchez,FrontEnd Labs,"Lima, Peru",2012-10-22T16:41:06Z,0,0,0,0,4891,0.0,154,314,0.49044585987261147,0,154,,0,0,,0,0,0,,False
+mario21ic,Mario IC,,Lima - Peru,2011-04-19T01:04:17Z,0,0,0,0,5443,0.0,139,496,0.28024193548387094,0,139,,0,0,,0,0,0,,False
+JuanAlva,Juan Esteban Alva Mejía,,"Lima, Peru",2020-11-03T21:00:10Z,0,0,0,0,1957,0.0,136,133,1.0225563909774436,0,136,,0,0,,0,0,0,,False
+santiagourdaneta,Santiago Urdaneta,@firstpointcompany,Peru,2015-03-04T01:12:49Z,0,0,0,0,4028,0.0,133,492,0.2703252032520325,0,133,,0,0,,0,0,0,,False
+JoseMascaros,Jose Mascaro,Universidad Peruana de Ciencias Aplicadas (UPC),"Lima, Peru",2020-03-04T17:16:25Z,0,0,0,0,2201,0.0,125,2,62.5,0,125,,0,0,,0,0,0,,False
+ljporras,Janet Porras,,"Lima, Peru",2020-11-16T17:13:55Z,0,0,0,0,1944,0.0,121,29,4.172413793103448,0,121,,0,0,,0,0,0,,False
+DataEngineering-LATAM,Data Engineering Latam,,Peru,2021-10-24T14:47:53Z,0,0,0,0,1602,0.0,119,0,119,0,119,,0,0,,0,0,0,,False
+jesulink2514,Jesus Angulo,Baufest,"Lima, Peru",2012-09-04T15:50:48Z,0,0,0,0,4939,0.0,117,24,4.875,0,117,,0,0,,0,0,0,,False
+erickorlando,Erick Orlando ©,,Peru,2012-11-26T17:10:14Z,0,0,0,0,4856,0.0,113,13,8.692307692307692,0,113,,0,0,,0,0,0,,False
+crafter-station,Crafter Station,,Peru,2022-12-18T05:04:06Z,0,0,0,0,1182,0.0,111,0,111,0,111,,0,0,,0,0,0,,False
+CodigoCristo,Codigo Cristo ,Personal,Peru,2017-12-14T04:40:47Z,0,0,0,0,3012,0.0,109,3,36.333333333333336,0,109,,0,0,,0,0,0,,False
+geraldmoreno993,Gerald Moreno Morales,Universidad Nacional Mayor de San Marcos,"Lima, Peru",2024-06-01T06:44:01Z,0,0,0,0,651,0.0,109,144,0.7569444444444444,0,109,,0,0,,0,0,0,,False
+giancorzo,Giancarlo Corzo,@culqi,"Lima, Peru",2010-11-29T04:52:02Z,0,0,0,0,5584,0.0,107,24,4.458333333333333,0,107,,0,0,,0,0,0,,False
+aghersidev,Andres Ghersi,InferiaLaboratories,"Lima, Peru",2023-11-13T00:21:24Z,0,0,0,0,853,0.0,106,180,0.5888888888888889,0,106,,0,0,,0,0,0,,False
+GorkyFlorez,Gorky,Universidad Nacional Amazonica de Madre de Dios,Puerto Maldonado - Peru,2021-04-24T17:19:30Z,0,0,0,0,1785,0.0,106,0,106,0,106,,0,0,,0,0,0,,False
+ghondar,Anthony Bryan Gavilan Vinces,@zealltechio,"Lima, Peru",2014-02-09T03:09:58Z,0,0,0,0,4416,0.0,105,148,0.7094594594594594,0,105,,0,0,,0,0,0,,False
+lavaldi,Claudia Valdivieso,@Drafteame,"Lima, Peru",2011-11-26T05:21:56Z,0,0,0,0,5222,0.0,104,88,1.1818181818181819,0,104,,0,0,,0,0,0,,False
+rogergcc,Roger Colquehuanca,,Peru,2016-03-22T13:38:43Z,0,0,0,0,3644,0.0,102,91,1.120879120879121,0,102,,0,0,,0,0,0,,False
+diegotc86,Diego Torres,,"Lima, Peru",2016-11-16T19:56:51Z,0,0,0,0,3405,0.0,99,10,9.9,0,99,,0,0,,0,0,0,,False
+merunga,Mariano Crowe,@lastraperas @escuelab @laboratoria,"Lima, Peru",2010-02-26T21:29:46Z,0,0,0,0,5860,0.0,99,7,14.142857142857142,0,99,,0,0,,0,0,0,,False
+raymi-sm,Raymi Saldomando,,"Lima, Peru",2009-11-20T02:28:08Z,0,0,0,0,5958,0.0,99,13,7.615384615384615,0,99,,0,0,,0,0,0,,False
+romelgomez,Romel Gomez,,Peru,2012-09-16T19:50:25Z,0,0,0,0,4927,0.0,98,592,0.16554054054054054,0,98,,0,0,,0,0,0,,False
+MistyBlunch,Grace Nikole,,Peru,2017-06-09T22:29:06Z,0,0,0,0,3200,0.0,96,59,1.6271186440677967,0,96,,0,0,,0,0,0,,False
+jhony-v,Jhony Vega,,Peru,2019-09-14T12:50:42Z,0,0,0,0,2373,0.0,94,208,0.4519230769230769,0,94,,0,0,,0,0,0,,False
+Dedal0,Camilo Galdos AkA Dedalo,@DeepSecurityResearch ,Peru,2013-08-28T15:34:53Z,0,0,0,0,4581,0.0,93,5,18.6,0,93,,0,0,,0,0,0,,False
+gflores1092,Yera Flores,Miss Yera,"Lima, Peru",2020-03-27T16:14:49Z,0,0,0,0,2178,0.0,93,0,93,0,93,,0,0,,0,0,0,,False
+lalogf,Lalo Gonzalez,@Laboratoria ,"Lima, Peru",2014-08-21T20:03:05Z,0,0,0,0,4223,0.0,92,32,2.875,0,92,,0,0,,0,0,0,,False
+Hydroenvironment,Julio Isaac Montenegro Gambini,,Peru,2017-01-21T23:18:54Z,0,0,0,0,3339,0.0,92,43,2.13953488372093,0,92,,0,0,,0,0,0,,False
+gustavojoaquin,Gustavo Joaquin,,Peru,2021-11-03T16:34:57Z,0,0,0,0,1592,0.0,92,482,0.1908713692946058,0,92,,0,0,,0,0,0,,False
+storres20,Italo Lon kan,Full-Stack Web Developer,PERU,2021-03-28T06:18:36Z,0,0,0,0,1812,0.0,91,207,0.4396135265700483,0,91,,0,0,,0,0,0,,False
+PCPUNMSM,Python Club for Physicists - UNMSM,,Lima - Peru,2019-08-23T08:41:26Z,0,0,0,0,2395,0.0,91,0,91,0,91,,0,0,,0,0,0,,False
+CarlosIgreda,Carlos Jesús Igreda Rivas,Microverse Student,Peru,2022-10-22T05:56:33Z,0,0,0,0,1239,0.0,91,294,0.30952380952380953,0,91,,0,0,,0,0,0,,False
+Jeyderht,Jeyderht,,Peru,2019-11-24T05:56:04Z,0,0,0,0,2302,0.0,87,0,87,0,87,,0,0,,0,0,0,,False
+JosephLlacchua,Joseph Llacchua,Universidad Peruana de Ciencias Aplicadas,Lima-Peru,2023-08-15T14:19:49Z,0,0,0,0,942,0.0,86,82,1.048780487804878,0,86,,0,0,,0,0,0,,False
+marvinjoel,,,Peru,2016-09-30T20:06:39Z,0,0,0,0,3452,0.0,86,59,1.4576271186440677,0,86,,0,0,,0,0,0,,False
+rubenpazch,Ruben Paz Chuspe,Software Engineer ,"Peru, Cusco",2017-06-14T04:43:17Z,0,0,0,0,3195,0.0,86,138,0.6231884057971014,0,86,,0,0,,0,0,0,,False
+Jose-pe,Jose L. Corazao,,Cusco - Peru,2021-08-14T08:46:02Z,0,0,0,0,1673,0.0,85,101,0.8415841584158416,0,85,,0,0,,0,0,0,,False
+adagio,Edu F,HartasCuerdas,"Lima, Peru",2008-04-26T02:00:04Z,0,0,0,0,6531,0.0,83,211,0.3933649289099526,0,83,,0,0,,0,0,0,,False
+edutrul,Eduardo Telaya,Lullabot & heydru!,"Lima, Peru",2012-03-28T04:22:01Z,0,0,0,0,5099,0.0,83,114,0.7280701754385965,0,83,,0,0,,0,0,0,,False
+sheylaPozo,Sʜᴇʏʟᴀ Pᴏᴢᴏ,Freelance Full-stack Developer.,"Tacna, Peru",2019-08-12T05:05:10Z,0,0,0,0,2406,0.0,81,61,1.3278688524590163,0,81,,0,0,,0,0,0,,False
+john-caballero,John Caballero Terrazos,Banco de Crédito del Perú / UTEC,Peru,2019-10-10T05:37:20Z,0,0,0,0,2347,0.0,81,0,81,0,81,,0,0,,0,0,0,,False
+SanAndr3,Nelson Andrea,EliteTranzBiz Intl,Peru,2020-06-03T23:48:17Z,0,0,0,0,2110,0.0,79,41,1.9268292682926829,0,79,,0,0,,0,0,0,,False
+xenda,Xenda,Xenda,"Lima, Peru",2008-08-04T19:16:20Z,0,0,0,0,6431,0.0,79,17,4.647058823529412,0,79,,0,0,,0,0,0,,False
+RogerNatividad,Roger Natividad,,"Lima, Peru",2011-06-03T00:57:39Z,0,0,0,0,5398,0.0,79,42,1.880952380952381,0,79,,0,0,,0,0,0,,False
+rafaesc,Rafael Escala,Metadata.io,Peru,2014-12-15T21:55:16Z,0,0,0,0,4107,0.0,78,27,2.888888888888889,0,78,,0,0,,0,0,0,,False
+ArturoDeza,Arturo,Artificio,"Lima, Peru",2011-12-22T05:19:03Z,0,0,0,0,5196,0.0,77,111,0.6936936936936937,0,77,,0,0,,0,0,0,,False
+no6data,Elvis,,Peru,2024-04-23T04:17:05Z,0,0,0,0,690,0.0,77,70,1.1,0,77,,0,0,,0,0,0,,False
+juaneladio,Juan Eladio Sanchez Rosas,Ensoluciona,"Lima, Peru",2011-01-04T22:22:47Z,0,0,0,0,5548,0.0,76,36,2.111111111111111,0,76,,0,0,,0,0,0,,False
+gnrfan,Antonio Ognio,Bit Zeppelin S.A.C.,"Lima, Peru",2008-04-11T15:25:12Z,0,0,0,0,6546,0.0,73,2,36.5,0,73,,0,0,,0,0,0,,False
+robintux,Abraham Zamudio Chauca,GMMNS,Lima - Peru,2011-05-25T02:28:44Z,0,0,0,0,5407,0.0,72,224,0.32142857142857145,0,72,,0,0,,0,0,0,,False
+GeomarPerales,Geomar Perales Apaico,,Peru,2017-06-25T00:42:39Z,0,0,0,0,3185,0.0,72,262,0.2748091603053435,0,72,,0,0,,0,0,0,,False
+lgcarlinf,luiggy carlin,,Peru,2020-11-12T21:16:24Z,0,0,0,0,1948,0.0,72,40,1.8,0,72,,0,0,,0,0,0,,False
+Open-Sec,Open Sec,Open-Sec,Peru,2013-08-28T18:31:04Z,0,0,0,0,4581,0.0,71,2,35.5,0,71,,0,0,,0,0,0,,False
+olanaso,Erick Simón Escalante Olano,MTC DDP,Lima Peru,2013-05-21T21:51:17Z,0,0,0,0,4680,0.0,69,108,0.6388888888888888,0,69,,0,0,,0,0,0,,False
+CS2031-DBP,,,Peru,2023-08-15T07:04:30Z,0,0,0,0,942,0.0,68,0,68,0,68,,0,0,,0,0,0,,False
+CoreyKaylor,Corey Kaylor,,"Lima, Peru",2009-08-31T15:10:18Z,0,0,0,0,6039,0.0,67,5,13.4,0,67,,0,0,,0,0,0,,False
+JoshDev1205,Josh Ospina Tafur,,Lima-Peru,2016-08-07T00:27:00Z,0,0,0,0,3507,0.0,67,48,1.3958333333333333,0,67,,0,0,,0,0,0,,False
+ederivero,Eduardo de Rivero Manrique,RAVN,"Arequipa, Peru",2013-06-23T23:43:56Z,0,0,0,0,4647,0.0,67,12,5.583333333333333,0,67,,0,0,,0,0,0,,False
+jamesrhurtado,James Hurtado,WTW,Peru,2019-07-10T23:59:49Z,0,0,0,0,2439,0.0,66,11,6.0,0,66,,0,0,,0,0,0,,False
+yusshu,Andre Roldan,@unnamed,Peru,2018-12-09T17:42:24Z,0,0,0,0,2652,0.0,65,14,4.642857142857143,0,65,,0,0,,0,0,0,,False
+ernestcr,"Professor Ernesto C.R., George Washington University (www.gwu.edu)",George Washington University/Harvard,United States/Switzerland/Peru/Argentina,2015-04-19T16:34:41Z,0,0,0,0,3982,0.0,64,173,0.3699421965317919,0,64,,0,0,,0,0,0,,False
+xavimondev,Xavier Alfaro,,Peru,2020-07-24T03:06:34Z,0,0,0,0,2059,0.0,63,17,3.7058823529411766,0,63,,0,0,,0,0,0,,False
+jonathanchaveze,Jonathan Chavez,,Peru,2011-08-12T17:36:29Z,0,0,0,0,5328,0.0,63,1,63.0,0,63,,0,0,,0,0,0,,False
+Grazen0,José Daniel Grayson,UTEC,Peru,2020-07-25T22:11:35Z,0,0,0,0,2058,0.0,63,79,0.7974683544303798,0,63,,0,0,,0,0,0,,False
+carlosgub,Carlos Ugaz,Yape,"Lima, Peru",2017-08-11T02:33:59Z,0,0,0,0,3137,0.0,62,18,3.4444444444444446,0,62,,0,0,,0,0,0,,False
+JulianB0315,Julian Burga Bracamonte,,"Chiclayo, Peru 🇵🇪",2024-06-13T00:52:03Z,0,0,0,0,640,0.0,62,4,15.5,0,62,,0,0,,0,0,0,,False
+defunkydrummer,defunkydrummer,Fintech company,Peru,2017-06-07T16:48:47Z,0,0,0,0,3202,0.0,62,68,0.9117647058823529,0,62,,0,0,,0,0,0,,False
+bralegz,Bryan Alegria,,Peru,2021-05-28T01:50:55Z,0,0,0,0,1751,0.0,62,82,0.7560975609756098,0,62,,0,0,,0,0,0,,False
+pablodz,Pablo,,Peru,2017-04-30T21:43:47Z,0,0,0,0,3240,0.0,62,27,2.2962962962962963,0,62,,0,0,,0,0,0,,False
+edwinpgm,Edwin Gonzales,,"Trujillo, Peru",2013-01-11T15:23:18Z,0,0,0,0,4810,0.0,60,27,2.2222222222222223,0,60,,0,0,,0,0,0,,False
+Dav082004,David Angel Contreras Palacios,@dsc.utp,Peru,2020-10-23T01:07:28Z,0,0,0,0,1968,0.0,60,47,1.2765957446808511,0,60,,0,0,,0,0,0,,False
+neunapp,Neunapp,Neunapp,Cusco-Peru,2015-09-01T22:02:11Z,0,0,0,0,3847,0.0,60,1,60.0,0,60,,0,0,,0,0,0,,False
+KatashiFukushima,Katashi Fukushima ,KatashiBot-MD,Peru,2022-03-09T03:49:53Z,0,0,0,0,1466,0.0,59,12,4.916666666666667,0,59,,0,0,,0,0,0,,False
+juliocesardw,,,Peru,2020-06-24T16:29:57Z,0,0,0,0,2089,0.0,59,0,59,0,59,,0,0,,0,0,0,,False
+raul782,Raul Rodriguez,BesselSolutions,"Lima,Peru",2010-01-13T17:16:59Z,0,0,0,0,5904,0.0,59,153,0.38562091503267976,0,59,,0,0,,0,0,0,,False
+OVarLaz,Olenka Vargas Lazarte,RAVN,Peru,2015-06-09T19:33:35Z,0,0,0,0,3931,0.0,58,57,1.0175438596491229,0,58,,0,0,,0,0,0,,False
+KenyiGM,,,Peru,2021-10-01T02:11:52Z,0,0,0,0,1625,0.0,58,68,0.8529411764705882,0,58,,0,0,,0,0,0,,False
+ManuelLoaizaV,Manuel Loaiza Vasquez,,"Lima, Peru",2016-05-14T23:08:08Z,0,0,0,0,3591,0.0,58,24,2.4166666666666665,0,58,,0,0,,0,0,0,,False
+Oxicode,Christian Quispe H,BCP,Lima Peru,2012-01-11T05:44:20Z,0,0,0,0,5176,0.0,58,168,0.34523809523809523,0,58,,0,0,,0,0,0,,False
+ytarazona,Yonatan Tarazona Coronel,,"Lima, Peru",2016-05-04T16:40:26Z,0,0,0,0,3601,0.0,57,11,5.181818181818182,0,57,,0,0,,0,0,0,,False
+macespinoza,Miguel Cotrina,DigisoftPeru,"Lima, Peru",2013-12-01T16:25:26Z,0,0,0,0,4486,0.0,57,1,57.0,0,57,,0,0,,0,0,0,,False
+juanpablocs,Juan pablo,@pedidosya,"Lima, Peru",2014-10-19T22:09:50Z,0,0,0,0,4164,0.0,57,60,0.95,0,57,,0,0,,0,0,0,,False
+rrivas-utec,,UTEC,Lima Peru,2017-04-18T15:49:58Z,0,0,0,0,3252,0.0,56,0,56,0,56,,0,0,,0,0,0,,False
+nelson6e65,Nelson Martell,@elegantech,"Peru, Lima",2014-10-16T18:50:07Z,0,0,0,0,4167,0.0,56,78,0.717948717948718,0,56,,0,0,,0,0,0,,False
+heygonzalocaira,Gonzalo Caira,,Peru-Arequipa,2016-08-22T23:03:32Z,0,0,0,0,3491,0.0,56,23,2.4347826086956523,0,56,,0,0,,0,0,0,,False
+RuthSalvador,Ruth Abigail Salvador Zorrilla,,Peru,2017-02-20T16:23:15Z,0,0,0,0,3309,0.0,56,40,1.4,0,56,,0,0,,0,0,0,,False
+jchavezlavalle,Joana Chavez,,Peru,2012-09-04T12:49:23Z,0,0,0,0,4939,0.0,56,151,0.3708609271523179,0,56,,0,0,,0,0,0,,False
+Ryzeon,Alex Avila,,Peru,2020-02-12T17:56:10Z,0,0,0,0,2222,0.0,56,65,0.8615384615384616,0,56,,0,0,,0,0,0,,False
+elbereth,Alexandre Devilliers,,Peru,2012-04-11T09:15:07Z,0,0,0,0,5085,0.0,55,0,55,0,55,,0,0,,0,0,0,,False
+UTPcursos,UTP CURSOS,,Peru,2023-09-26T17:00:56Z,0,0,0,0,900,0.0,54,0,54,0,54,,0,0,,0,0,0,,False
+CriscelyLP,Criscely Luján Paredes,Université Paris Saclay,Lima - Peru,2014-01-26T00:15:18Z,0,0,0,0,4431,0.0,54,69,0.782608695652174,0,54,,0,0,,0,0,0,,False
+JaimeVirrueta,Jaime D. Virrueta Fuentes,Globant,Peru,2016-05-26T01:14:45Z,0,0,0,0,3579,0.0,53,48,1.1041666666666667,0,53,,0,0,,0,0,0,,False
+lvaldivia,Luis,Masuno,"Lima, Peru",2013-01-07T19:44:13Z,0,0,0,0,4814,0.0,53,9,5.888888888888889,0,53,,0,0,,0,0,0,,False
+JoanBEnd,Joan Paredes,,Peru,2019-08-24T16:46:36Z,0,0,0,0,2394,0.0,53,31,1.7096774193548387,0,53,,0,0,,0,0,0,,False
+Android-Dev-Peru,Android Dev Peru,,Peru,2016-08-11T19:57:05Z,0,0,0,0,3502,0.0,52,0,52,0,52,,0,0,,0,0,0,,False
+allisonvp,Allison Velarde Polar,,"Lima, Peru",2019-09-27T23:38:41Z,0,0,0,0,2360,0.0,52,40,1.3,0,52,,0,0,,0,0,0,,False
+PaulGuillen,Paul Guillen Acuña,,"Lima,Peru",2018-09-08T20:15:23Z,0,0,0,0,2744,0.0,52,20,2.6,0,52,,0,0,,0,0,0,,False
+franciscorosales-marticorena,Francisco Rosales Marticorena,CIUP,Peru,2017-10-06T14:06:54Z,0,0,0,0,3081,0.0,51,0,51,0,51,,0,0,,0,0,0,,False
+donycisne,Dony Cisneros,,"Lima, Peru",2016-07-18T12:21:58Z,0,0,0,0,3526,0.0,51,232,0.21982758620689655,0,51,,0,0,,0,0,0,,False
+geografope, GeógrafoPE| #Geocomputacion #CienciaDeDatosEspaciales,,Peru,2023-11-14T22:02:20Z,0,0,0,0,851,0.0,51,0,51,0,51,,0,0,,0,0,0,,False
+omarbenites,Omar Benites Alfaro,METRIKA,Lima-Peru,2013-08-19T20:51:14Z,0,0,0,0,4590,0.0,50,70,0.7142857142857143,0,50,,0,0,,0,0,0,,False
+puentesarrin,Jorge Puente-Sarrín,@RebelMouseTeam ,Peru,2010-07-02T21:50:22Z,0,0,0,0,5734,0.0,49,24,2.0416666666666665,0,49,,0,0,,0,0,0,,False
+ErickChacon,Dr. Erick A. Chacón Montalván,,"Lima, Peru",2014-06-11T17:30:39Z,0,0,0,0,4294,0.0,49,15,3.2666666666666666,0,49,,0,0,,0,0,0,,False
+gcavanunez,Guillermo Cava,,"Lima, Peru",2014-10-21T07:31:48Z,0,0,0,0,4162,0.0,49,254,0.19291338582677164,0,49,,0,0,,0,0,0,,False
+kevins-projects,Kevin's projects,,Peru,2023-01-08T19:16:00Z,0,0,0,0,1161,0.0,48,0,48,0,48,,0,0,,0,0,0,,False
+kandra,Karen Da Cruz,,"Lima, Peru",2011-12-14T01:27:06Z,0,0,0,0,5204,0.0,48,0,48,0,48,,0,0,,0,0,0,,False
+taldr27,Diego Garcia,Full Stack Developer,Peru,2022-06-21T18:44:31Z,0,0,0,0,1362,0.0,47,8,5.875,0,47,,0,0,,0,0,0,,False
+hsztan,Henry Nawrocki Sztanski,@targettestprep,"Lima, Peru",2018-12-05T02:13:02Z,0,0,0,0,2656,0.0,47,13,3.6153846153846154,0,47,,0,0,,0,0,0,,False
+VScode,Victor Salazar,,Peru,2014-07-11T17:01:00Z,0,0,0,0,4264,0.0,47,3,15.666666666666666,0,47,,0,0,,0,0,0,,False
+atejada,Blag,,"Lima, Peru",2011-09-22T13:56:59Z,0,0,0,0,5287,0.0,47,15,3.1333333333333333,0,47,,0,0,,0,0,0,,False
+EDavidAQ,David Allende Quintana,,"Lima, Peru",2016-08-27T23:00:24Z,0,0,0,0,3486,0.0,47,17,2.764705882352941,0,47,,0,0,,0,0,0,,False
+lcajachahua,Luis C,@Credicorp,Peru,2014-04-08T17:18:42Z,0,0,0,0,4358,0.0,46,6,7.666666666666667,0,46,,0,0,,0,0,0,,False
+kennyhorna,Kenny Horna,ABOUT YOU GmbH / QBK LABS,Peru,2015-12-02T21:42:58Z,0,0,0,0,3755,0.0,46,32,1.4375,0,46,,0,0,,0,0,0,,False
+xorb,Dany,,Peru,2018-05-22T03:54:33Z,0,0,0,0,2853,0.0,46,4,11.5,0,46,,0,0,,0,0,0,,False
+Alejandro1709,Alejandro,,"Lima, Peru",2020-04-20T18:36:06Z,0,0,0,0,2154,0.0,46,91,0.5054945054945055,0,46,,0,0,,0,0,0,,False
+wilsonvargas,Wilson Vargas,,Peru,2016-09-16T22:01:08Z,0,0,0,0,3466,0.0,45,5,9.0,0,45,,0,0,,0,0,0,,False
+JPachecoZ,Javier Pacheco,Codeable,"Lima, Peru",2021-10-07T21:56:35Z,0,0,0,0,1619,0.0,45,27,1.6666666666666667,0,45,,0,0,,0,0,0,,False
+healthinnovation,Health Innovation Laboratory - InnovaLab,,"Lima, Peru",2019-01-19T00:10:20Z,0,0,0,0,2612,0.0,45,0,45,0,45,,0,0,,0,0,0,,False
+paucaro,Paula Asto,Smart Reasons,"Arequipa, Peru",2015-08-27T15:16:46Z,0,0,0,0,3852,0.0,45,8,5.625,0,45,,0,0,,0,0,0,,False
+lordksix,Wladimir Pasquel,Juubix,"Lima, Peru",2022-12-30T18:22:43Z,0,0,0,0,1170,0.0,45,28,1.6071428571428572,0,45,,0,0,,0,0,0,,False
+jsatch,Hernan Quintana,Universidad de Lima,"Lima, Peru",2013-05-31T05:35:25Z,0,0,0,0,4670,0.0,45,1,45.0,0,45,,0,0,,0,0,0,,False
+kevinrodbe,Kevin Rodríguez,kevinrodbe,"Lima, Peru",2014-03-25T21:05:48Z,0,0,0,0,4372,0.0,44,183,0.24043715846994534,0,44,,0,0,,0,0,0,,False
+jkelvie,John Kelvie,@bespoken ,"Lima, Peru",2008-07-16T18:55:31Z,0,0,0,0,6450,0.0,44,1,44.0,0,44,,0,0,,0,0,0,,False
+karenciita,,,Peru,2019-11-12T08:03:02Z,0,0,0,0,2314,0.0,44,1,44.0,0,44,,0,0,,0,0,0,,False
+2003scott,Diego Scott,,Peru,2022-02-13T09:12:32Z,0,0,0,0,1490,0.0,44,20,2.2,0,44,,0,0,,0,0,0,,False
+f1729,Luis,,Peru,2016-11-06T20:15:23Z,0,0,0,0,3415,0.0,44,68,0.6470588235294118,0,44,,0,0,,0,0,0,,False
+maybemarhs,Maybemarhs,,Peru,2020-03-12T20:23:53Z,0,0,0,0,2193,0.0,43,2,21.5,0,43,,0,0,,0,0,0,,False
+Aquima,RAUL QUISPE,QuimaLabs,Lima-Peru,2012-07-21T15:20:23Z,0,0,0,0,4984,0.0,43,46,0.9347826086956522,0,43,,0,0,,0,0,0,,False
+george124816,George Rodrigues,@stone-payments,"Lima, Peru",2017-03-15T19:44:37Z,0,0,0,0,3286,0.0,43,73,0.589041095890411,0,43,,0,0,,0,0,0,,False
+desdelinux,Luigys [Vauxoo],Vauxoo,Peru,2019-05-22T17:38:36Z,0,0,0,0,2488,0.0,43,16,2.6875,0,43,,0,0,,0,0,0,,False
+asullom,Angel Sullon,,"Juliaca, Peru",2013-01-15T23:02:34Z,0,0,0,0,4806,0.0,42,0,42,0,42,,0,0,,0,0,0,,False
+DanielEdu,Daniel Eduardo Portugal Revilla,Yape,Arequipa - Peru,2014-05-10T17:44:08Z,0,0,0,0,4326,0.0,42,19,2.210526315789474,0,42,,0,0,,0,0,0,,False
+claydergc,Clayder Gonzalez,,Peru,2015-02-19T04:16:45Z,0,0,0,0,4041,0.0,42,30,1.4,0,42,,0,0,,0,0,0,,False
+edwinrhc,Edwin HC,,"Lima,Peru",2017-11-14T16:54:53Z,0,0,0,0,3042,0.0,42,62,0.6774193548387096,0,42,,0,0,,0,0,0,,False
+ccarruitero,César Carruitero,,Peru,2011-11-18T02:18:38Z,0,0,0,0,5230,0.0,42,0,42,0,42,,0,0,,0,0,0,,False
+hllauca,Harold Llauca,SENAMHI,PERU,2014-10-24T16:21:43Z,0,0,0,0,4159,0.0,42,7,6.0,0,42,,0,0,,0,0,0,,False
+eporroa,Erik Porroa,,"Lima, Peru",2010-02-17T02:26:02Z,0,0,0,0,5869,0.0,41,57,0.7192982456140351,0,41,,0,0,,0,0,0,,False
+xzitlou,Lou Alcalá,Yout LLC,Peru,2012-06-28T15:50:02Z,0,0,0,0,5007,0.0,41,4,10.25,0,41,,0,0,,0,0,0,,False
+felipechang,Felipe Chang,Canica Peru,"Lima, Peru.",2017-11-22T02:31:19Z,0,0,0,0,3034,0.0,41,70,0.5857142857142857,0,41,,0,0,,0,0,0,,False
+Cuica20,Javier Richard Cuicapuza Antonio,https://twitter.com/JavierCuicapuza,Lima  - Peru,2013-09-02T03:36:15Z,0,0,0,0,4576,0.0,40,33,1.2121212121212122,0,40,,0,0,,0,0,0,,False
+CristianLlanos,Cristian Llanos,,Peru,2014-02-05T13:55:37Z,0,0,0,0,4420,0.0,40,21,1.9047619047619047,0,40,,0,0,,0,0,0,,False
+FooTalentGroup,Foo Talent Group,,Peru,2022-12-07T03:50:20Z,0,0,0,0,1193,0.0,40,0,40,0,40,,0,0,,0,0,0,,False
+hebertdev,hebert villafuerte,Tinku Labs,Arequipa - Peru,2017-08-25T22:36:17Z,0,0,0,0,3123,0.0,39,4,9.75,0,39,,0,0,,0,0,0,,False
+JosueDurand96,Josué Durand Pebe,Mobile Developer,Peru Lima,2018-04-05T20:32:42Z,0,0,0,0,2900,0.0,39,50,0.78,0,39,,0,0,,0,0,0,,False
+piero-vic,Piero Lescano,,"Lima, Peru",2020-09-11T22:35:04Z,0,0,0,0,2010,0.0,39,40,0.975,0,39,,0,0,,0,0,0,,False
+damariis13,Damaris D.,UPC,"Lima, Peru",2020-11-22T18:43:16Z,0,0,0,0,1938,0.0,39,18,2.1666666666666665,0,39,,0,0,,0,0,0,,False
+Kevincarlosqa,Kevin Quispe Aquise,,Arequipa - Peru,2022-10-18T05:13:38Z,0,0,0,0,1243,0.0,39,403,0.0967741935483871,0,39,,0,0,,0,0,0,,False
+And0re,André Távara,@codeableorg,"Lima, Peru",2017-04-22T02:20:16Z,0,0,0,0,3248,0.0,39,43,0.9069767441860465,0,39,,0,0,,0,0,0,,False
+mysticBel,Maribel Maza,,"Lima, Peru",2021-03-15T01:33:32Z,0,0,0,0,1825,0.0,39,39,1.0,0,39,,0,0,,0,0,0,,False
+dairdev,Dennis,,Peru,2011-11-02T03:05:26Z,0,0,0,0,5246,0.0,38,80,0.475,0,38,,0,0,,0,0,0,,False
+yuslinandev,<yuslinan.dev>,RibosoMatic,Peru,2014-05-06T22:14:17Z,0,0,0,0,4330,0.0,38,0,38,0,38,,0,0,,0,0,0,,False
+shiarauzo,shiara arauzo,@crafter-station ,Peru,2018-09-10T16:43:58Z,0,0,0,0,2742,0.0,38,49,0.7755102040816326,0,38,,0,0,,0,0,0,,False
+Kelvin-Joel,Joel Ventura,,Chiclayo Peru ,2019-03-20T02:16:49Z,0,0,0,0,2551,0.0,38,5,7.6,0,38,,0,0,,0,0,0,,False
+MAGALLANESJoseManuel,Jose Manuel MAGALLANES,Pontificia Universidad Catolica del Peru / George Mason University,PERU / USA,2014-03-30T23:40:35Z,0,0,0,0,4367,0.0,38,0,38,0,38,,0,0,,0,0,0,,False
+javierayalar,Javier Ayala Rojas,Data Engineer,"Lima, Peru",2021-04-25T17:31:31Z,0,0,0,0,1784,0.0,37,41,0.9024390243902439,0,37,,0,0,,0,0,0,,False
+jhonatanmacazana,Jhonatan Macazana,Synapbox,"Lima, Peru",2019-01-03T18:25:24Z,0,0,0,0,2627,0.0,37,89,0.4157303370786517,0,37,,0,0,,0,0,0,,False
+zmandel,Zig Mandel,,Peru,2013-05-07T13:44:55Z,0,0,0,0,4694,0.0,37,7,5.285714285714286,0,37,,0,0,,0,0,0,,False
+javsan77,Javier Sanchez Ayte,,Peru,2012-03-15T21:05:59Z,0,0,0,0,5112,0.0,37,131,0.2824427480916031,0,37,,0,0,,0,0,0,,False
+tavolafourcade,Octavio Lafourcade,,Peru,2020-04-06T18:03:08Z,0,0,0,0,2168,0.0,36,5,7.2,0,36,,0,0,,0,0,0,,False
+mokuzaru,Kenny,Deustodia,"Lima, Peru",2014-02-08T16:04:19Z,0,0,0,0,4417,0.0,36,2,18.0,0,36,,0,0,,0,0,0,,False
+NunezGabriel,Gabriel Nunez,,Peru,2019-06-13T15:59:44Z,0,0,0,0,2466,0.0,36,38,0.9473684210526315,0,36,,0,0,,0,0,0,,False
+joaohenry23,Joao Huamán,SENAMHI,"Lima, Peru",2019-07-19T22:54:59Z,0,0,0,0,2430,0.0,36,1,36.0,0,36,,0,0,,0,0,0,,False
+sergiomauz,Sergio Zambrano,Full-Stack Developer,"Tacna, Peru",2018-02-25T10:09:07Z,0,0,0,0,2939,0.0,36,38,0.9473684210526315,0,36,,0,0,,0,0,0,,False
+alonsofalconi,Alonso Falconi,,"Lima, Peru",2021-03-28T15:04:25Z,0,0,0,0,1812,0.0,36,24,1.5,0,36,,0,0,,0,0,0,,False
+nestoraudante,Nestor Audante,,Peru,2015-03-30T16:42:16Z,0,0,0,0,4002,0.0,35,12,2.9166666666666665,0,35,,0,0,,0,0,0,,False
+kerpie,Kerry,Studio 14,"Tacna, Peru",2011-10-09T11:23:40Z,0,0,0,0,5270,0.0,35,0,35,0,35,,0,0,,0,0,0,,False
+android-sos,Samuel Ospina,NTTData,"Peru, Lima.",2014-01-02T15:42:48Z,0,0,0,0,4454,0.0,35,26,1.3461538461538463,0,35,,0,0,,0,0,0,,False
+FatimaGR,Fátima Gallardo,,"Lima, Peru",2022-02-02T03:09:22Z,0,0,0,0,1501,0.0,35,57,0.6140350877192983,0,35,,0,0,,0,0,0,,False
+adelgadop,Alejandro Delgado (Jano),University of São Paulo,"Chapel Hill (USA), São Paulo (Brazil), Lima (Peru), Cajamarca (Peru)",2019-07-12T17:01:42Z,0,0,0,0,2437,0.0,35,32,1.09375,0,35,,0,0,,0,0,0,,False
+CatRivas,Catherine Rivas,,"Lima, Peru",2023-02-13T23:39:52Z,0,0,0,0,1125,0.0,35,53,0.660377358490566,0,35,,0,0,,0,0,0,,False
+edgefirst-dev,Edge-first,,Peru,2024-05-12T07:19:05Z,0,0,0,0,671,0.0,35,0,35,0,35,,0,0,,0,0,0,,False
+jhonrolyol,Jhon Roly ,UNSCH-UNMSM-UNI,"Ayacucho, Peru",2021-10-10T09:53:01Z,0,0,0,0,1616,0.0,35,735,0.047619047619047616,0,35,,0,0,,0,0,0,,False
+SenatiTeam, Comunidad Senatina,,Peru,2023-10-18T08:35:12Z,0,0,0,0,878,0.0,34,0,34,0,34,,0,0,,0,0,0,,False
+ivanbadthings,໒꒱𓈒ৎ◞HeavenlyDeath / Ivan﹐︶﹐⺌,howamisupposedtousegithub,⊹ꜛ﹒✩★﹐Peru˚ִִ𓈒꒱꒱,2024-12-29T02:50:32Z,0,0,0,0,440,0.0,34,14,2.4285714285714284,0,34,,0,0,,0,0,0,,False
+Danielalab,Daniela Gonzales,,Peru,2017-09-26T03:32:59Z,0,0,0,0,3091,0.0,34,11,3.090909090909091,0,34,,0,0,,0,0,0,,False
+DeveloperRafael1996,Rafael Guevara Aller,@Lervisoft,Peru,2017-10-05T17:12:24Z,0,0,0,0,3082,0.0,34,11,3.090909090909091,0,34,,0,0,,0,0,0,,False
+gustavocadev,Gustavo CA,,Peru,2021-05-19T00:23:08Z,0,0,0,0,1761,0.0,34,135,0.2518518518518518,0,34,,0,0,,0,0,0,,False
+dannxvc,Danna Vila,,"Lima, Peru",2021-07-28T01:36:20Z,0,0,0,0,1690,0.0,34,20,1.7,0,34,,0,0,,0,0,0,,False
+mig1098,miglio esaud,,"Peru, Lima",2013-04-10T12:28:18Z,0,0,0,0,4721,0.0,33,76,0.4342105263157895,0,33,,0,0,,0,0,0,,False
+sochologa,Mariana Linares Olivera ,BRUTALES XYZ,"Lima, Peru",2022-09-30T14:32:48Z,0,0,0,0,1261,0.0,33,37,0.8918918918918919,0,33,,0,0,,0,0,0,,False
+JuanDiegoGuerra,Juan Diego Guerra,Full-Stack Developer,Peru,2018-12-09T05:09:25Z,0,0,0,0,2652,0.0,33,17,1.9411764705882353,0,33,,0,0,,0,0,0,,False
+Wesitos,Pedro Palacios Avila,,"Lima, Peru",2011-03-04T14:11:01Z,0,0,0,0,5489,0.0,33,26,1.2692307692307692,0,33,,0,0,,0,0,0,,False
+d4n3436,d4n,,Peru,2018-06-06T04:07:22Z,0,0,0,0,2838,0.0,33,2,16.5,0,33,,0,0,,0,0,0,,False
+AlexanderPrincipe,Alexander Príncipe Tolentino,BBVA Perú,"Peru, Lima",2017-08-21T13:52:17Z,0,0,0,0,3127,0.0,33,39,0.8461538461538461,0,33,,0,0,,0,0,0,,False
+Vallejoanderson,Anderson Vallejo,,"Lima, Peru",2019-03-17T13:26:43Z,0,0,0,0,2554,0.0,33,12,2.75,0,33,,0,0,,0,0,0,,False
+jcmachicao,Jose Machicao,GestioDinamica,"Lima, Peru",2014-05-06T05:03:11Z,0,0,0,0,4330,0.0,33,13,2.5384615384615383,0,33,,0,0,,0,0,0,,False
+VilmaRomero,Vilma Romero,University of Lima,"Lima, Peru",2014-06-11T17:33:45Z,0,0,0,0,4294,0.0,33,22,1.5,0,33,,0,0,,0,0,0,,False
+jaime-olivares,Jaime Olivares,"Efferent, Inc.","Lima, Peru",2013-12-16T04:58:39Z,0,0,0,0,4471,0.0,33,1,33.0,0,33,,0,0,,0,0,0,,False
+AlonsoErnesto,3RN35T0#93,Dev-KitTop,Peru,2019-01-05T16:10:40Z,0,0,0,0,2625,0.0,33,55,0.6,0,33,,0,0,,0,0,0,,False
+valec3,Victor Maye,,Peru,2021-12-05T16:23:09Z,0,0,0,0,1560,0.0,33,67,0.4925373134328358,0,33,,0,0,,0,0,0,,False
+MrJmpl3,José Manuel Casani Guerra,@GLEN-SOFT ,Peru,2016-08-29T04:40:55Z,0,0,0,0,3484,0.0,32,39,0.8205128205128205,0,32,,0,0,,0,0,0,,False
+PeterTXS09,Peter Montalvo Garcia,@PeterTXS ,Peru,2018-09-07T14:25:37Z,0,0,0,0,2745,0.0,32,2,16.0,0,32,,0,0,,0,0,0,,False
+larc,Luciano A. Romero Calla,UTEC,"Lima, Peru",2013-05-23T18:46:52Z,0,0,0,0,4678,0.0,32,23,1.391304347826087,0,32,,0,0,,0,0,0,,False
+javier545dev,Javier Fuentes,,Peru,2021-01-30T01:18:27Z,0,0,0,0,1869,0.0,32,96,0.3333333333333333,0,32,,0,0,,0,0,0,,False
+Mateo-tem,Mateo-tem,,"Lima, Peru",2021-02-13T17:00:32Z,0,0,0,0,1855,0.0,32,11,2.909090909090909,0,32,,0,0,,0,0,0,,False
+PatrickZurita,Patrick Zurita,UPC,"Lima, Peru",2020-09-19T04:38:16Z,0,0,0,0,2002,0.0,32,61,0.5245901639344263,0,32,,0,0,,0,0,0,,False
+NextKool,NextKool,NextKool,Peru,2021-12-27T02:09:36Z,0,0,0,0,1538,0.0,32,1,32.0,0,32,,0,0,,0,0,0,,False
+paulrrdiaz,Paúl Díaz Navarrete,,"Lima, Peru",2012-01-22T03:39:56Z,0,0,0,0,5165,0.0,32,15,2.1333333333333333,0,32,,0,0,,0,0,0,,False
+nxvl,Nicolas Valcarcel,@SemanticSugar ,Lima - Peru,2011-04-18T06:21:52Z,0,0,0,0,5444,0.0,31,0,31,0,31,,0,0,,0,0,0,,False
+ex,me,,Lima - Peru,2009-06-26T05:45:50Z,0,0,0,0,6105,0.0,31,18,1.7222222222222223,0,31,,0,0,,0,0,0,,False
+malpicado,Malpicado,,Peru,2021-08-23T23:53:59Z,0,0,0,0,1664,0.0,31,0,31,0,31,,0,0,,0,0,0,,False
+jmoralesv,Jorge Morales,"MgSc Software Engineer, Freelance","Lima, Peru",2012-08-28T17:10:08Z,0,0,0,0,4946,0.0,31,126,0.24603174603174602,0,31,,0,0,,0,0,0,,False
+gabrielajavier,Gabriela Javier,,Lima Peru,2015-03-20T14:40:02Z,0,0,0,0,4012,0.0,31,7,4.428571428571429,0,31,,0,0,,0,0,0,,False
+pierorolando1,Piero Rolando,,Peru,2020-10-01T18:21:23Z,0,0,0,0,1990,0.0,31,55,0.5636363636363636,0,31,,0,0,,0,0,0,,False
+neofutur,Neo Futur,http://ww7.pe,Peru,2010-07-09T21:01:20Z,0,0,0,0,5727,0.0,31,56,0.5535714285714286,0,31,,0,0,,0,0,0,,False
+haroldeustaquio,Harold Eustaquio,Universidad Nacional de Ingeniería,Peru,2023-07-08T11:59:48Z,0,0,0,0,980,0.0,30,2,15.0,0,30,,0,0,,0,0,0,,False
+LuisDev2001,Aldair QR,Talana,"Lima, Peru",2019-08-26T18:28:03Z,0,0,0,0,2392,0.0,30,8,3.75,0,30,,0,0,,0,0,0,,False
+chijure,Jhuan Reategui Solis,,peru,2014-05-12T01:12:21Z,0,0,0,0,4324,0.0,30,233,0.12875536480686695,0,30,,0,0,,0,0,0,,False
+Vilduis,Vilder Luis Sandoval Verde,,"Lince, Lima, Peru",2021-09-09T16:09:30Z,0,0,0,0,1647,0.0,30,17,1.7647058823529411,0,30,,0,0,,0,0,0,,False
+PaulESantos,Paul Efren,,Cusco - Peru,2016-01-23T03:20:36Z,0,0,0,0,3703,0.0,30,46,0.6521739130434783,0,30,,0,0,,0,0,0,,False
+annaabsi,Anna Absi,,"Lima, Peru",2017-02-26T21:08:48Z,0,0,0,0,3303,0.0,30,36,0.8333333333333334,0,30,,0,0,,0,0,0,,False
+jcaramantin,Jhoan Caramantin,,"Callao,Lima,Peru",2019-04-06T16:26:11Z,0,0,0,0,2534,0.0,29,99,0.29292929292929293,0,29,,0,0,,0,0,0,,False
+dalessandro07,Diego Alessandro Rios Villegas,,Peru,2021-09-01T13:34:08Z,0,0,0,0,1655,0.0,29,41,0.7073170731707317,0,29,,0,0,,0,0,0,,False
+edeustua,J. Emiliano Deustua,@examol-corp,"Lima, Peru",2013-11-20T01:19:39Z,0,0,0,0,4497,0.0,29,82,0.35365853658536583,0,29,,0,0,,0,0,0,,False
+jeandelacruz,Jeancarlos De la Cruz Criollo,@alicorp,Lima - Peru,2014-03-30T21:04:31Z,0,0,0,0,4367,0.0,29,4,7.25,0,29,,0,0,,0,0,0,,False
+marcomnrq,Marco Manrique,,"Lima, Peru.",2020-04-16T22:52:02Z,0,0,0,0,2158,0.0,29,52,0.5576923076923077,0,29,,0,0,,0,0,0,,False
+jcyber2017,Juan C Rodriguez Salas,,"Lima, Peru",2017-12-05T23:28:10Z,0,0,0,0,3021,0.0,29,15,1.9333333333333333,0,29,,0,0,,0,0,0,,False
+kevinPerezGarcia,Kevin (Kevo) Perez Garcia,https://www.dile.com.pe/,Peru - Cusco - Cusco,2019-07-13T23:07:47Z,0,0,0,0,2436,0.0,29,80,0.3625,0,29,,0,0,,0,0,0,,False
+llabans,Luis Labán Seminario,,Peru,2018-02-14T23:03:11Z,0,0,0,0,2950,0.0,29,221,0.13122171945701358,0,29,,0,0,,0,0,0,,False
+Alessandrito123,Alessandrito123,,Peru,2020-12-21T17:49:25Z,0,0,0,0,1909,0.0,29,106,0.27358490566037735,0,29,,0,0,,0,0,0,,False
+hunter4466,Mario Chois,RAVN development,Lima Peru,2021-04-15T20:37:06Z,0,0,0,0,1794,0.0,29,24,1.2083333333333333,0,29,,0,0,,0,0,0,,False
+renzo-blockchain,Renzo Avila,,Peru,2012-07-28T05:08:10Z,0,0,0,0,4977,0.0,29,71,0.4084507042253521,0,29,,0,0,,0,0,0,,False
+lokcito,ray,itux,Peru - Huancayo,2011-10-04T18:08:10Z,0,0,0,0,5275,0.0,29,8,3.625,0,29,,0,0,,0,0,0,,False
+Kakalanp,Joaquín G. L. Z.,Tranzact,"Lima, Peru",2021-02-01T04:25:21Z,0,0,0,0,1867,0.0,29,27,1.0740740740740742,0,29,,0,0,,0,0,0,,False
+derekcrosslu,Derek Cross,UTEC VENTURES,"Lima, Peru",2013-03-08T10:14:34Z,0,0,0,0,4754,0.0,29,51,0.5686274509803921,0,29,,0,0,,0,0,0,,False
+coloradomarin,Herman Marin,Laboratoria,"Lima, Peru",2013-04-23T19:10:53Z,0,0,0,0,4708,0.0,28,2,14.0,0,28,,0,0,,0,0,0,,False
+lkashef,Mazen Elkashef,finsmart.pe,Egypt/Peru,2015-11-19T15:09:43Z,0,0,0,0,3768,0.0,28,11,2.5454545454545454,0,28,,0,0,,0,0,0,,False
+Joshua-Enrico,Joshua Enrico,Enviame,Peru,2021-01-25T15:45:11Z,0,0,0,0,1874,0.0,28,1,28.0,0,28,,0,0,,0,0,0,,False
+Emerson-Portugal,emersoncrp,,"Arequipa, Peru",2021-03-11T00:52:08Z,0,0,0,0,1830,0.0,28,8,3.5,0,28,,0,0,,0,0,0,,False
+El-Palomo,Omar Palomino,Kunak Consulting SAC,"Lima, Peru",2012-11-02T02:41:06Z,0,0,0,0,4880,0.0,28,0,28,0,28,,0,0,,0,0,0,,False
+pixiepixeled,.,,"Lima, Peru",2016-07-12T16:46:55Z,0,0,0,0,3532,0.0,28,38,0.7368421052631579,0,28,,0,0,,0,0,0,,False
+Maycol-Knight,Maycol Quispe,,"Lima, Peru",2022-11-10T14:23:41Z,0,0,0,0,1220,0.0,28,61,0.45901639344262296,0,28,,0,0,,0,0,0,,False
+oliverTuesta,Oliver Tuesta,,"Lima, Peru",2020-08-08T11:42:13Z,0,0,0,0,2044,0.0,28,19,1.4736842105263157,0,28,,0,0,,0,0,0,,False
+madmarin,Alexander M. Marin,,Lima Peru,2019-12-08T17:07:03Z,0,0,0,0,2288,0.0,28,9,3.111111111111111,0,28,,0,0,,0,0,0,,False
+gamunax,Jose Jan Pierre Sánchez Manosalva,,Lima - Peru,2014-07-04T23:27:37Z,0,0,0,0,4271,0.0,28,32,0.875,0,28,,0,0,,0,0,0,,False
+luismoriguerra,Luis Mori Guerra,,Peru,2013-03-04T01:02:45Z,0,0,0,0,4758,0.0,28,26,1.0769230769230769,0,28,,0,0,,0,0,0,,False
+yummta,Paul Portillo,@Drafteam,"Lima, Peru",2013-10-30T01:18:54Z,0,0,0,0,4518,0.0,27,14,1.9285714285714286,0,27,,0,0,,0,0,0,,False
+AlonsoCN,Luis Alonso,,Peru,2011-11-28T01:06:53Z,0,0,0,0,5220,0.0,27,91,0.2967032967032967,0,27,,0,0,,0,0,0,,False
+claudiamp,Claudia Márquez,Caleidos,"Lima, Peru",2013-01-18T19:28:33Z,0,0,0,0,4803,0.0,27,3,9.0,0,27,,0,0,,0,0,0,,False
+dwyazzo90,David Joaq (also known as Rowell),Braden`s house,"Lima, Peru",2022-11-24T03:40:23Z,0,0,0,0,1206,0.0,27,32,0.84375,0,27,,0,0,,0,0,0,,False
+FranciscoAscue,Francisco Ascue Orosco,,Peru,2019-10-28T15:29:28Z,0,0,0,0,2329,0.0,27,4,6.75,0,27,,0,0,,0,0,0,,False
+carloshs92,Carlos,,"Lima, Peru",2012-01-23T21:50:03Z,0,0,0,0,5164,0.0,27,34,0.7941176470588235,0,27,,0,0,,0,0,0,,False
+InsiderAnh,InsiderAnh,Minecraft,Peru,2016-04-04T01:46:15Z,0,0,0,0,3631,0.0,27,1,27.0,0,27,,0,0,,0,0,0,,False
+julionav,Julio Navarro,@ableco ,"Lima, Peru",2018-12-04T20:12:04Z,0,0,0,0,2657,0.0,27,11,2.4545454545454546,0,27,,0,0,,0,0,0,,False
+kucho,Victor Rodriguez,,Peru,2017-03-27T00:06:25Z,0,0,0,0,3275,0.0,27,59,0.4576271186440678,0,27,,0,0,,0,0,0,,False
+bitmakerla,Bitmaker,,"Arequipa, Peru",2018-07-17T23:30:20Z,0,0,0,0,2797,0.0,27,0,27,0,27,,0,0,,0,0,0,,False
+CristianLazoQuispe,Cristian Lazo Quispe,Universidad Nacional de Ingeniería,Lima - Peru,2017-08-21T18:54:01Z,0,0,0,0,3127,0.0,27,13,2.076923076923077,0,27,,0,0,,0,0,0,,False
+abelmiraval,Abel Miraval,Experis,Peru,2018-01-08T15:37:02Z,0,0,0,0,2987,0.0,26,282,0.09219858156028368,0,26,,0,0,,0,0,0,,False
+JorgePasco1,Jorge Pasco,@factored.ai / HBS,"Lima, Peru",2017-02-22T02:45:00Z,0,0,0,0,3307,0.0,26,35,0.7428571428571429,0,26,,0,0,,0,0,0,,False
+masonlabcc,Mason Lab,Mason Lab,Lima - Peru,2011-10-05T15:28:56Z,0,0,0,0,5274,0.0,26,7,3.7142857142857144,0,26,,0,0,,0,0,0,,False
+EduDev06,Eduardo Paucar,Native Android Developer,Peru,2021-10-25T04:04:22Z,0,0,0,0,1601,0.0,26,0,26,0,26,,0,0,,0,0,0,,False
+softalchemy,Denis J. Palma Abanto,QuickNode,"Lima, Peru",2021-01-13T14:42:19Z,0,0,0,0,1886,0.0,26,2,13.0,0,26,,0,0,,0,0,0,,False
+MCss-18,Renzo Franco,,"Lima, Peru",2021-03-20T00:33:56Z,0,0,0,0,1821,0.0,26,34,0.7647058823529411,0,26,,0,0,,0,0,0,,False
+henrychavez,Henry Chavez,Bytpher,Peru,2013-12-03T19:12:36Z,0,0,0,0,4484,0.0,26,14,1.8571428571428572,0,26,,0,0,,0,0,0,,False
+Gilgammesh,Carlos Santander,,Peru,2019-01-16T20:54:53Z,0,0,0,0,2614,0.0,26,26,1.0,0,26,,0,0,,0,0,0,,False
+HiroForYou,Cristhian Wiki Sánchez Sauñe,,"Lima, Peru",2018-07-01T19:04:19Z,0,0,0,0,2813,0.0,26,68,0.38235294117647056,0,26,,0,0,,0,0,0,,False
+master-bogdan,Bogdan Shchavinskyi,ibussinessfunding,Currently in Peru (Traveling),2020-04-07T05:01:55Z,0,0,0,0,2167,0.0,26,41,0.6341463414634146,0,26,,0,0,,0,0,0,,False
+A-PachecoT,André Pacheco,Cofoundy,"Lima, Peru",2022-02-10T03:38:54Z,0,0,0,0,1493,0.0,26,30,0.8666666666666667,0,26,,0,0,,0,0,0,,False
+roxsyVel910,Roxsana Velasquez,Laboratoria,Peru,2020-06-19T19:37:16Z,0,0,0,0,2094,0.0,25,44,0.5681818181818182,0,25,,0,0,,0,0,0,,False
+Alejosor,Alejandro Soriano,,"Chiclayo, Peru 🇵🇪",2022-04-12T13:27:33Z,0,0,0,0,1432,0.0,25,38,0.6578947368421053,0,25,,0,0,,0,0,0,,False
+minskylab,Minsky,,Peru,2019-12-21T15:40:10Z,0,0,0,0,2275,0.0,25,0,25,0,25,,0,0,,0,0,0,,False
+mastergis,,MasterGIS,"Lima, Peru",2020-02-04T14:25:20Z,0,0,0,0,2230,0.0,25,1,25.0,0,25,,0,0,,0,0,0,,False
+Rotvie,Ricardo Huaman,BCP,Peru,2020-12-31T13:58:56Z,0,0,0,0,1899,0.0,25,39,0.6410256410256411,0,25,,0,0,,0,0,0,,False
+daneelsan,Daniel Sanchez,@WolframResearch,"Lima, Peru",2018-06-12T03:15:19Z,0,0,0,0,2832,0.0,25,12,2.0833333333333335,0,25,,0,0,,0,0,0,,False
+jamesnoria,James Noria,@Rimac-Seguros,Peru,2020-04-02T23:28:17Z,0,0,0,0,2172,0.0,25,17,1.4705882352941178,0,25,,0,0,,0,0,0,,False
+gcancho,Giovanni Cancho,Universidad Tecnológica del Perú,"Lima, Peru.",2018-12-24T19:09:50Z,0,0,0,0,2637,0.0,25,21,1.1904761904761905,0,25,,0,0,,0,0,0,,False
+bryanjhv,Bryan Horna,,"Lima, Peru",2012-11-10T19:53:36Z,0,0,0,0,4872,0.0,25,14,1.7857142857142858,0,25,,0,0,,0,0,0,,False
+jcyovera,Juan Carlos,Developer,Lima - Peru,2010-07-15T14:30:35Z,0,0,0,0,5721,0.0,25,4,6.25,0,25,,0,0,,0,0,0,,False
+boomslag,Boomslag,,Peru,2023-03-27T12:42:58Z,0,0,0,0,1083,0.0,25,0,25,0,25,,0,0,,0,0,0,,False
+dev-lusaja,Oscar Sánchez,Coca-Cola Andina,"Lima, Peru, Earth",2015-02-21T22:49:04Z,0,0,0,0,4039,0.0,25,22,1.1363636363636365,0,25,,0,0,,0,0,0,,False
+ldiego73,Luis Diego,,Peru,2010-09-10T05:51:56Z,0,0,0,0,5664,0.0,25,3,8.333333333333334,0,25,,0,0,,0,0,0,,False
+cristhian-apaza,Cristhian Apaza,@izipay-dev ,Peru,2018-11-25T14:56:15Z,0,0,0,0,2666,0.0,25,34,0.7352941176470589,0,25,,0,0,,0,0,0,,False
+sashirestela,Sashir Estela,,"Lima, Peru",2015-08-30T22:10:57Z,0,0,0,0,3849,0.0,25,10,2.5,0,25,,0,0,,0,0,0,,False
+LordMathi2741,Mathias Jave,UPC,San Isidro - Lima Peru,2023-03-28T20:05:26Z,0,0,0,0,1082,0.0,25,42,0.5952380952380952,0,25,,0,0,,0,0,0,,False
+ojitoslanda,Gabriel Ojitos Landa,SENATI,Peru,2018-11-12T23:40:59Z,0,0,0,0,2679,0.0,25,17,1.4705882352941178,0,25,,0,0,,0,0,0,,False
+Gonzalogdlr,Gonzalo Gianmarco Gutiérrez de la Rosa,Cymasuite,"Ica, Peru",2019-10-26T20:05:45Z,0,0,0,0,2331,0.0,24,45,0.5333333333333333,0,24,,0,0,,0,0,0,,False
+csl-club,Club Software Libre UTEC,,Peru,2024-03-21T01:15:17Z,0,0,0,0,723,0.0,24,0,24,0,24,,0,0,,0,0,0,,False
+kcotrinam,kevin Cotrina,Freelance Full-stack Developer,Peru,2019-05-19T01:21:15Z,0,0,0,0,2491,0.0,24,18,1.3333333333333333,0,24,,0,0,,0,0,0,,False
+Luiggi370z,Luis Arpasi,docsum.ai,Lima - Peru,2016-07-19T20:19:01Z,0,0,0,0,3525,0.0,24,12,2.0,0,24,,0,0,,0,0,0,,False
+JulioRuizdev,Julio Ruiz  ,,"Lima, Peru.",2020-06-17T23:16:46Z,0,0,0,0,2096,0.0,24,90,0.26666666666666666,0,24,,0,0,,0,0,0,,False
+ivoscc,Ivo,,Peru,2011-04-17T19:56:18Z,0,0,0,0,5445,0.0,24,28,0.8571428571428571,0,24,,0,0,,0,0,0,,False
+loweffort-alt,Dario Alexander Farfan Navarro,FANA,Lima - Peru,2020-12-07T06:26:56Z,0,0,0,0,1923,0.0,24,38,0.631578947368421,0,24,,0,0,,0,0,0,,False
+leo2105,,ShotQuality,"Lima, Peru",2015-05-11T05:03:22Z,0,0,0,0,3960,0.0,24,8,3.0,0,24,,0,0,,0,0,0,,False
+GinoQuispe21,Gino Quispe Calixto,NTT DATA,"Lima, Peru",2019-04-14T16:58:54Z,0,0,0,0,2526,0.0,24,28,0.8571428571428571,0,24,,0,0,,0,0,0,,False
+Sbustamante301,Sebastian Bustamante,,"Lima,Peru",2022-04-15T19:20:56Z,0,0,0,0,1429,0.0,24,25,0.96,0,24,,0,0,,0,0,0,,False
+activodigital,ACTIVO DIGITAL,Emprendedor,Peru,2020-10-18T14:28:30Z,0,0,0,0,1973,0.0,24,23,1.0434782608695652,0,24,,0,0,,0,0,0,,False
+cesar00015,Cesar Augusto Soto Caballero,,"Lima, Peru",2009-12-28T17:28:40Z,0,0,0,0,5920,0.0,24,7,3.4285714285714284,0,24,,0,0,,0,0,0,,False
+annygutierrez,Anny Gutierrez Lopez,,"Lima, Peru",2017-09-26T14:21:03Z,0,0,0,0,3091,0.0,24,49,0.4897959183673469,0,24,,0,0,,0,0,0,,False
+hackanonimous,Jose Alvarez Escobar,,Ayacucho(Peru),2017-12-30T01:52:59Z,0,0,0,0,2996,0.0,24,14,1.7142857142857142,0,24,,0,0,,0,0,0,,False
+AngelRodRo,Alejandro,,"Tacna, Peru",2014-07-03T02:17:59Z,0,0,0,0,4272,0.0,24,10,2.4,0,24,,0,0,,0,0,0,,False
+GAMM95,Jhonatan Mantilla,,"Trujillo, Peru",2022-10-19T00:31:15Z,0,0,0,0,1243,0.0,24,26,0.9230769230769231,0,24,,0,0,,0,0,0,,False
+helpdesk-z,,Helpdeskz.com,Peru,2021-01-13T23:47:26Z,0,0,0,0,1886,0.0,24,0,24,0,24,,0,0,,0,0,0,,False
+xtrmdarc,Diego Antonio Reyes Coronado,Freelance Full-stack Developer,Peru,2015-06-22T02:49:22Z,0,0,0,0,3918,0.0,24,26,0.9230769230769231,0,24,,0,0,,0,0,0,,False
+GraceSevillano,Grace Sevillano C.,,"Lima, Peru",2019-06-21T22:57:50Z,0,0,0,0,2458,0.0,24,46,0.5217391304347826,0,24,,0,0,,0,0,0,,False
+oscar-ramos,Oscar E. Ramos,Universidad de Ingenieria y Tecnologia - UTEC,"Lima, Peru",2015-10-20T18:01:39Z,0,0,0,0,3798,0.0,24,1,24.0,0,24,,0,0,,0,0,0,,False
+Camilo-J,Camilo  Torre,,"Lima,Peru",2022-03-19T15:48:56Z,0,0,0,0,1456,0.0,24,46,0.5217391304347826,0,24,,0,0,,0,0,0,,False
+jsalinasvela,Jesus Salinas Vela,Big Sigma Development,"Arequipa, Peru",2017-05-12T23:23:10Z,0,0,0,0,3228,0.0,23,60,0.38333333333333336,0,23,,0,0,,0,0,0,,False
+Mr20DL,Carlos,,"Lima, Peru",2023-05-09T16:01:53Z,0,0,0,0,1040,0.0,23,64,0.359375,0,23,,0,0,,0,0,0,,False
+carmenluyo,Carmen Luyo,carmenluyo.github.io/portafolio/,PERU,2015-03-20T14:37:51Z,0,0,0,0,4012,0.0,23,12,1.9166666666666667,0,23,,0,0,,0,0,0,,False
+indobits,Luis Arellano,Freelance,"Lima, Peru",2012-04-02T05:27:37Z,0,0,0,0,5094,0.0,23,116,0.19827586206896552,0,23,,0,0,,0,0,0,,False
+aldenso,Aldo Sotolongo,,Peru,2015-01-14T15:31:05Z,0,0,0,0,4077,0.0,23,26,0.8846153846153846,0,23,,0,0,,0,0,0,,False
+DavidMontoya24,David Montoya,,"Lima, Peru",2022-03-16T16:38:12Z,0,0,0,0,1459,0.0,23,47,0.48936170212765956,0,23,,0,0,,0,0,0,,False
+tudineroweb,Angel Vasquez,,peru,2021-05-15T04:41:34Z,0,0,0,0,1764,0.0,23,8,2.875,0,23,,0,0,,0,0,0,,False
+AzucenaGrecia,Grecia Azucena Delgado Muñoz,,"Peru, Lima",2019-12-01T17:02:32Z,0,0,0,0,2295,0.0,23,34,0.6764705882352942,0,23,,0,0,,0,0,0,,False
+CrhistianT7,Crhistian Turpo,,"Arequipa, Peru",2020-05-09T22:58:36Z,0,0,0,0,2135,0.0,23,19,1.2105263157894737,0,23,,0,0,,0,0,0,,False
+giancarlosisasi,Giancarlos Isasi,Crehana,"Ica, Peru",2016-02-16T15:20:35Z,0,0,0,0,3679,0.0,23,22,1.0454545454545454,0,23,,0,0,,0,0,0,,False
+xapiens,Francisco Morosini,dravios,Peru,2012-01-18T22:01:10Z,0,0,0,0,5169,0.0,23,40,0.575,0,23,,0,0,,0,0,0,,False
+aquevedos,Anita Quevedo ,Google,Peru,2014-10-15T03:14:58Z,0,0,0,0,4168,0.0,23,8,2.875,0,23,,0,0,,0,0,0,,False
+fericell2909,Marco Estrada Lopez,,Peru,2013-08-18T13:41:21Z,0,0,0,0,4591,0.0,23,4,5.75,0,23,,0,0,,0,0,0,,False
+gabtio,Gabriel,,"Huancayo, Peru",2012-06-15T17:32:09Z,0,0,0,0,5020,0.0,23,55,0.41818181818181815,0,23,,0,0,,0,0,0,,False
+xtrator,Alexander Luna,,"Lima, Peru",2020-05-17T13:37:58Z,0,0,0,0,2127,0.0,22,17,1.2941176470588236,0,22,,0,0,,0,0,0,,False
+Ray-Alessandro,Ray Alessandro,,"Lima, Peru",2022-08-31T12:58:59Z,0,0,0,0,1291,0.0,22,10,2.2,0,22,,0,0,,0,0,0,,False
+ifs99,Italo Flores,,"Lima, Peru",2021-08-18T08:25:25Z,0,0,0,0,1669,0.0,22,35,0.6285714285714286,0,22,,0,0,,0,0,0,,False
+rubensaid,Ruben Felix,Tukuy Club,"Lima, Peru",2015-07-03T15:11:34Z,0,0,0,0,3907,0.0,22,9,2.4444444444444446,0,22,,0,0,,0,0,0,,False
+luiisca,Luis Cadillo,,Peru,2020-11-05T18:31:45Z,0,0,0,0,1955,0.0,22,34,0.6470588235294118,0,22,,0,0,,0,0,0,,False
+cryohydromettools,Programing Team Peru,,Peru,2020-02-18T12:20:14Z,0,0,0,0,2216,0.0,22,16,1.375,0,22,,0,0,,0,0,0,,False
+alanegd,Alan Galavis,,Peru,2020-01-24T23:24:43Z,0,0,0,0,2241,0.0,22,17,1.2941176470588236,0,22,,0,0,,0,0,0,,False
+wchoque,Wilber Choque,@Tranzact,"Lima, Peru",2017-10-19T18:27:07Z,0,0,0,0,3068,0.0,22,12,1.8333333333333333,0,22,,0,0,,0,0,0,,False
+fortepc,Forte,,"Peru, IN",2017-03-02T20:02:24Z,0,0,0,0,3299,0.0,22,17,1.2941176470588236,0,22,,0,0,,0,0,0,,False
+jhonathanssegura,Jhonathan Segura,,"Lima, Peru",2017-06-21T19:12:11Z,0,0,0,0,3188,0.0,22,49,0.4489795918367347,0,22,,0,0,,0,0,0,,False
+moisesli,Moises Linares O.,Freelance,Peru - Tacna,2012-05-27T04:04:39Z,0,0,0,0,5039,0.0,22,26,0.8461538461538461,0,22,,0,0,,0,0,0,,False
+gabsss1,Gabriel Francisco Ventura Moreno,SIMED,Peru,2022-04-23T20:23:35Z,0,0,0,0,1421,0.0,22,23,0.9565217391304348,0,22,,0,0,,0,0,0,,False
+diazgio,Giordano Díaz ,Freelance Mid. Full-stack Developer,Lima-Peru,2018-06-04T00:48:56Z,0,0,0,0,2841,0.0,22,19,1.1578947368421053,0,22,,0,0,,0,0,0,,False
+bkerz,Beicker,,Peru,2019-03-03T02:03:13Z,0,0,0,0,2568,0.0,22,18,1.2222222222222223,0,22,,0,0,,0,0,0,,False
+mairelis-montilla,Mairelis Montilla,Sparxworks,"Lima, Peru",2020-08-19T04:54:13Z,0,0,0,0,2033,0.0,22,20,1.1,0,22,,0,0,,0,0,0,,False
+Aireck2,Erick Escriba Arango,,"Lima, Peru",2019-03-20T21:21:08Z,0,0,0,0,2551,0.0,22,67,0.3283582089552239,0,22,,0,0,,0,0,0,,False
+eliza8855,Elizabeth Lopez,,"Lima, Peru",2020-06-27T20:10:11Z,0,0,0,0,2086,0.0,22,41,0.5365853658536586,0,22,,0,0,,0,0,0,,False
+abengl,Alessandra Godoy,,Peru,2023-03-01T17:01:20Z,0,0,0,0,1109,0.0,22,23,0.9565217391304348,0,22,,0,0,,0,0,0,,False
+LadyDi3103,Lady Diana,,Lima - Peru,2023-02-07T11:44:20Z,0,0,0,0,1131,0.0,22,30,0.7333333333333333,0,22,,0,0,,0,0,0,,False
+YotoCoder,Yonathan Soto,Yotoelectronics,"Lima, Peru",2016-10-30T02:11:02Z,0,0,0,0,3422,0.0,22,16,1.375,0,22,,0,0,,0,0,0,,False
+DragShot,DragShot,,"Lima, Peru",2016-08-30T03:48:16Z,0,0,0,0,3483,0.0,22,8,2.75,0,22,,0,0,,0,0,0,,False
+luisBazanDev,Luis Bazán,UTP,Peru,2022-02-05T16:34:31Z,0,0,0,0,1498,0.0,22,39,0.5641025641025641,0,22,,0,0,,0,0,0,,False
+DiegoCuevas,Diego Cuevas,,"Lima, Peru",2014-12-26T16:37:07Z,0,0,0,0,4096,0.0,22,17,1.2941176470588236,0,22,,0,0,,0,0,0,,False
+pandadiestro,pandadiestro,,Peru,2020-09-17T18:08:16Z,0,0,0,0,2004,0.0,22,46,0.4782608695652174,0,22,,0,0,,0,0,0,,False
+JafetRaul,Jafet,National University of San Marcos,"Lima, Peru",2020-06-26T02:06:18Z,0,0,0,0,2087,0.0,21,358,0.05865921787709497,0,21,,0,0,,0,0,0,,False
+Alvaro-Neyra,Alvaro Alberto Neyra Salazar,Universidad Peruana De Ciencias Aplicadas,"Lima, Peru",2022-09-20T19:57:11Z,0,0,0,0,1271,0.0,21,80,0.2625,0,21,,0,0,,0,0,0,,False
+alfredogama,Alfredo Gama,Virtual Labs,Peru,2012-12-16T01:56:59Z,0,0,0,0,4836,0.0,21,107,0.19626168224299065,0,21,,0,0,,0,0,0,,False
+hirammendiola,Hiram Mendiola,@hmendiolach,Peru,2020-03-15T21:56:35Z,0,0,0,0,2190,0.0,21,21,1.0,0,21,,0,0,,0,0,0,,False
+victorlunam,Victor Luna,,Peru,2022-01-22T19:27:10Z,0,0,0,0,1512,0.0,21,26,0.8076923076923077,0,21,,0,0,,0,0,0,,False
+yuruyuri16,Miguel Yurivilca,,"Lima, Peru",2018-02-11T04:37:47Z,0,0,0,0,2953,0.0,21,79,0.26582278481012656,0,21,,0,0,,0,0,0,,False
+Luis3Fernando,Luis Fernando Ch R,Sysari,Peru,2022-03-31T01:32:47Z,0,0,0,0,1444,0.0,21,22,0.9545454545454546,0,21,,0,0,,0,0,0,,False
+aomineDev,Ariel Omar Carrión Alcocer,PixeLand,Peru,2018-06-14T11:20:10Z,0,0,0,0,2830,0.0,21,13,1.6153846153846154,0,21,,0,0,,0,0,0,,False
+CS1103,CS2013 - Programación III,,"Barranco, Lima, Peru",2019-04-05T04:34:31Z,0,0,0,0,2535,0.0,21,0,21,0,21,,0,0,,0,0,0,,False
+germanmartinez,Germán Martínez,Lúcuma labs,"Lima, Peru",2010-10-25T20:47:23Z,0,0,0,0,5619,0.0,21,2,10.5,0,21,,0,0,,0,0,0,,False
+apuntesdejava,Apuntes de Java,,Peru,2012-07-04T14:46:13Z,0,0,0,0,5001,0.0,21,0,21,0,21,,0,0,,0,0,0,,False
+user0608,Kevin Saucedo,SFPeru,Peru,2018-03-10T16:47:39Z,0,0,0,0,2926,0.0,21,11,1.9090909090909092,0,21,,0,0,,0,0,0,,False
+krystalcode,Dimitris Bozelos,,"Cuzco, Peru",2010-06-10T00:02:05Z,0,0,0,0,5757,0.0,21,0,21,0,21,,0,0,,0,0,0,,False
+edwinmacalopu,edwin Macalopú,,peru,2015-10-09T04:03:18Z,0,0,0,0,3809,0.0,21,7,3.0,0,21,,0,0,,0,0,0,,False
+franciscovilchezv,Francisco Vilchez,,"Lima, Peru",2014-10-13T17:28:52Z,0,0,0,0,4170,0.0,21,9,2.3333333333333335,0,21,,0,0,,0,0,0,,False
+nestjslatam,NESTJS Latam ,,Peru,2022-10-08T13:01:09Z,0,0,0,0,1253,0.0,21,0,21,0,21,,0,0,,0,0,0,,False
+rodp63,Joaquin Palma,Quasar AI,"Arequipa, Peru",2018-08-21T14:05:33Z,0,0,0,0,2762,0.0,21,5,4.2,0,21,,0,0,,0,0,0,,False
+javierescobare,Javier Escobar,@TRANZACT ,Peru,2015-10-24T16:42:51Z,0,0,0,0,3794,0.0,21,11,1.9090909090909092,0,21,,0,0,,0,0,0,,False
+marcosluis2186,Marcos Ortiz,X-Team,"Lima, Peru",2010-07-14T14:37:28Z,0,0,0,0,5722,0.0,20,105,0.19047619047619047,0,20,,0,0,,0,0,0,,False
+ever864,Ever,Dember Solution,"Lima, Peru",2020-07-30T18:28:50Z,0,0,0,0,2053,0.0,20,40,0.5,0,20,,0,0,,0,0,0,,False
+TISparta,José Leonidas García Gonzales,,Peru,2016-02-10T03:24:24Z,0,0,0,0,3685,0.0,20,3,6.666666666666667,0,20,,0,0,,0,0,0,,False
+devildeveloper,Miguel Augusto Aliaga Pantoja,freelancer,Lima-Peru,2012-09-12T16:34:17Z,0,0,0,0,4931,0.0,20,6,3.3333333333333335,0,20,,0,0,,0,0,0,,False
+Benjacho,Benjamin Flores Copa,,Arequipa Peru,2015-04-16T10:32:00Z,0,0,0,0,3985,0.0,20,7,2.857142857142857,0,20,,0,0,,0,0,0,,False
+alonsogodinez,Alonso Godinez,,Peru,2013-03-12T01:07:46Z,0,0,0,0,4750,0.0,20,7,2.857142857142857,0,20,,0,0,,0,0,0,,False
+FrankLopezFLB,Frank Lopez,,Lima Peru,2021-07-09T03:57:12Z,0,0,0,0,1709,0.0,20,17,1.1764705882352942,0,20,,0,0,,0,0,0,,False
+jdamian,Juan Carlos,,"Lima, Peru",2010-07-26T13:46:19Z,0,0,0,0,5710,0.0,20,114,0.17543859649122806,0,20,,0,0,,0,0,0,,False
+Vjimenez-vasquez,Victor Jimenez-Vasquez,Instituto Nacional de Salud,"Lima, Peru",2021-08-31T20:21:39Z,0,0,0,0,1656,0.0,20,10,2.0,0,20,,0,0,,0,0,0,,False
+accel33,Accel Maeshiro,Ama Ghee Peru,"Lima, Peru",2016-11-01T23:44:27Z,0,0,0,0,3420,0.0,20,11,1.8181818181818181,0,20,,0,0,,0,0,0,,False
+echovl,Alonso Villegas,,Peru,2018-04-17T16:38:55Z,0,0,0,0,2888,0.0,20,13,1.5384615384615385,0,20,,0,0,,0,0,0,,False
+maary17,Maryluz A.,BCP,Peru,2023-02-27T15:04:18Z,0,0,0,0,1111,0.0,20,35,0.5714285714285714,0,20,,0,0,,0,0,0,,False
+chafarleston,charles paul requena palomino,@RealComputerSAC,sullana-piura Peru,2010-08-30T14:18:06Z,0,0,0,0,5675,0.0,20,28,0.7142857142857143,0,20,,0,0,,0,0,0,,False
+stiffis,Steve Ildefonso Santos,@UTEC,Peru,2024-06-11T21:57:06Z,0,0,0,0,641,0.0,20,38,0.5263157894736842,0,20,,0,0,,0,0,0,,False
+giampieer,Giampieer Mariscal,,Peru Lima,2016-08-09T01:27:43Z,0,0,0,0,3504,0.0,20,33,0.6060606060606061,0,20,,0,0,,0,0,0,,False
+carlosgl87,Carlos Gamero,,"Lima, Peru",2014-06-12T06:29:57Z,0,0,0,0,4293,0.0,20,0,20,0,20,,0,0,,0,0,0,,False
+rmaceissoft,Reiner Marquez,,"Lima, Peru",2010-11-10T21:45:43Z,0,0,0,0,5603,0.0,20,10,2.0,0,20,,0,0,,0,0,0,,False
+Jeremitc,JeremiTC,,Callao Lima Peru,2022-10-14T04:08:26Z,0,0,0,0,1247,0.0,20,84,0.23809523809523808,0,20,,0,0,,0,0,0,,False
+NicolasTicona,Nicolas Ticona,Nicolas Ticona Valdivia,Peru,2016-12-08T06:23:51Z,0,0,0,0,3383,0.0,20,7,2.857142857142857,0,20,,0,0,,0,0,0,,False
+luckymachi,Max Jacinto,,"Callao, Peru",2021-01-05T18:54:41Z,0,0,0,0,1894,0.0,20,178,0.11235955056179775,0,20,,0,0,,0,0,0,,False
+ericktucto,Erick Tucto,@StixCode ,"Lima, Peru",2016-10-14T05:45:01Z,0,0,0,0,3438,0.0,19,20,0.95,0,19,,0,0,,0,0,0,,False
+NeoKode,NeKosmic,NeoKosmo,Sicuani/Cusco/Peru,2023-06-18T15:00:38Z,0,0,0,0,1000,0.0,19,22,0.8636363636363636,0,19,,0,0,,0,0,0,,False
+Dulcedr2651340,Dulce Rosales Valverde,,Lima - Peru,2021-04-20T02:39:35Z,0,0,0,0,1789,0.0,19,29,0.6551724137931034,0,19,,0,0,,0,0,0,,False
+jwilliamn,Jaspers W. Huanay,Giscia Research Lab,"Lima, Peru",2013-04-22T01:20:11Z,0,0,0,0,4709,0.0,19,15,1.2666666666666666,0,19,,0,0,,0,0,0,,False
+MaryToribio,Maria Toribio Rojas,,LIMA - PERU,2023-02-05T21:45:39Z,0,0,0,0,1133,0.0,19,18,1.0555555555555556,0,19,,0,0,,0,0,0,,False
+dfloresgonz,Diego RFG,,"Lima, Peru",2016-03-02T00:20:45Z,0,0,0,0,3665,0.0,19,6,3.1666666666666665,0,19,,0,0,,0,0,0,,False
+ArubikU,Arubik,SodaDevs (Non Oficial) ,Peru,2022-03-25T01:04:20Z,0,0,0,0,1450,0.0,19,8,2.375,0,19,,0,0,,0,0,0,,False
+upc-pre-202402-si729-wx51,,,Peru,2024-08-10T01:40:01Z,0,0,0,0,581,0.0,19,0,19,0,19,,0,0,,0,0,0,,False
+JairFrancesco,Jair Francesco,,Arequipa - Peru,2014-09-18T01:59:19Z,0,0,0,0,4195,0.0,19,8,2.375,0,19,,0,0,,0,0,0,,False
+csdev19,Cristian Sotomayor ⚡,niway.dev,"Lima, Peru",2017-10-14T20:09:49Z,0,0,0,0,3073,0.0,19,49,0.3877551020408163,0,19,,0,0,,0,0,0,,False
+arturop200,Arturo Prado,,Peru,2020-06-28T17:20:18Z,0,0,0,0,2085,0.0,19,9,2.111111111111111,0,19,,0,0,,0,0,0,,False
+sebastianroar,Sebastian Roa,,"Lima, Peru",2022-08-31T15:45:15Z,0,0,0,0,1291,0.0,19,17,1.1176470588235294,0,19,,0,0,,0,0,0,,False
+joaquingx,joaquin,,Chiclayo - Peru,2014-05-16T06:20:56Z,0,0,0,0,4320,0.0,19,13,1.4615384615384615,0,19,,0,0,,0,0,0,,False
+jotisa,Jonatan Tisnado,JOTISA,"Lima, Peru, South America",2016-09-14T00:15:30Z,0,0,0,0,3469,0.0,19,97,0.1958762886597938,0,19,,0,0,,0,0,0,,False
+ynoacamino,Yenaro Joel Noa Camino,,Peru,2022-01-13T04:05:00Z,0,0,0,0,1521,0.0,19,17,1.1176470588235294,0,19,,0,0,,0,0,0,,False
+darwinv,Darwin,,Peru,2014-12-03T15:37:55Z,0,0,0,0,4119,0.0,19,38,0.5,0,19,,0,0,,0,0,0,,False
+Carsaavedrapa,Carlos Saavedra,Looroh,"Piura,Peru",2023-05-03T22:46:29Z,0,0,0,0,1046,0.0,19,38,0.5,0,19,,0,0,,0,0,0,,False
+syaker,Sheyla Yaker,Enara Health,Peru,2020-02-10T04:42:15Z,0,0,0,0,2224,0.0,19,28,0.6785714285714286,0,19,,0,0,,0,0,0,,False
+juliogarciape,Julio Cesar Garcia,,"Lima, Peru",2020-10-23T22:46:36Z,0,0,0,0,1968,0.0,19,42,0.4523809523809524,0,19,,0,0,,0,0,0,,False
+EstivenMayhuay,Hairton,Web Developer,"Lima, Peru",2021-12-11T01:19:04Z,0,0,0,0,1554,0.0,19,24,0.7916666666666666,0,19,,0,0,,0,0,0,,False
+devedux,Cristhian Laurente,DEUNA,"Arequipa, Peru",2021-01-24T12:20:58Z,0,0,0,0,1875,0.0,19,7,2.7142857142857144,0,19,,0,0,,0,0,0,,False
+juanRCoder,Juan Ramirez,,"Lima, Peru",2023-02-01T23:16:21Z,0,0,0,0,1137,0.0,19,5,3.8,0,19,,0,0,,0,0,0,,False
+jadx2,Jaim Delmar,Ravn,Peru,2020-08-07T17:35:34Z,0,0,0,0,2045,0.0,19,18,1.0555555555555556,0,19,,0,0,,0,0,0,,False
+utecrobotics,UTEC Robotics,,"Lima, Peru",2015-10-20T18:02:27Z,0,0,0,0,3798,0.0,19,0,19,0,19,,0,0,,0,0,0,,False
+rtbustamantec,Raul Tomas Bustamante Cruzado,Software Engineer,"Lima, Peru",2012-03-30T19:00:56Z,0,0,0,0,5097,0.0,19,38,0.5,0,19,,0,0,,0,0,0,,False
+qlab-intro-python,Fundamentos de Programación en Python,,Peru,2024-01-03T00:26:42Z,0,0,0,0,802,0.0,19,0,19,0,19,,0,0,,0,0,0,,False
+Meowwuw,Magenta Paredes,,Peru,2021-06-06T04:20:30Z,0,0,0,0,1742,0.0,18,9,2.0,0,18,,0,0,,0,0,0,,False
+paula113,Paula Paredes,,Peru,2019-07-10T04:12:38Z,0,0,0,0,2439,0.0,18,29,0.6206896551724138,0,18,,0,0,,0,0,0,,False
+MrElmo3,Max,,Peru,2021-08-21T15:17:29Z,0,0,0,0,1666,0.0,18,27,0.6666666666666666,0,18,,0,0,,0,0,0,,False
+addleonel,Leunel,@coddinang,Peru,2020-03-21T19:59:55Z,0,0,0,0,2184,0.0,18,36,0.5,0,18,,0,0,,0,0,0,,False
+javielis,Javielis,,"peru,lima",2022-11-21T20:34:27Z,0,0,0,0,1209,0.0,18,6,3.0,0,18,,0,0,,0,0,0,,False
+AlexMamani85,Alex Mamani,,"Arequipa, Peru",2022-01-24T01:37:07Z,0,0,0,0,1510,0.0,18,11,1.6363636363636365,0,18,,0,0,,0,0,0,,False
+santos88,Santos Ramon,,"Lima, Peru",2009-10-25T16:25:11Z,0,0,0,0,5984,0.0,18,28,0.6428571428571429,0,18,,0,0,,0,0,0,,False
+grossir,Rossi,,Peru,2015-10-05T03:17:00Z,0,0,0,0,3813,0.0,18,7,2.5714285714285716,0,18,,0,0,,0,0,0,,False
+cesar4rroyo,Cesar Arroyo,Globant,"Chiclayo,Peru",2019-08-04T17:02:59Z,0,0,0,0,2414,0.0,18,24,0.75,0,18,,0,0,,0,0,0,,False
+raulingg,Raul Mendez,,"Lima, Peru",2014-10-28T17:19:20Z,0,0,0,0,4155,0.0,18,23,0.782608695652174,0,18,,0,0,,0,0,0,,False
+FreddyPinto,Freddy Pinto,,"Lima, Peru",2021-02-03T03:24:25Z,0,0,0,0,1865,0.0,18,59,0.3050847457627119,0,18,,0,0,,0,0,0,,False
+dceluis,Luis Sanchez,,Peru,2013-09-15T19:29:22Z,0,0,0,0,4563,0.0,18,20,0.9,0,18,,0,0,,0,0,0,,False
+JuanOrbegoso,Juan M. Orbegoso,,Peru,2020-01-18T03:07:15Z,0,0,0,0,2247,0.0,18,4,4.5,0,18,,0,0,,0,0,0,,False
+Caro9926,Carolina Saavedra,,Peru,2021-08-19T16:19:14Z,0,0,0,0,1668,0.0,18,20,0.9,0,18,,0,0,,0,0,0,,False
+nhrot-fc,,,Peru,2023-01-17T00:42:36Z,0,0,0,0,1153,0.0,18,21,0.8571428571428571,0,18,,0,0,,0,0,0,,False
+Alucia,Ana Lucia Carhuaz Meneses,,Peru,2014-12-26T20:35:04Z,0,0,0,0,4096,0.0,18,26,0.6923076923076923,0,18,,0,0,,0,0,0,,False
+reissaavedra,Reisson Saavedra,,Peru,2019-03-07T17:39:41Z,0,0,0,0,2564,0.0,18,49,0.3673469387755102,0,18,,0,0,,0,0,0,,False
+cscthian,cscthian,cscthian,Peru,2014-10-18T02:24:17Z,0,0,0,0,4165,0.0,18,10,1.8,0,18,,0,0,,0,0,0,,False
+darkJCdark,Jorge Chamorro,Pontifical Catholic University of Peru,"San Miguel, Lima, Peru",2023-05-04T23:05:30Z,0,0,0,0,1045,0.0,18,85,0.21176470588235294,0,18,,0,0,,0,0,0,,False
+raicoacosta,Raico Acosta,,Peru,2015-06-16T14:27:57Z,0,0,0,0,3924,0.0,18,4,4.5,0,18,,0,0,,0,0,0,,False
+jvalenciag,Jose Valencia,,"Arequipa, Peru",2012-09-15T14:24:50Z,0,0,0,0,4928,0.0,18,32,0.5625,0,18,,0,0,,0,0,0,,False
+maronare10,Mariana Navarro,,Peru,2020-05-10T02:18:15Z,0,0,0,0,2134,0.0,18,3,6.0,0,18,,0,0,,0,0,0,,False
+javalpe,James Valencia Becerra,PUCP,"Lima, Peru",2018-01-30T01:13:51Z,0,0,0,0,2965,0.0,18,20,0.9,0,18,,0,0,,0,0,0,,False
+x-name15,Felix Manrique | Flez | Mr Jacket,"Nothing here, buddy - yet",Spain - Peru ! Discord,2020-08-20T18:36:00Z,0,0,0,0,2032,0.0,18,15,1.2,0,18,,0,0,,0,0,0,,False
+eduarQuintero73,Eduar Quintero,,Lima(Peru),2020-02-18T16:57:00Z,0,0,0,0,2216,0.0,18,8,2.25,0,18,,0,0,,0,0,0,,False
+Mozart2234,Alexei Mamani,@Numaris-Sfleet ,Peru,2014-04-10T22:56:17Z,0,0,0,0,4356,0.0,18,36,0.5,0,18,,0,0,,0,0,0,,False
+ddumst,Diego Becerra,APG.gg,Peru,2012-01-05T21:54:15Z,0,0,0,0,5182,0.0,17,3,5.666666666666667,0,17,,0,0,,0,0,0,,False
+jguillermo,Jose guillermo,GetMin,Peru,2013-05-11T15:31:14Z,0,0,0,0,4690,0.0,17,0,17,0,17,,0,0,,0,0,0,,False
+gianzk,,Ndanvas Soft,"Lima ,Peru",2019-02-22T18:36:35Z,0,0,0,0,2577,0.0,17,1,17.0,0,17,,0,0,,0,0,0,,False
+willianuk,Willian ,,Peru,2019-07-11T17:44:00Z,0,0,0,0,2438,0.0,17,126,0.1349206349206349,0,17,,0,0,,0,0,0,,False
+jjhoncv,Jhonnatan,Grupo Comercio,Peru,2014-01-21T20:08:45Z,0,0,0,0,4435,0.0,17,1,17.0,0,17,,0,0,,0,0,0,,False
+r3xakead0,Afu Tse,Chainiz,"Lima, Peru",2009-11-13T16:10:20Z,0,0,0,0,5965,0.0,17,32,0.53125,0,17,,0,0,,0,0,0,,False
+jriverox,Jhony Rivero,,"Lima, Peru",2013-02-19T00:41:11Z,0,0,0,0,4772,0.0,17,21,0.8095238095238095,0,17,,0,0,,0,0,0,,False
+surphury,José Berríos,,"Lima, Peru",2020-07-25T23:06:20Z,0,0,0,0,2058,0.0,17,15,1.1333333333333333,0,17,,0,0,,0,0,0,,False
+BrandPM18,Brando,,"Lima, Peru",2018-11-11T18:52:42Z,0,0,0,0,2680,0.0,17,55,0.3090909090909091,0,17,,0,0,,0,0,0,,False
+valesili,Valeria Silva Isuiza,GoJom,Peru,2020-02-27T05:39:00Z,0,0,0,0,2207,0.0,17,13,1.3076923076923077,0,17,,0,0,,0,0,0,,False
+heblopez,Heberth López,,Peru,2022-04-01T14:20:40Z,0,0,0,0,1443,0.0,17,17,1.0,0,17,,0,0,,0,0,0,,False
+dsc-utp,Developer Student Clubs - UTP,,Peru,2022-08-30T02:51:05Z,0,0,0,0,1292,0.0,17,0,17,0,17,,0,0,,0,0,0,,False
+haydehumpire,Hayde Humpire,National University of San Agustin ,Peru,2016-04-06T22:49:38Z,0,0,0,0,3629,0.0,17,3,5.666666666666667,0,17,,0,0,,0,0,0,,False
+misaki1301,,,"Lima, Peru",2016-10-21T05:02:34Z,0,0,0,0,3431,0.0,17,24,0.7083333333333334,0,17,,0,0,,0,0,0,,False
+AiltonSalguero,Ailton Salguero,Trikavengers,Peru,2018-06-07T18:21:39Z,0,0,0,0,2837,0.0,17,17,1.0,0,17,,0,0,,0,0,0,,False
+willyk,Willy Acuña,Yarkan & Bookingmotor,"San Isidro, Lima, Peru",2018-03-26T20:28:54Z,0,0,0,0,2910,0.0,17,124,0.13709677419354838,0,17,,0,0,,0,0,0,,False
+CarlosVillena17,V1llena17,UNMSM,Peru,2021-06-26T03:19:40Z,0,0,0,0,1722,0.0,17,42,0.40476190476190477,0,17,,0,0,,0,0,0,,False
+hachikujimayoi11,hachikuji mayoi,,"Lima, Peru",2022-06-02T17:44:33Z,0,0,0,0,1381,0.0,17,27,0.6296296296296297,0,17,,0,0,,0,0,0,,False
+evillaz,Eduardo Villarreal,,Peru,2022-12-06T13:57:17Z,0,0,0,0,1194,0.0,17,12,1.4166666666666667,0,17,,0,0,,0,0,0,,False
+DiegoPaccoPE,DiegoPaccotaype,,"Lima, Peru",2021-11-20T16:14:17Z,0,0,0,0,1575,0.0,17,15,1.1333333333333333,0,17,,0,0,,0,0,0,,False
+FlorTello,Flor Tello Sarmiento,Laboratoria,Lima Peru,2014-10-04T21:46:35Z,0,0,0,0,4179,0.0,17,31,0.5483870967741935,0,17,,0,0,,0,0,0,,False
+Israelzait,Israel Acetori H,,Lima-Peru,2018-03-12T16:35:16Z,0,0,0,0,2924,0.0,17,139,0.1223021582733813,0,17,,0,0,,0,0,0,,False
+aldriguz,Kevin Alama,,"Trujillo, Peru",2013-03-14T19:11:14Z,0,0,0,0,4748,0.0,17,67,0.2537313432835821,0,17,,0,0,,0,0,0,,False
+daisyforger,Arianna,,Peru,2020-07-23T14:58:40Z,0,0,0,0,2060,0.0,17,19,0.8947368421052632,0,17,,0,0,,0,0,0,,False
+danqwas,Daniel Jesús Echegaray Apac,,"Lima, Peru",2019-06-26T08:19:18Z,0,0,0,0,2453,0.0,17,38,0.4473684210526316,0,17,,0,0,,0,0,0,,False
+ValentinaCham,VALENTINA MILAGROS CHAMBILLA PERCA,Universidad Nacional de San Agustin de Arequipa - UNSA,Peru,2021-09-07T23:56:34Z,0,0,0,0,1649,0.0,17,6,2.8333333333333335,0,17,,0,0,,0,0,0,,False
+ahuamana,Antony Nicolas Huaman Alikhan,PaparazziTeam,Peru,2020-01-18T15:33:52Z,0,0,0,0,2247,0.0,17,15,1.1333333333333333,0,17,,0,0,,0,0,0,,False
+ricdex,Ricardo Avila,BCP,Peru,2009-12-18T19:34:30Z,0,0,0,0,5930,0.0,17,76,0.2236842105263158,0,17,,0,0,,0,0,0,,False
+jfabian,Jesus Fabian Cubas,Carbono,"Lima, Peru",2010-10-06T21:12:36Z,0,0,0,0,5638,0.0,17,17,1.0,0,17,,0,0,,0,0,0,,False
+TaniQL,TaniaQL,,"Lima, Peru",2020-12-12T07:01:19Z,0,0,0,0,1918,0.0,16,5,3.2,0,16,,0,0,,0,0,0,,False
+utec,UTEC - University of Engineering and Technology,,"Barranco,Lima - Peru",2017-11-13T15:16:41Z,0,0,0,0,3043,0.0,16,0,16,0,16,,0,0,,0,0,0,,False
+emachipana,Enmanuel Chipana,,Peru,2021-11-23T10:54:01Z,0,0,0,0,1572,0.0,16,19,0.8421052631578947,0,16,,0,0,,0,0,0,,False
+RodrigoC81,Rodrigo Canaza,,Peru,2015-07-04T10:16:18Z,0,0,0,0,3906,0.0,16,11,1.4545454545454546,0,16,,0,0,,0,0,0,,False
+infojasyrc,Jose Sal y Rosas,,"Lima, Peru",2013-06-26T23:53:20Z,0,0,0,0,4644,0.0,16,10,1.6,0,16,,0,0,,0,0,0,,False
+zlarosav,zlarosav,,"Lima, Peru",2022-05-08T05:46:06Z,0,0,0,0,1406,0.0,16,14,1.1428571428571428,0,16,,0,0,,0,0,0,,False
+znarro,Zamir Narro,,Peru,2019-07-10T01:46:33Z,0,0,0,0,2439,0.0,16,23,0.6956521739130435,0,16,,0,0,,0,0,0,,False
+jan-moxter,Jan Moxter,,"Lima, Peru",2015-03-17T22:08:23Z,0,0,0,0,4015,0.0,16,1,16.0,0,16,,0,0,,0,0,0,,False
+heilop,Heissen Lopez,,"Lima, Peru",2012-02-28T17:26:17Z,0,0,0,0,5128,0.0,16,15,1.0666666666666667,0,16,,0,0,,0,0,0,,False
+Hearly98,Hearly Sebastian Huertas Perez,FK Co SRL,Peru,2022-10-22T23:38:18Z,0,0,0,0,1239,0.0,16,31,0.5161290322580645,0,16,,0,0,,0,0,0,,False
+guerrerosystem,guerrerosystem,android developer,Lima-Peru,2021-02-01T06:36:25Z,0,0,0,0,1867,0.0,16,0,16,0,16,,0,0,,0,0,0,,False
+jeanecvh,Jeanella Hugo,EY Peru,Peru,2021-08-25T00:57:25Z,0,0,0,0,1662,0.0,16,13,1.2307692307692308,0,16,,0,0,,0,0,0,,False
+vcerpasalas,Valeria Belén Cerpa Salas,,Peru,2018-12-24T22:43:10Z,0,0,0,0,2637,0.0,16,92,0.17391304347826086,0,16,,0,0,,0,0,0,,False
+arlessweschler,Arless Weschler,,Peru,2020-03-25T17:56:27Z,0,0,0,0,2180,0.0,16,12,1.3333333333333333,0,16,,0,0,,0,0,0,,False
+deep-skill,Deep Skill Academy,,Peru,2023-05-15T19:22:23Z,0,0,0,0,1034,0.0,16,0,16,0,16,,0,0,,0,0,0,,False
+lcubas,Angel Cubas,,"Lima, Peru",2016-09-22T20:28:23Z,0,0,0,0,3460,0.0,16,18,0.8888888888888888,0,16,,0,0,,0,0,0,,False
+wigsdev,Wilmer Gulcochia ,,Peru,2020-04-29T11:28:34Z,0,0,0,0,2145,0.0,16,65,0.24615384615384617,0,16,,0,0,,0,0,0,,False
+marlontaro,Marlon Cordova,Soen Perú SAC,Peru,2012-12-18T20:27:25Z,0,0,0,0,4834,0.0,16,70,0.22857142857142856,0,16,,0,0,,0,0,0,,False
+alessandro54,Alessandro,,Peru,2019-05-04T01:43:51Z,0,0,0,0,2506,0.0,16,9,1.7777777777777777,0,16,,0,0,,0,0,0,,False
+RoyHuamanAvila,RoyAndresDev,,"Lima, Peru",2020-05-05T02:56:48Z,0,0,0,0,2139,0.0,16,29,0.5517241379310345,0,16,,0,0,,0,0,0,,False
+Abrilskop,Abrilskop,Skopx Cusco,Peru,2022-10-26T04:51:03Z,0,0,0,0,1235,0.0,16,18,0.8888888888888888,0,16,,0,0,,0,0,0,,False
+qpdian,Diana Quintanilla Perez,Ouracademy,Lima Peru,2016-04-16T21:13:06Z,0,0,0,0,3619,0.0,16,50,0.32,0,16,,0,0,,0,0,0,,False
+tripler123,Renzo Rios,,Lima - Peru,2017-04-26T19:55:23Z,0,0,0,0,3244,0.0,16,39,0.41025641025641024,0,16,,0,0,,0,0,0,,False
+ubinatus,JA Castro,@Sophiie-AI,"Lima, Peru",2019-05-29T20:59:05Z,0,0,0,0,2481,0.0,16,4,4.0,0,16,,0,0,,0,0,0,,False
+adminLTR,AdminLTR,GM-Group,Peru,2022-05-14T14:39:48Z,0,0,0,0,1400,0.0,16,19,0.8421052631578947,0,16,,0,0,,0,0,0,,False
+j05u3,Josue,@TuMicro ,"Lima, Peru",2014-06-16T00:04:01Z,0,0,0,0,4290,0.0,16,28,0.5714285714285714,0,16,,0,0,,0,0,0,,False
+sihsalus,SIH Salus,,Peru,2024-09-02T19:44:51Z,0,0,0,0,558,0.0,16,0,16,0,16,,0,0,,0,0,0,,False
+greciagarciav,,,Peru,2019-05-30T16:05:14Z,0,0,0,0,2480,0.0,15,14,1.0714285714285714,0,15,,0,0,,0,0,0,,False
+Yei-Linux,Jesus Alvan,Software Developer,Peru,2018-04-25T17:20:21Z,0,0,0,0,2880,0.0,15,20,0.75,0,15,,0,0,,0,0,0,,False
+GeoCompas,,,Peru,2023-12-18T16:11:43Z,0,0,0,0,817,0.0,15,0,15,0,15,,0,0,,0,0,0,,False
+LiamQuinoNeff,Liam Quino Neff,,"Lima, Peru",2023-04-12T22:43:49Z,0,0,0,0,1067,0.0,15,35,0.42857142857142855,0,15,,0,0,,0,0,0,,False
+lucabenaventew,Luca Benavente,,"Lima, Peru",2021-06-13T07:13:38Z,0,0,0,0,1735,0.0,15,10,1.5,0,15,,0,0,,0,0,0,,False
+AngelloFD,AngelloFD,Shoclo Solutions,Peru,2020-12-13T06:10:35Z,0,0,0,0,1917,0.0,15,40,0.375,0,15,,0,0,,0,0,0,,False
+braulio-arteaga,Braulio Arteaga Lescano,,"Lima, Peru",2020-04-27T07:24:02Z,0,0,0,0,2147,0.0,15,20,0.75,0,15,,0,0,,0,0,0,,False
+bren2102,Brenda Yucra,Freelance Full-stack Developer,"Lima, Peru",2018-08-28T05:46:31Z,0,0,0,0,2755,0.0,15,9,1.6666666666666667,0,15,,0,0,,0,0,0,,False
+karlitoz007,Carlos J. Rojas Reyes,@Google,"Lima, Peru",2012-12-02T18:41:29Z,0,0,0,0,4850,0.0,15,4,3.75,0,15,,0,0,,0,0,0,,False
+noamlv,Noam López Villanes,@pucp,Peru,2016-02-05T17:34:32Z,0,0,0,0,3690,0.0,15,2,7.5,0,15,,0,0,,0,0,0,,False
+BioXR-Immersive-Lab,BioXR Immersive Lab,,Peru,2025-10-26T18:16:57Z,0,0,0,0,139,0.0,15,0,15,0,15,,0,0,,0,0,0,,False
+gcquirozguzman,Gian Carlo Quiroz Guzman,Vanlutec,Peru,2014-10-06T16:09:27Z,0,0,0,0,4177,0.0,15,4,3.75,0,15,,0,0,,0,0,0,,False
+SanchezEmir,Sanchez Emir,@NTTDATA,"Lima, Peru",2018-05-12T23:55:08Z,0,0,0,0,2863,0.0,15,152,0.09868421052631579,0,15,,0,0,,0,0,0,,False
+jjordanoc,Joaquín Jordán,,"Lima, Peru",2021-05-10T16:38:37Z,0,0,0,0,1769,0.0,15,8,1.875,0,15,,0,0,,0,0,0,,False
+7SilviaT,Silvia Trujillano,,"Lima,Peru",2022-01-09T03:28:42Z,0,0,0,0,1525,0.0,15,13,1.1538461538461537,0,15,,0,0,,0,0,0,,False
+CesarBustios,César Bustíos,,"Lima, Peru",2012-01-18T16:46:51Z,0,0,0,0,5169,0.0,15,3,5.0,0,15,,0,0,,0,0,0,,False
+Ryusse,Joel,,Lima-Peru,2020-08-07T22:08:16Z,0,0,0,0,2045,0.0,15,5,3.0,0,15,,0,0,,0,0,0,,False
+Emmigumi,Jammie Hurtado,fed.hurtado@gmail.com,Peru,2022-01-28T18:05:33Z,0,0,0,0,1506,0.0,15,11,1.3636363636363635,0,15,,0,0,,0,0,0,,False
+erajuan,Juan Eracleo Huamani Mendoza,,Cusco - Peru,2013-12-20T20:23:18Z,0,0,0,0,4467,0.0,15,4,3.75,0,15,,0,0,,0,0,0,,False
+derpmagician,derpmagician,,Peru,2013-08-17T17:36:32Z,0,0,0,0,4592,0.0,15,37,0.40540540540540543,0,15,,0,0,,0,0,0,,False
+raulsedano2410,Raul Sedano,Collaborator in The Code Blinders.,Lima - Peru,2021-02-03T22:12:49Z,0,0,0,0,1865,0.0,15,23,0.6521739130434783,0,15,,0,0,,0,0,0,,False
+christopherdongo,Christopher Dongo Huarancca,,"lima, peru",2019-08-15T02:39:06Z,0,0,0,0,2403,0.0,15,91,0.16483516483516483,0,15,,0,0,,0,0,0,,False
+frankdev7,Frank,,Peru,2016-07-09T23:48:20Z,0,0,0,0,3535,0.0,15,47,0.3191489361702128,0,15,,0,0,,0,0,0,,False
+vanessapr,Vanessa Paco Ramos,,Peru,2012-03-28T10:51:55Z,0,0,0,0,5099,0.0,15,17,0.8823529411764706,0,15,,0,0,,0,0,0,,False
+Marynes13,Marynes Rocca,INDRA PERU,"Lima, Peru",2019-08-18T15:31:28Z,0,0,0,0,2400,0.0,15,21,0.7142857142857143,0,15,,0,0,,0,0,0,,False
+danielex1999,Juan Daniel Cavero Tovar,NTTDATA,"Lima, Peru",2020-08-16T01:36:29Z,0,0,0,0,2036,0.0,15,11,1.3636363636363635,0,15,,0,0,,0,0,0,,False
+dpalominop,Daniel Palomino,Moody's Analytics,Peru,2012-03-22T00:48:54Z,0,0,0,0,5106,0.0,15,8,1.875,0,15,,0,0,,0,0,0,,False
+GersonDesign,Gerson Perez Aguilar,@Aptitud-Emprendedora ,"Lima,Peru",2012-09-30T02:41:17Z,0,0,0,0,4913,0.0,15,5,3.0,0,15,,0,0,,0,0,0,,False
+joelmez4,0X1010,,Peru,2012-05-04T01:17:07Z,0,0,0,0,5062,0.0,15,27,0.5555555555555556,0,15,,0,0,,0,0,0,,False
+davidprospero123,THEPAPUSTEAM,,Peru,2023-05-15T22:28:23Z,0,0,0,0,1034,0.0,15,1,15.0,0,15,,0,0,,0,0,0,,False
+jumanor,Jorge Cotrado,KaminoSoft,"Tacna, Peru",2013-07-04T23:00:09Z,0,0,0,0,4636,0.0,15,0,15,0,15,,0,0,,0,0,0,,False
+ThaNohe,Thalía N. Cuadros,Abierta a empleo,Lima-Peru,2022-01-31T15:54:46Z,0,0,0,0,1503,0.0,15,24,0.625,0,15,,0,0,,0,0,0,,False
+AChangM,Alfonso Chang,InkapitalEs,"Lima, Peru",2019-11-04T13:47:58Z,0,0,0,0,2322,0.0,15,10,1.5,0,15,,0,0,,0,0,0,,False
+gabiprds93,Gabriela Paredes Paredes,gabrielaparedes,Peru,2017-06-12T19:26:10Z,0,0,0,0,3197,0.0,15,4,3.75,0,15,,0,0,,0,0,0,,False
+jahirmedinacs,Jahir Medina,Personal,Peru,2017-08-19T09:36:29Z,0,0,0,0,3129,0.0,15,13,1.1538461538461537,0,15,,0,0,,0,0,0,,False
+ErizoMA,Erick Marcelo,,Peru,2021-03-27T04:09:56Z,0,0,0,0,1813,0.0,14,13,1.0769230769230769,0,14,,0,0,,0,0,0,,False
+soabel,Alfredo Benaute,,"Lima, Peru",2016-04-08T17:40:45Z,0,0,0,0,3627,0.0,14,35,0.4,0,14,,0,0,,0,0,0,,False
+OnlyChristopher,Christopher Orlando Ramirez Montesinos,,Peru,2012-07-12T14:51:11Z,0,0,0,0,4993,0.0,14,40,0.35,0,14,,0,0,,0,0,0,,False
+yohanaFalconi,Yohana Falconi,,"Lima, Peru",2022-01-24T01:36:52Z,0,0,0,0,1510,0.0,14,18,0.7777777777777778,0,14,,0,0,,0,0,0,,False
+infantito,Daniel Infante,@makingsense,Peru,2014-10-07T02:37:22Z,0,0,0,0,4176,0.0,14,67,0.208955223880597,0,14,,0,0,,0,0,0,,False
+Keny4747,Keny47,,Peru,2021-08-28T03:59:59Z,0,0,0,0,1659,0.0,14,10,1.4,0,14,,0,0,,0,0,0,,False
+PaulLuqueCcosi,Paul Alexander Luque Ccosi,,Peru - Arequipa,2021-04-20T14:34:11Z,0,0,0,0,1789,0.0,14,17,0.8235294117647058,0,14,,0,0,,0,0,0,,False
+JairHuamanBellido,Jair Huaman Bellido,,Peru - Lima,2018-04-13T14:10:18Z,0,0,0,0,2892,0.0,14,13,1.0769230769230769,0,14,,0,0,,0,0,0,,False
+JaocHatter,jaocsjaoc,Yape,"Lima, Peru",2022-08-24T23:13:48Z,0,0,0,0,1298,0.0,14,23,0.6086956521739131,0,14,,0,0,,0,0,0,,False
+CalmaInnovations,Fundación Calma,,Peru,2024-10-18T18:14:33Z,0,0,0,0,512,0.0,14,0,14,0,14,,0,0,,0,0,0,,False
+ivanph1017,Ivan Palomares,,"Peru, Lima",2016-03-21T18:29:22Z,0,0,0,0,3645,0.0,14,6,2.3333333333333335,0,14,,0,0,,0,0,0,,False
+andreyanez,André Yáñez,,Peru,2018-05-29T18:21:11Z,0,0,0,0,2846,0.0,14,27,0.5185185185185185,0,14,,0,0,,0,0,0,,False
+itamaradin15,Itamar Garcia,Manzana Verde,"Lima, Peru",2015-09-16T14:07:00Z,0,0,0,0,3832,0.0,14,44,0.3181818181818182,0,14,,0,0,,0,0,0,,False
+carlosdtn,Carlos Daniel,UNMSM,"Lima, Peru",2019-09-06T16:34:10Z,0,0,0,0,2381,0.0,14,30,0.4666666666666667,0,14,,0,0,,0,0,0,,False
+joskr2,Josue Patricio,,Peru,2016-10-14T20:30:14Z,0,0,0,0,3438,0.0,14,0,14,0,14,,0,0,,0,0,0,,False
+urp-topicos-2025-2,URP Tópicos de Tecnologías de Información - 2025-2,,Peru,2025-08-30T17:50:54Z,0,0,0,0,196,0.0,14,0,14,0,14,,0,0,,0,0,0,,False
+AnthonyTC89,Anthony Tapia,Full-stack Developer,Peru,2019-06-10T16:00:19Z,0,0,0,0,2469,0.0,14,12,1.1666666666666667,0,14,,0,0,,0,0,0,,False
+GunpowderGuy,Diego Rosario,,"Lima, Peru",2014-10-14T00:45:25Z,0,0,0,0,4170,0.0,14,16,0.875,0,14,,0,0,,0,0,0,,False
+METAMAZON,METAMAZON,,Peru,2024-08-30T16:30:49Z,0,0,0,0,561,0.0,14,0,14,0,14,,0,0,,0,0,0,,False
+gnahc2305,Andrés Chang,,"Lima, Peru",2021-04-16T14:24:28Z,0,0,0,0,1793,0.0,14,5,2.8,0,14,,0,0,,0,0,0,,False
+samuelbonifacio015,Samuel Bonifacio,,"Lima, Peru",2023-04-19T02:57:18Z,0,0,0,0,1060,0.0,14,53,0.2641509433962264,0,14,,0,0,,0,0,0,,False
+lab-humanidades-digitales-pucp,"Laboratorio de Humanidades Digitales, Facultad de Letras y Ciencias Humanas, PUCP",,Peru,2022-09-06T15:16:24Z,0,0,0,0,1285,0.0,14,0,14,0,14,,0,0,,0,0,0,,False
+theb4rt,Jose Manuel,https://b4rt.dev,"lima, Peru",2018-05-29T19:20:37Z,0,0,0,0,2846,0.0,14,4,3.5,0,14,,0,0,,0,0,0,,False
+linointhecloud,Lino Espinoza,,"Lima, Peru",2019-06-25T05:00:36Z,0,0,0,0,2454,0.0,14,37,0.3783783783783784,0,14,,0,0,,0,0,0,,False
+zeroark,Chris Leon,Tranzact,"Lima, Peru",2011-01-28T18:10:33Z,0,0,0,0,5524,0.0,14,6,2.3333333333333335,0,14,,0,0,,0,0,0,,False
+nemgf,Fernando Vergel,,"Lima, Peru",2023-09-27T13:45:05Z,0,0,0,0,899,0.0,14,66,0.21212121212121213,0,14,,0,0,,0,0,0,,False
+bluezin,Yadira Condezo,,"Lima, Peru",2019-03-31T01:15:26Z,0,0,0,0,2540,0.0,14,15,0.9333333333333333,0,14,,0,0,,0,0,0,,False
+musajajorge,Jorge L. C. Musaja,,Peru,2020-10-22T03:21:16Z,0,0,0,0,1969,0.0,14,1,14.0,0,14,,0,0,,0,0,0,,False
+arkezam,Kevin A. Paye Zamata,,PERU,2021-05-15T14:58:26Z,0,0,0,0,1764,0.0,14,10,1.4,0,14,,0,0,,0,0,0,,False
+juanchos2018,juan Carlos,,peru,2018-11-25T03:20:51Z,0,0,0,0,2666,0.0,14,24,0.5833333333333334,0,14,,0,0,,0,0,0,,False
+gogodr,Gonzalo Diaz,,"Lima, Peru",2012-11-07T06:48:05Z,0,0,0,0,4875,0.0,14,1,14.0,0,14,,0,0,,0,0,0,,False
+newiclus,Junihor Moran,Freelancer,"Lima, Peru",2010-03-15T13:42:18Z,0,0,0,0,5843,0.0,14,3,4.666666666666667,0,14,,0,0,,0,0,0,,False
+mtocommunity,ManyToOne Community,,Peru,2024-07-12T17:38:16Z,0,0,0,0,610,0.0,14,0,14,0,14,,0,0,,0,0,0,,False
+Yelsy,Yelsy,,"Peru, Lima",2020-01-26T20:29:51Z,0,0,0,0,2239,0.0,14,8,1.75,0,14,,0,0,,0,0,0,,False
+patriciact29,Patricia,,"Lima, Peru",2022-11-22T14:56:19Z,0,0,0,0,1208,0.0,14,8,1.75,0,14,,0,0,,0,0,0,,False
+irwingss,Irwing S. Saldaña,masterX,"Lima, Peru",2019-06-21T17:51:04Z,0,0,0,0,2458,0.0,14,43,0.32558139534883723,0,14,,0,0,,0,0,0,,False
+entertechschool,Enter Tech School,,Peru,2024-02-14T00:30:03Z,0,0,0,0,760,0.0,14,0,14,0,14,,0,0,,0,0,0,,False
+RiyanPC,Rider,BIATEC,Peru,2024-08-22T18:13:23Z,0,0,0,0,569,0.0,14,9,1.5555555555555556,0,14,,0,0,,0,0,0,,False
+Lucas2k,Hairol Lucas G.,Birthy,Lima - Peru,2014-08-02T05:18:59Z,0,0,0,0,4242,0.0,14,36,0.3888888888888889,0,14,,0,0,,0,0,0,,False
+IgorRC,Igor,@gnius-pe,Peru,2020-07-23T23:03:14Z,0,0,0,0,2060,0.0,14,24,0.5833333333333334,0,14,,0,0,,0,0,0,,False
+LubeckHuaman,Lubeck Huaman,BairesDev,peru,2013-05-11T02:31:28Z,0,0,0,0,4690,0.0,14,23,0.6086956521739131,0,14,,0,0,,0,0,0,,False
+fabriziofranco,Fabrizio Franco,Universidad de Ingeniería y Tecnología,"Lima, Peru",2018-06-03T00:34:17Z,0,0,0,0,2842,0.0,14,10,1.4,0,14,,0,0,,0,0,0,,False
+Pablituuu,Pablituuu,,Peru,2020-02-26T19:48:14Z,0,0,0,0,2208,0.0,14,4,3.5,0,14,,0,0,,0,0,0,,False
+cmolinan,Carlos Molina,BSC Electronic Engineering. Professional in Information Technologies ,"Lima, Peru",2016-03-18T03:24:55Z,0,0,0,0,3648,0.0,14,9,1.5555555555555556,0,14,,0,0,,0,0,0,,False
+Edgarmejiav,Edgar Mejia Vasquez,,peru,2018-01-22T19:16:12Z,0,0,0,0,2973,0.0,14,33,0.42424242424242425,0,14,,0,0,,0,0,0,,False
+urp-moviles-2025-2,URP Sistemas Móviles y Plataformas Menores - 2025-2,,Peru,2025-09-03T06:53:16Z,0,0,0,0,192,0.0,14,0,14,0,14,,0,0,,0,0,0,,False
+sigiandre,Andrew,Cibernet,"Lima, Peru",2016-06-14T23:29:41Z,0,0,0,0,3560,0.0,13,65,0.2,0,13,,0,0,,0,0,0,,False
+CONOVATEC,CONOVATEC,,Peru,2022-01-09T02:09:48Z,0,0,0,0,1525,0.0,13,0,13,0,13,,0,0,,0,0,0,,False
+MeloDev2111,MeloDev,,"Chimbote, Peru",2020-12-06T14:12:39Z,0,0,0,0,1924,0.0,13,9,1.4444444444444444,0,13,,0,0,,0,0,0,,False
+luiseduardoaugusto,Chinoa,artemanifiesto.com,Peru,2011-11-11T16:26:39Z,0,0,0,0,5237,0.0,13,38,0.34210526315789475,0,13,,0,0,,0,0,0,,False
+juvega,Julio César Velarde,,Peru,2015-08-10T03:20:47Z,0,0,0,0,3869,0.0,13,0,13,0,13,,0,0,,0,0,0,,False
+upc-pre-202301-si729-sw51,202301 SI729 SW51,,Peru,2023-03-28T13:47:55Z,0,0,0,0,1082,0.0,13,0,13,0,13,,0,0,,0,0,0,,False
+pcsinreu,NALDO REUPO MUSAYON G,UPC,Peru,2022-09-02T16:37:37Z,0,0,0,0,1289,0.0,13,1,13.0,0,13,,0,0,,0,0,0,,False
+lesashley,Leslie Avendaño,,"Lima, Peru",2017-02-20T15:41:46Z,0,0,0,0,3309,0.0,13,6,2.1666666666666665,0,13,,0,0,,0,0,0,,False
+jruegg,Josias Ruegg,,Peru,2015-08-18T22:42:43Z,0,0,0,0,3861,0.0,13,13,1.0,0,13,,0,0,,0,0,0,,False
+moltengama,MoltenGamaLC,UPC ,"carabayork, Peru",2021-08-14T18:11:39Z,0,0,0,0,1673,0.0,13,23,0.5652173913043478,0,13,,0,0,,0,0,0,,False
+pieromarini,Piero Marini,,"Lima, Peru",2013-03-03T22:19:27Z,0,0,0,0,4759,0.0,13,1,13.0,0,13,,0,0,,0,0,0,,False
+BeltranHC,JUNIOR HUARAYA,,"Puno, Peru",2023-09-03T17:24:33Z,0,0,0,0,923,0.0,13,13,1.0,0,13,,0,0,,0,0,0,,False
+salozem,Salomón Zegarra,SINCRO,Peru,2018-01-29T14:15:57Z,0,0,0,0,2966,0.0,13,38,0.34210526315789475,0,13,,0,0,,0,0,0,,False
+brunogonzales,Bruno Gonzales,,"Lima, Peru",2019-10-31T17:26:39Z,0,0,0,0,2326,0.0,13,92,0.14130434782608695,0,13,,0,0,,0,0,0,,False
+JesusHuayhua,Jesus Huayhua,,Lima - Peru,2022-05-29T02:22:53Z,0,0,0,0,1385,0.0,13,23,0.5652173913043478,0,13,,0,0,,0,0,0,,False
+gonzalo-droid,Gonzalo Droid,,Peru,2018-01-05T18:44:03Z,0,0,0,0,2990,0.0,13,27,0.48148148148148145,0,13,,0,0,,0,0,0,,False
+BrunoMont2003,Bruno Mont,,Peru,2020-09-26T02:37:54Z,0,0,0,0,1995,0.0,13,11,1.1818181818181819,0,13,,0,0,,0,0,0,,False
+R0SEWT,Rody Vilchez,@Percep3 @ArbitrIA ,"Lima, Peru",2022-03-29T00:08:37Z,0,0,0,0,1447,0.0,13,43,0.3023255813953488,0,13,,0,0,,0,0,0,,False
+eswinpalacios,Eswin Palacios Sarmiento,Rappi,Peru,2016-06-06T03:28:29Z,0,0,0,0,3568,0.0,13,38,0.34210526315789475,0,13,,0,0,,0,0,0,,False
+lvidal1,Leonardo Vidal,,"Lima, Peru",2014-01-24T20:18:00Z,0,0,0,0,4432,0.0,13,7,1.8571428571428572,0,13,,0,0,,0,0,0,,False
+dabc312GitHub,Daryl Butron,Student,Arequipa-Peru,2017-08-17T18:29:44Z,0,0,0,0,3131,0.0,13,26,0.5,0,13,,0,0,,0,0,0,,False
+01Eddie,Eddie Hg,,"Lima, Peru",2019-02-17T23:21:41Z,0,0,0,0,2582,0.0,13,12,1.0833333333333333,0,13,,0,0,,0,0,0,,False
+lorena90davila,Lorena Dávila Ermus,,"Lima, Peru",2019-07-10T21:11:56Z,0,0,0,0,2439,0.0,13,27,0.48148148148148145,0,13,,0,0,,0,0,0,,False
+oscargdi,Oscar Diaz,,"Lima, Peru",2015-11-27T14:57:45Z,0,0,0,0,3760,0.0,13,5,2.6,0,13,,0,0,,0,0,0,,False
+IvanPerez-dev,Ivan Perez Tintaya,ISP Consulting,Peru,2020-05-28T18:04:34Z,0,0,0,0,2116,0.0,13,4,3.25,0,13,,0,0,,0,0,0,,False
+devpedroj,Pedro Jaramillo,Seeker Market,"Lima, Peru",2019-07-31T01:24:16Z,0,0,0,0,2418,0.0,13,26,0.5,0,13,,0,0,,0,0,0,,False
+albinagorta,Angel Albinagorta,AvideaIT,LIMA - PERU,2018-09-24T16:56:38Z,0,0,0,0,2728,0.0,13,22,0.5909090909090909,0,13,,0,0,,0,0,0,,False
+luisfarfan,Luis Eduardo Farfan Melgar,,"Peru, Lima",2015-02-06T19:20:51Z,0,0,0,0,4054,0.0,13,8,1.625,0,13,,0,0,,0,0,0,,False
+ItaloAranda,Italo Aranda,EVOL,Peru,2023-07-04T20:30:35Z,0,0,0,0,984,0.0,13,33,0.3939393939393939,0,13,,0,0,,0,0,0,,False
+Wusinho,Heber Lazo,heberlazo@gmail.com,Lima-Peru,2020-06-20T03:59:49Z,0,0,0,0,2093,0.0,13,30,0.43333333333333335,0,13,,0,0,,0,0,0,,False
+emiliusvgs,Emilio Vegas ,,Peru,2011-02-13T21:52:20Z,0,0,0,0,5508,0.0,13,1,13.0,0,13,,0,0,,0,0,0,,False
+orbital23,Paul,Inetum,"Lima, Peru",2011-06-14T16:34:45Z,0,0,0,0,5387,0.0,13,24,0.5416666666666666,0,13,,0,0,,0,0,0,,False
+galfarotolon,Guillermo Alfaro,Lambda School,"Lima, Peru",2016-04-06T00:02:28Z,0,0,0,0,3630,0.0,13,9,1.4444444444444444,0,13,,0,0,,0,0,0,,False
+wilson0xb4,Andrew Wilson,,"Lima, Peru",2012-04-15T07:31:29Z,0,0,0,0,5081,0.0,13,6,2.1666666666666665,0,13,,0,0,,0,0,0,,False
+cristhianLaurente,Cristhian Laurente,develop,Peru - Arequipa,2020-02-11T17:17:14Z,0,0,0,0,2223,0.0,13,10,1.3,0,13,,0,0,,0,0,0,,False
+kotlindebolsillo,Alonso Ato Neyra,Rappi,"Lima, Peru",2015-08-31T01:52:08Z,0,0,0,0,3848,0.0,13,62,0.20967741935483872,0,13,,0,0,,0,0,0,,False
+leoalipazaga,Leonardo Alipazaga,,"Lima, Peru",2014-12-04T15:52:15Z,0,0,0,0,4118,0.0,13,53,0.24528301886792453,0,13,,0,0,,0,0,0,,False
+williamscafdev,Williams M. Torres,,Lima - Peru,2018-11-24T22:12:27Z,0,0,0,0,2667,0.0,12,4,3.0,0,12,,0,0,,0,0,0,,False
+rubyperu,Ruby Peru,,"Lima, Peru",2011-08-03T03:28:30Z,0,0,0,0,5337,0.0,12,0,12,0,12,,0,0,,0,0,0,,False
+davidbarraza,David A. Barraza,@ConsiliumBots,"Lima, Peru",2017-09-12T18:38:47Z,0,0,0,0,3105,0.0,12,20,0.6,0,12,,0,0,,0,0,0,,False
+izipay-dev,IZIPAY,,Peru,2025-08-18T19:58:24Z,0,0,0,0,208,0.0,12,0,12,0,12,,0,0,,0,0,0,,False
+dmotta,David Motta,Banco de Credito del Peru,"Lima, Peru",2009-05-15T18:31:24Z,0,0,0,0,6147,0.0,12,4,3.0,0,12,,0,0,,0,0,0,,False
+SlayerPower,Victor ,,peru ,2024-07-18T05:58:29Z,0,0,0,0,604,0.0,12,21,0.5714285714285714,0,12,,0,0,,0,0,0,,False
+adrianastef1425,Adriana,,Lima - Peru,2021-06-28T02:32:46Z,0,0,0,0,1720,0.0,12,15,0.8,0,12,,0,0,,0,0,0,,False
+Angel-2002,Luis Angel Alejo Cardenas,,"Lima, Peru",2022-09-01T15:01:45Z,0,0,0,0,1290,0.0,12,15,0.8,0,12,,0,0,,0,0,0,,False
+DreckSallow,Dikson Aranda,,Lima-Peru,2021-07-04T02:24:00Z,0,0,0,0,1714,0.0,12,25,0.48,0,12,,0,0,,0,0,0,,False
+FrancisM16,Francis Mori ,,Peru,2019-04-06T16:36:47Z,0,0,0,0,2534,0.0,12,12,1.0,0,12,,0,0,,0,0,0,,False
+dev-nekko,Renatto Oyague,,"Lima, Peru",2019-03-19T21:30:27Z,0,0,0,0,2552,0.0,12,22,0.5454545454545454,0,12,,0,0,,0,0,0,,False
+getavi,Gerald Villarroel,,Peru,2019-08-31T03:00:37Z,0,0,0,0,2387,0.0,12,88,0.13636363636363635,0,12,,0,0,,0,0,0,,False
+MartinpcDev,MartinDev,,Peru,2021-04-09T22:20:09Z,0,0,0,0,1800,0.0,12,12,1.0,0,12,,0,0,,0,0,0,,False
+gvillena,Giancarlo Villena,,Peru,2015-06-02T03:18:05Z,0,0,0,0,3938,0.0,12,16,0.75,0,12,,0,0,,0,0,0,,False
+puntoenv,Sebastian Peralta,,"Lima, Peru",2022-06-24T20:22:44Z,0,0,0,0,1359,0.0,12,26,0.46153846153846156,0,12,,0,0,,0,0,0,,False
+carmen0810,Carmen Herrera Anicama,Laboratoria,"Lima, Peru",2021-05-07T22:03:57Z,0,0,0,0,1772,0.0,12,6,2.0,0,12,,0,0,,0,0,0,,False
+lags2022,Luis Angel,,"Trujillo, Peru",2022-10-07T00:09:44Z,0,0,0,0,1255,0.0,12,21,0.5714285714285714,0,12,,0,0,,0,0,0,,False
+alejo742,Alejandro Manrique,,"Peru | Hanover, NH",2021-07-07T17:42:49Z,0,0,0,0,1711,0.0,12,12,1.0,0,12,,0,0,,0,0,0,,False
+eastor112,Emerson Asto,,Peru,2020-01-01T05:53:09Z,0,0,0,0,2264,0.0,12,0,12,0,12,,0,0,,0,0,0,,False
+piscosour,Eduardo Marisca,La Victoria Lab,"Lima, Peru",2013-01-26T03:47:33Z,0,0,0,0,4795,0.0,12,9,1.3333333333333333,0,12,,0,0,,0,0,0,,False
+dkevlas,Kevin Blas,,Peru,2024-05-08T18:00:51Z,0,0,0,0,675,0.0,12,5,2.4,0,12,,0,0,,0,0,0,,False
+MarcOliva,Marc Oliva Eslava,,"Lima , Peru",2016-08-22T05:21:11Z,0,0,0,0,3491,0.0,12,2,6.0,0,12,,0,0,,0,0,0,,False
+programadorescs,Jack Chavez Saravia,,"Ica, Peru",2020-08-13T14:53:55Z,0,0,0,0,2039,0.0,12,0,12,0,12,,0,0,,0,0,0,,False
+Andre6-dev,Andre Gallegos Quenaya  ,,"Arequipa, Peru",2020-06-23T23:02:03Z,0,0,0,0,2090,0.0,12,13,0.9230769230769231,0,12,,0,0,,0,0,0,,False
+cucarach0n,Luis Manuel Pariona Osorio,Soporgram SAC,"Lima,Peru",2015-09-26T15:14:45Z,0,0,0,0,3822,0.0,12,7,1.7142857142857142,0,12,,0,0,,0,0,0,,False
+Julioocz,Julio Navarro,Able,"Lima, Peru",2016-08-14T02:39:16Z,0,0,0,0,3499,0.0,12,10,1.2,0,12,,0,0,,0,0,0,,False
+bercode21,Bernardo Peña,Bercoder,PERU,2022-08-23T05:20:51Z,0,0,0,0,1299,0.0,12,2,6.0,0,12,,0,0,,0,0,0,,False
+Juank628,Juan Carlos Sánchez,Front-End Developer,"Lima, Peru",2018-01-28T21:20:54Z,0,0,0,0,2967,0.0,12,7,1.7142857142857142,0,12,,0,0,,0,0,0,,False
+Jonathan03R,Jonathan Roque Gonzales,,Peru Trujillo,2021-11-22T20:00:56Z,0,0,0,0,1573,0.0,12,13,0.9230769230769231,0,12,,0,0,,0,0,0,,False
+hugobullont,Hugo Bullon,Scharff - StartUp,"Lima, Peru",2016-09-23T20:30:26Z,0,0,0,0,3459,0.0,12,5,2.4,0,12,,0,0,,0,0,0,,False
+KeyvinSV,Keyvin Saldaña,,Lima - Peru,2021-05-11T14:57:53Z,0,0,0,0,1768,0.0,12,0,12,0,12,,0,0,,0,0,0,,False
+SebasMBK,Sebastian Montenegro,,"Lima, Peru",2022-01-24T14:39:35Z,0,0,0,0,1510,0.0,12,1,12.0,0,12,,0,0,,0,0,0,,False
+opando,opando,,PERU,2012-08-22T06:14:08Z,0,0,0,0,4952,0.0,12,57,0.21052631578947367,0,12,,0,0,,0,0,0,,False
+macostag,Mario,,Peru,2017-04-01T19:34:22Z,0,0,0,0,3269,0.0,12,40,0.3,0,12,,0,0,,0,0,0,,False
+cobyzero,Sebastian Abal Salazar,Cobyzero ,Peru,2022-10-09T21:23:02Z,0,0,0,0,1252,0.0,12,4,3.0,0,12,,0,0,,0,0,0,,False
+yanicklandry,Yanick Landry,,"Lima, Peru",2011-04-24T23:09:19Z,0,0,0,0,5438,0.0,12,14,0.8571428571428571,0,12,,0,0,,0,0,0,,False
+jedionmelbin,Jedion Melbin,xpro,Lima Peru,2015-11-10T01:27:53Z,0,0,0,0,3777,0.0,12,22,0.5454545454545454,0,12,,0,0,,0,0,0,,False
+Juanca0312,Juan Carlos Hernández,,Peru,2018-06-06T14:47:31Z,0,0,0,0,2838,0.0,12,15,0.8,0,12,,0,0,,0,0,0,,False
+Dvex,Eduardo Cabrera Japa,,Peru - Lima - Chorrillos,2011-08-22T21:07:20Z,0,0,0,0,5318,0.0,12,9,1.3333333333333333,0,12,,0,0,,0,0,0,,False
+kenqefh,Frank Dominguez,@SuperfanLLC @codeableorg @svangel,Peru,2017-12-21T23:34:03Z,0,0,0,0,3005,0.0,12,35,0.34285714285714286,0,12,,0,0,,0,0,0,,False
+DeivyPereira,Gregoris Pereira,Venetronic,Peru,2013-03-26T04:34:35Z,0,0,0,0,4736,0.0,12,61,0.19672131147540983,0,12,,0,0,,0,0,0,,False
+maximopeoficiales,Maximo Apaza Chirhuana,Programador Full Stack JS,Lima(Peru),2019-07-22T23:00:02Z,0,0,0,0,2427,0.0,12,12,1.0,0,12,,0,0,,0,0,0,,False
+miguel8arivera,Miguel Ochoa,Tranzact,Peru,2021-03-03T20:40:17Z,0,0,0,0,1837,0.0,12,16,0.75,0,12,,0,0,,0,0,0,,False
+rpinedaec83,Roberto Pineda,x-codec.net,"Lima, Peru",2023-01-13T02:39:00Z,0,0,0,0,1156,0.0,12,1,12.0,0,12,,0,0,,0,0,0,,False
+anthony-rosado,Anthony Rosado,,"Lima, Peru",2018-06-09T21:54:49Z,0,0,0,0,2835,0.0,12,15,0.8,0,12,,0,0,,0,0,0,,False
+ilidanrock,Luis Rivera,,Peru,2020-09-07T11:42:54Z,0,0,0,0,2014,0.0,12,10,1.2,0,12,,0,0,,0,0,0,,False
+gabyrramos,Gabriela,,Peru,2023-03-09T18:33:59Z,0,0,0,0,1101,0.0,12,15,0.8,0,12,,0,0,,0,0,0,,False
+gyosida,Gianfranco Yosida,Fz Sports,"Lima, Peru ",2013-08-23T03:20:52Z,0,0,0,0,4586,0.0,12,7,1.7142857142857142,0,12,,0,0,,0,0,0,,False
+Juandeyby,Juan Deyby Carlos-Chullo,@Lidyi-Studios ,"Arequipa, Peru",2014-10-13T20:50:23Z,0,0,0,0,4170,0.0,12,35,0.34285714285714286,0,12,,0,0,,0,0,0,,False
+iesussan,Jesus Sanchez,Microsoft,From Venezuela - Living In Peru,2015-04-05T15:55:19Z,0,0,0,0,3996,0.0,12,21,0.5714285714285714,0,12,,0,0,,0,0,0,,False
+raseconomics,César García,Universidad Nacional Mayor de San Marcos,"Lima, Peru",2020-09-25T05:04:42Z,0,0,0,0,1996,0.0,12,8,1.5,0,12,,0,0,,0,0,0,,False
+peteragurto,Pedro Enrique Agurto Castillo,,Peru,2023-04-13T02:00:24Z,0,0,0,0,1066,0.0,12,53,0.22641509433962265,0,12,,0,0,,0,0,0,,False
+NONHUMAN-SITE,NONHUMAN SITE,,Peru,2025-01-19T02:40:58Z,0,0,0,0,419,0.0,12,0,12,0,12,,0,0,,0,0,0,,False
+ieeecsutp,IEEE Computer Society UTP,,Peru,2025-09-20T21:18:12Z,0,0,0,0,175,0.0,12,0,12,0,12,,0,0,,0,0,0,,False
+juancotera,Juan Cotera,,Peru,2019-05-31T15:35:04Z,0,0,0,0,2479,0.0,12,6,2.0,0,12,,0,0,,0,0,0,,False
+dfigueroaw,Diego Figueroa,UTEC,Peru,2020-04-28T23:38:56Z,0,0,0,0,2146,0.0,12,12,1.0,0,12,,0,0,,0,0,0,,False
+Artcs1,Artcs,Stony Brook University,Peru,2017-07-15T21:02:58Z,0,0,0,0,3164,0.0,12,9,1.3333333333333333,0,12,,0,0,,0,0,0,,False
+DwijanX,Christian Rivero Arnez,Jysk Fynske Medier - Intergraphics,Peru,2020-08-21T12:45:21Z,0,0,0,0,2031,0.0,12,13,0.9230769230769231,0,12,,0,0,,0,0,0,,False
+AJ-Derteano,Andrés Josué Neyra Derteano,,Peru,2019-09-21T14:31:58Z,0,0,0,0,2366,0.0,12,9,1.3333333333333333,0,12,,0,0,,0,0,0,,False
+Rogocita,Roseny Quintanilla,,Peru,2023-02-22T00:47:57Z,0,0,0,0,1117,0.0,12,10,1.2,0,12,,0,0,,0,0,0,,False
+JoelPasapera,Joel Pasapera,Trading Patagonia SATI,Peru,2022-06-24T21:02:20Z,0,0,0,0,1359,0.0,12,45,0.26666666666666666,0,12,,0,0,,0,0,0,,False
+pythonperu-org,Python Perú,,Peru,2023-09-30T18:08:30Z,0,0,0,0,896,0.0,11,0,11,0,11,,0,0,,0,0,0,,False
+jubre,Junior Corman,@Interbank,Lima - Peru,2011-05-13T03:52:09Z,0,0,0,0,5419,0.0,11,31,0.3548387096774194,0,11,,0,0,,0,0,0,,False
+jcpazos,Jose Carlos Pazos,Wolfram Research,"Lima, Peru",2018-03-01T00:51:24Z,0,0,0,0,2936,0.0,11,0,11,0,11,,0,0,,0,0,0,,False
+Carlos-Ballon,Carlos Ballon-Salcedo,Universidad Peruana Cayetano Heredia,"Arequipa, Peru",2020-09-26T18:08:57Z,0,0,0,0,1995,0.0,11,95,0.11578947368421053,0,11,,0,0,,0,0,0,,False
+GeraldineCh,Geraldine Chauca,,"Lima, Peru",2017-02-20T21:48:04Z,0,0,0,0,3309,0.0,11,16,0.6875,0,11,,0,0,,0,0,0,,False
+EluMadrid,Elvia Madrid,,Lima-Peru,2022-09-02T00:30:35Z,0,0,0,0,1290,0.0,11,18,0.6111111111111112,0,11,,0,0,,0,0,0,,False
+Fredy,Fredy Álvarez,,"Arequipa, Peru",2015-08-20T15:18:02Z,0,0,0,0,3859,0.0,11,0,11,0,11,,0,0,,0,0,0,,False
+leoerick08,Erick A. C. S.,,"Lima, Peru.",2023-05-11T23:43:31Z,0,0,0,0,1038,0.0,11,9,1.2222222222222223,0,11,,0,0,,0,0,0,,False
+danferkz,danfer,,"Lima, Peru",2022-03-22T16:50:00Z,0,0,0,0,1453,0.0,11,29,0.3793103448275862,0,11,,0,0,,0,0,0,,False
+idbi,ID B.I.,,Peru,2019-01-09T23:08:19Z,0,0,0,0,2621,0.0,11,0,11,0,11,,0,0,,0,0,0,,False
+YamilAyma,Yamil Ayma ,Freelancer,"Lima,Peru",2024-08-03T15:33:51Z,0,0,0,0,588,0.0,11,14,0.7857142857142857,0,11,,0,0,,0,0,0,,False
+dwebert,Daniel Webert,,Peru,2016-03-22T22:29:57Z,0,0,0,0,3644,0.0,11,7,1.5714285714285714,0,11,,0,0,,0,0,0,,False
+ChoqueCastroLD,Luis David Choque Castro,,Peru,2019-01-05T02:13:23Z,0,0,0,0,2625,0.0,11,8,1.375,0,11,,0,0,,0,0,0,,False
+jlzarates,Ricardo Zárate Sotelo,,"Lima, Peru",2020-04-26T02:45:35Z,0,0,0,0,2148,0.0,11,9,1.2222222222222223,0,11,,0,0,,0,0,0,,False
+MartiusBr,Martin Ballasco Ramos,,Lima- Peru,2016-02-04T15:19:11Z,0,0,0,0,3691,0.0,11,90,0.12222222222222222,0,11,,0,0,,0,0,0,,False
+piercenovo,Pierce Novoa,,"Trujillo, Peru",2020-07-24T19:25:34Z,0,0,0,0,2059,0.0,11,55,0.2,0,11,,0,0,,0,0,0,,False
+MariaCristinaTC,MariaCristinaTarazona,,"Lima, Peru",2021-01-09T18:00:37Z,0,0,0,0,1890,0.0,11,18,0.6111111111111112,0,11,,0,0,,0,0,0,,False
+Alex23013,Maria Cornejo Lupa,@AdAction @AdGem ,Arequipa - Peru,2015-08-20T13:44:18Z,0,0,0,0,3859,0.0,11,3,3.6666666666666665,0,11,,0,0,,0,0,0,,False
+luis-palomino,Luis Palomino,,Peru,2020-05-11T21:05:04Z,0,0,0,0,2133,0.0,11,17,0.6470588235294118,0,11,,0,0,,0,0,0,,False
+EmPuiquin24,Hector Emilio ,,Peru,2021-04-09T21:24:54Z,0,0,0,0,1800,0.0,11,14,0.7857142857142857,0,11,,0,0,,0,0,0,,False
+PeruCoinOfficial,PeruCoin,Perucoin,Peru,2018-05-12T17:26:21Z,0,0,0,0,2863,0.0,11,55,0.2,0,11,,0,0,,0,0,0,,False
+maddog05,Andree Torres,,"Lima, Peru",2016-02-09T20:49:46Z,0,0,0,0,3686,0.0,11,1,11.0,0,11,,0,0,,0,0,0,,False
+francisc0-PE,Francisco,UPC,"Lima, Peru",2020-08-18T01:43:17Z,0,0,0,0,2034,0.0,11,38,0.2894736842105263,0,11,,0,0,,0,0,0,,False
+protectasecurity,Protecta Security,,Peru,2022-10-21T22:23:53Z,0,0,0,0,1240,0.0,11,0,11,0,11,,0,0,,0,0,0,,False
+sogeking-pixel,Yerson Sanchez,,"La Libertad, Peru",2019-06-27T15:16:58Z,0,0,0,0,2452,0.0,11,10,1.1,0,11,,0,0,,0,0,0,,False
+oliveraluis11,@oliveraluis11,,Peru,2019-12-03T13:29:55Z,0,0,0,0,2293,0.0,11,2,5.5,0,11,,0,0,,0,0,0,,False
+rhuangal,Roberto Alexander,,Lima - Peru,2017-09-08T14:11:47Z,0,0,0,0,3109,0.0,11,0,11,0,11,,0,0,,0,0,0,,False
+OmerJuve2023,Omar Rafael Toribio,Hersam Aceros S.A.C,Lima-Huaura -Peru,2022-05-31T02:52:52Z,0,0,0,0,1383,0.0,11,2,5.5,0,11,,0,0,,0,0,0,,False
+EGL9,Eduard,,Peru,2021-03-05T15:14:53Z,0,0,0,0,1835,0.0,11,2,5.5,0,11,,0,0,,0,0,0,,False
+MichaelSuarez0,Michael Suárez,Ixpantia,"Lima, Peru",2020-09-10T03:50:49Z,0,0,0,0,2011,0.0,11,43,0.2558139534883721,0,11,,0,0,,0,0,0,,False
+geckolml,Renzo Elvis Cerron Tome,National University of Engineering,"Lima, Peru",2015-05-30T05:33:18Z,0,0,0,0,3941,0.0,11,16,0.6875,0,11,,0,0,,0,0,0,,False
+yeffreydev,Yeffrey Espinoza,,peru,2022-07-23T00:05:49Z,0,0,0,0,1331,0.0,11,24,0.4583333333333333,0,11,,0,0,,0,0,0,,False
+Mauricio-17,Mauricio Solis,,"Lima, Peru",2020-02-12T06:00:44Z,0,0,0,0,2222,0.0,11,14,0.7857142857142857,0,11,,0,0,,0,0,0,,False
+REYNALDOz,Reynaldo ,,Peru,2019-04-12T16:37:12Z,0,0,0,0,2528,0.0,11,29,0.3793103448275862,0,11,,0,0,,0,0,0,,False
+Kimiberry64,retired,dunno,Peru/South America,2025-06-26T20:51:11Z,0,0,0,0,261,0.0,11,15,0.7333333333333333,0,11,,0,0,,0,0,0,,False
+DigitalFactoryTalma,Digital Factory Talma,,Peru,2021-05-14T21:49:10Z,0,0,0,0,1765,0.0,11,0,11,0,11,,0,0,,0,0,0,,False
+manuxo,Manuel Alvarado Estanga,Universidad Peruana de Ciencias Aplicadas,"Lima, Peru",2016-10-18T17:26:22Z,0,0,0,0,3434,0.0,11,20,0.55,0,11,,0,0,,0,0,0,,False
+alexfalconflores,Alex Stefano Falcon Flores,SEGURSAT S.A.C,Peru,2020-12-03T03:25:15Z,0,0,0,0,1927,0.0,11,8,1.375,0,11,,0,0,,0,0,0,,False
+crehds,Carlos Rodriguez,Full-Stack Labs,"Lima, Peru",2018-08-11T01:26:06Z,0,0,0,0,2772,0.0,11,15,0.7333333333333333,0,11,,0,0,,0,0,0,,False
+JHS-Sama24,,,Peru,2022-09-03T15:57:07Z,0,0,0,0,1288,0.0,11,40,0.275,0,11,,0,0,,0,0,0,,False
+Oreramirez,Orestes Ramirez,upt,peru,2018-11-10T04:54:11Z,0,0,0,0,2681,0.0,10,13,0.7692307692307693,0,10,,0,0,,0,0,0,,False
+jramosmasgo,Jean Ramos Masgo,,Huancayo - Peru,2018-07-25T23:55:21Z,0,0,0,0,2789,0.0,10,2,5.0,0,10,,0,0,,0,0,0,,False
+hadenlabs,hadenlabs,,"Lima, Peru",2015-06-22T17:50:36Z,0,0,0,0,3918,0.0,10,0,10,0,10,,0,0,,0,0,0,,False
+neuropucp,Neuro PUCP,,Peru,2024-05-15T00:29:01Z,0,0,0,0,669,0.0,10,0,10,0,10,,0,0,,0,0,0,,False
+viasoluciones,viasoluciones ®,viasoluciones ®,"Lima, PERU",2010-11-09T01:08:11Z,0,0,0,0,5604,0.0,10,29,0.3448275862068966,0,10,,0,0,,0,0,0,,False
+jluisdeveloper,Jorge Luis,QWERTY Services,Arequipa Peru,2017-01-12T04:14:54Z,0,0,0,0,3348,0.0,10,10,1.0,0,10,,0,0,,0,0,0,,False
+jegj,Javier,,"Lima, Peru",2012-03-09T02:24:20Z,0,0,0,0,5118,0.0,10,35,0.2857142857142857,0,10,,0,0,,0,0,0,,False
+danielmunoz,Daniel Muñoz R.,@kipullaxta,"Lima, Peru",2012-06-23T23:27:09Z,0,0,0,0,5012,0.0,10,79,0.12658227848101267,0,10,,0,0,,0,0,0,,False
+manwwe,Franklin Garcia,Schneider Electric Brazil,Lima - Peru,2020-10-16T18:19:17Z,0,0,0,0,1975,0.0,10,20,0.5,0,10,,0,0,,0,0,0,,False
+JMitac,Julio Mitac,,"Lima, Peru",2015-04-10T05:28:11Z,0,0,0,0,3991,0.0,10,12,0.8333333333333334,0,10,,0,0,,0,0,0,,False
+Javiercerna,Javier Cerna,,"Lima, Peru",2014-04-17T03:42:22Z,0,0,0,0,4349,0.0,10,9,1.1111111111111112,0,10,,0,0,,0,0,0,,False
+yulissateran,yulissa teran,Scotiabank Peru,"Lima, Peru",2018-05-15T20:27:27Z,0,0,0,0,2860,0.0,10,14,0.7142857142857143,0,10,,0,0,,0,0,0,,False
+tineo,"Gutierrez Tineo, Cesar",NTT DATA EMEAL,"Lima, Peru",2011-09-29T16:11:34Z,0,0,0,0,5280,0.0,10,16,0.625,0,10,,0,0,,0,0,0,,False
+jclema,Juan Camilo,escuelab,"Lima, Peru",2011-12-04T00:21:48Z,0,0,0,0,5215,0.0,10,10,1.0,0,10,,0,0,,0,0,0,,False
+mlaricobar,Michael Larico Barzola,@mlaricobarzola ,"Lima, Peru",2018-08-10T04:22:35Z,0,0,0,0,2773,0.0,10,3,3.3333333333333335,0,10,,0,0,,0,0,0,,False
+Vennus,Monica Ccencho Olarte,,"Peru, lima",2016-01-11T21:19:48Z,0,0,0,0,3715,0.0,10,18,0.5555555555555556,0,10,,0,0,,0,0,0,,False
+kaspydev,Edwin Ortiz,,Peru,2015-05-28T03:39:33Z,0,0,0,0,3943,0.0,10,40,0.25,0,10,,0,0,,0,0,0,,False
+dalbitresb12,,Minsait (An Indra company),Peru,2014-05-19T00:17:23Z,0,0,0,0,4318,0.0,10,7,1.4285714285714286,0,10,,0,0,,0,0,0,,False
+IBearSmile2319,Maicol Manuel Orosco Vasquez,@MagicMoon-Studios,Peru,2021-02-08T02:00:28Z,0,0,0,0,1860,0.0,10,28,0.35714285714285715,0,10,,0,0,,0,0,0,,False
+AngeloContrera5,Angelo Contreras,,Peru,2020-06-15T21:46:55Z,0,0,0,0,2098,0.0,10,9,1.1111111111111112,0,10,,0,0,,0,0,0,,False
+kenyoJoel903,Kenyo Joel Pecho Ñaupari,,Lima - Peru,2017-03-23T14:08:19Z,0,0,0,0,3278,0.0,10,14,0.7142857142857143,0,10,,0,0,,0,0,0,,False
+yupanquiah,Humberto Yupanqui Apaza,FREELANCER - @linecero,Cusco - Peru,2022-10-13T04:18:37Z,0,0,0,0,1248,0.0,10,7,1.4285714285714286,0,10,,0,0,,0,0,0,,False
+manuepeva,Manuel Pérez ,,"Cusco, Peru",2016-09-26T04:26:00Z,0,0,0,0,3456,0.0,10,65,0.15384615384615385,0,10,,0,0,,0,0,0,,False
+danielh27,Daniel Herrera,,Peru,2020-12-26T12:42:47Z,0,0,0,0,1904,0.0,10,3,3.3333333333333335,0,10,,0,0,,0,0,0,,False
+AndreaChumioque,Andrea Chumioque,,"Lima, Peru",2017-09-26T02:49:11Z,0,0,0,0,3091,0.0,10,17,0.5882352941176471,0,10,,0,0,,0,0,0,,False
+nttdata-microservice,NTT Data - Microservices,,Peru,2022-03-11T17:49:28Z,0,0,0,0,1464,0.0,10,0,10,0,10,,0,0,,0,0,0,,False
+franmanic2,Francisco Hurtado,UPC,"Lima, Peru",2024-03-25T15:50:09Z,0,0,0,0,719,0.0,10,16,0.625,0,10,,0,0,,0,0,0,,False
+tecncr,Nícolas Castillo,,"La Libertad, Peru",2020-10-04T06:42:43Z,0,0,0,0,1987,0.0,10,12,0.8333333333333334,0,10,,0,0,,0,0,0,,False
+luiqs,Luis Roca,,"Lima, Peru",2019-11-14T05:57:55Z,0,0,0,0,2312,0.0,10,4,2.5,0,10,,0,0,,0,0,0,,False
+ALauraOliva,Andrea Laura,,"Arequipa, Peru",2023-04-18T13:44:10Z,0,0,0,0,1061,0.0,10,11,0.9090909090909091,0,10,,0,0,,0,0,0,,False
+Alvarden15,Alvarden,,"Lima, Peru",2017-09-07T01:52:53Z,0,0,0,0,3110,0.0,10,6,1.6666666666666667,0,10,,0,0,,0,0,0,,False
+hablutzel1,Jaime Hablutzel,WISeKey,Peru,2010-03-26T13:38:31Z,0,0,0,0,5832,0.0,10,67,0.14925373134328357,0,10,,0,0,,0,0,0,,False
+rogelioolarte,Rogelio Olarte,,Peru,2015-12-14T19:31:45Z,0,0,0,0,3743,0.0,10,17,0.5882352941176471,0,10,,0,0,,0,0,0,,False
+mirkorodriguez,Mirko J. Rodríguez,,Peru,2016-05-18T16:18:15Z,0,0,0,0,3587,0.0,10,0,10,0,10,,0,0,,0,0,0,,False
+pacifi,Bonnier Nilss Mamani Larico,Pacifi Software,Peru,2012-08-23T14:54:19Z,0,0,0,0,4951,0.0,10,11,0.9090909090909091,0,10,,0,0,,0,0,0,,False
+Llamacha,Llamacha,,Peru,2021-06-11T19:01:19Z,0,0,0,0,1737,0.0,10,0,10,0,10,,0,0,,0,0,0,,False
+IrwinBravoOporto,irwinios,Global Hitss,Peru,2017-01-07T21:04:11Z,0,0,0,0,3353,0.0,10,30,0.3333333333333333,0,10,,0,0,,0,0,0,,False
+arigroup,Somos Ari,,Peru,2024-09-02T15:28:34Z,0,0,0,0,558,0.0,10,0,10,0,10,,0,0,,0,0,0,,False
+chrockny,Rockny Chuquichanca ,Cibergram,Peru,2021-04-11T18:45:20Z,0,0,0,0,1798,0.0,10,6,1.6666666666666667,0,10,,0,0,,0,0,0,,False
+frank-chaparro,Frank Chaparro,,Peru,2022-02-04T16:09:20Z,0,0,0,0,1499,0.0,10,3,3.3333333333333335,0,10,,0,0,,0,0,0,,False
+CarloCorralesD,Carlo Corrales Delgado,Universidad Nacional de San Agustin de Arequipa,"Arequipa, Peru",2020-04-24T03:34:53Z,0,0,0,0,2150,0.0,10,2,5.0,0,10,,0,0,,0,0,0,,False
+heraldofortuna,Heraldo Fortuna,@keratech-peru ,"Lima, Peru",2019-05-22T12:33:33Z,0,0,0,0,2488,0.0,10,11,0.9090909090909091,0,10,,0,0,,0,0,0,,False
+albertoescala,Alberto Escala,Interbank,Peru,2017-08-31T01:17:06Z,0,0,0,0,3117,0.0,10,16,0.625,0,10,,0,0,,0,0,0,,False
+urp-moviles-2024-2,urp-moviles-2024-2,,Peru,2022-11-14T18:51:00Z,0,0,0,0,1216,0.0,10,0,10,0,10,,0,0,,0,0,0,,False
+LinoCruz,Lino Cruz,,Peru,2020-05-26T18:20:56Z,0,0,0,0,2118,0.0,10,22,0.45454545454545453,0,10,,0,0,,0,0,0,,False
+upc-pre-202402-si729-sw54,,,Peru,2024-08-10T01:34:26Z,0,0,0,0,581,0.0,10,0,10,0,10,,0,0,,0,0,0,,False
+dvolkow,Daniel Wolkow,,"Cusco, Peru",2015-05-15T20:51:39Z,0,0,0,0,3956,0.0,10,12,0.8333333333333334,0,10,,0,0,,0,0,0,,False
+Calla-Ji,stellaachenbach,@The-ALANA-Project ,"Lima, Peru",2018-09-05T18:03:09Z,0,0,0,0,2747,0.0,10,27,0.37037037037037035,0,10,,0,0,,0,0,0,,False
+Pupixo,PEDRO ELIAS ACOSTA GUERRA,,Lima - PERU,2016-12-17T15:04:30Z,0,0,0,0,3374,0.0,10,17,0.5882352941176471,0,10,,0,0,,0,0,0,,False
+plasenca-d,Franzua Plasencia Caballero,,"Lima, Peru",2024-12-30T07:19:36Z,0,0,0,0,439,0.0,10,12,0.8333333333333334,0,10,,0,0,,0,0,0,,False
+AngelgarciaJ,Angel Raul Garcia Jimenez,Universidad Nacional del Altiplano ,Peru,2021-11-02T18:54:34Z,0,0,0,0,1593,0.0,10,60,0.16666666666666666,0,10,,0,0,,0,0,0,,False
+FPALMAG,Fernando Palma,,"Lima, Peru",2021-11-08T05:33:09Z,0,0,0,0,1587,0.0,10,6,1.6666666666666667,0,10,,0,0,,0,0,0,,False
+jose-g,Jose Guerrero,international potato center,Peru,2014-01-16T14:47:48Z,0,0,0,0,4440,0.0,10,1,10.0,0,10,,0,0,,0,0,0,,False
+Uguimar-Platform,,,Peru,2025-03-02T17:54:33Z,0,0,0,0,377,0.0,10,0,10,0,10,,0,0,,0,0,0,,False
+Rmg91,Rodolfo Mercado ,,"Lima, Peru",2016-01-03T01:44:47Z,0,0,0,0,3723,0.0,10,1,10.0,0,10,,0,0,,0,0,0,,False
+XantX,Sebastian Diaz Torres,,Peru,2019-08-14T15:34:12Z,0,0,0,0,2404,0.0,10,25,0.4,0,10,,0,0,,0,0,0,,False
+DavLiendoProgramming,David Liendo,,Peru,2016-06-19T12:38:00Z,0,0,0,0,3555,0.0,10,19,0.5263157894736842,0,10,,0,0,,0,0,0,,False
+jorgechavez6816,Jorge M. Chavez,METADATA,Peru,2020-05-11T14:14:43Z,0,0,0,0,2133,0.0,10,4,2.5,0,10,,0,0,,0,0,0,,False
+SharonBarrial,Shazz,,"Lima, Peru",2022-10-25T22:33:15Z,0,0,0,0,1236,0.0,10,18,0.5555555555555556,0,10,,0,0,,0,0,0,,False
+napsterh,Homer López Vidal,,"Lima, Peru",2018-03-26T16:49:17Z,0,0,0,0,2910,0.0,10,12,0.8333333333333334,0,10,,0,0,,0,0,0,,False
+thsergitox,Sergio Pezo,,"Lima, Peru",2022-02-26T07:02:12Z,0,0,0,0,1477,0.0,10,16,0.625,0,10,,0,0,,0,0,0,,False
+ShoLee01,Miguel Alfaro,,Peru,2020-06-19T23:23:45Z,0,0,0,0,2094,0.0,10,7,1.4285714285714286,0,10,,0,0,,0,0,0,,False
+EconThaki,EconThaki,,Peru,2021-02-27T16:01:30Z,0,0,0,0,1841,0.0,10,0,10,0,10,,0,0,,0,0,0,,False
+cristianpalomino,Cristian Palomino,,Peru,2013-04-16T19:14:10Z,0,0,0,0,4715,0.0,10,8,1.25,0,10,,0,0,,0,0,0,,False
+TheVeller,Ignacio Velásquez,"TheVeller, Núcleo Lab & GPT Chain","Arequipa, Peru 🇵🇪🖤",2022-12-09T02:27:04Z,0,0,0,0,1191,0.0,10,15,0.6666666666666666,0,10,,0,0,,0,0,0,,False
+jtavara23,Josue Gaston,, Peru,2016-04-11T18:34:57Z,0,0,0,0,3624,0.0,10,21,0.47619047619047616,0,10,,0,0,,0,0,0,,False
+IDS-Latam-SAC,IDS Latam SAC,,Peru,2024-04-23T17:12:33Z,0,0,0,0,690,0.0,10,0,10,0,10,,0,0,,0,0,0,,False
+Kazeia,David Alberto Silva Solano,,Peru - Lima,2015-06-19T02:10:54Z,0,0,0,0,3921,0.0,10,9,1.1111111111111112,0,10,,0,0,,0,0,0,,False
+jhosmar26,Jhose Portillo,,Peru,2018-05-22T01:49:23Z,0,0,0,0,2853,0.0,10,24,0.4166666666666667,0,10,,0,0,,0,0,0,,False
+jozzdev,Jose Diaz,,"Lima, Peru",2014-09-28T01:39:26Z,0,0,0,0,4185,0.0,10,10,1.0,0,10,,0,0,,0,0,0,,False
+nixonmorillo,nixon morillo,,"Lima, Peru",2014-10-11T22:24:52Z,0,0,0,0,4172,0.0,10,5,2.0,0,10,,0,0,,0,0,0,,False
+Xavipalomino47,Javi P.,Quipu Insight,Peru,2018-08-29T15:02:26Z,0,0,0,0,2754,0.0,10,8,1.25,0,10,,0,0,,0,0,0,,False
+MarycieloParionaBernaola,Marycielo Pariona Bernaola,@EL-BID,Peru,2020-07-11T05:18:20Z,0,0,0,0,2072,0.0,10,2,5.0,0,10,,0,0,,0,0,0,,False
+pr1407,Pedro Ruiz,,Peru ,2019-05-29T21:00:56Z,0,0,0,0,2481,0.0,10,23,0.43478260869565216,0,10,,0,0,,0,0,0,,False
+victor-huallpa,victor Hugo,,peru,2022-10-05T19:59:08Z,0,0,0,0,1256,0.0,10,15,0.6666666666666666,0,10,,0,0,,0,0,0,,False
+Kumma30mvp,Gabriel Eduardo Blanco Gutierrez,,PERU,2023-04-11T14:45:30Z,0,0,0,0,1068,0.0,10,9,1.1111111111111112,0,10,,0,0,,0,0,0,,False
+carlosenciso,Carlos Enciso O,Peruvian Geophysical Institute,Peru,2016-02-29T03:00:06Z,0,0,0,0,3666,0.0,10,12,0.8333333333333334,0,10,,0,0,,0,0,0,,False
+Franco-Sanchez,Franco Sanchez Rodriguez,@SimpliRoute,Peru,2020-03-15T17:50:21Z,0,0,0,0,2190,0.0,10,14,0.7142857142857143,0,10,,0,0,,0,0,0,,False
+kryjex,Julio Paredes,,"Lima, Peru",2011-03-24T22:48:15Z,0,0,0,0,5469,0.0,10,10,1.0,0,10,,0,0,,0,0,0,,False
+juanmdpc,Juan Pejerrey,@yaperos,"Lima, Peru",2018-07-09T04:27:57Z,0,0,0,0,2805,0.0,10,48,0.20833333333333334,0,10,,0,0,,0,0,0,,False
+leaduni,LEAD UNI,,Peru,2025-03-31T20:14:59Z,0,0,0,0,348,0.0,10,0,10,0,10,,0,0,,0,0,0,,False
+mramirezs,Manuel Alain Ramírez Sáenz,"Laboratorio de Biomoléculas, Facultad de Ciencias de la Salud, Universidad Peruana de Ciencias Aplicadas","Lima, PERU",2019-12-04T18:12:10Z,0,0,0,0,2292,0.0,10,28,0.35714285714285715,0,10,,0,0,,0,0,0,,False
+edwinsaavedran,Edwin A. Saavedra Navarro,,Peru,2023-03-04T00:38:44Z,0,0,0,0,1107,0.0,10,0,10,0,10,,0,0,,0,0,0,,False
+urp-moviles-2023-2,urp-moviles-2023-2,,Peru,2023-08-23T06:22:54Z,0,0,0,0,934,0.0,10,0,10,0,10,,0,0,,0,0,0,,False
+MiguDeveloper,Miguel Angel Chinchay Huarcaya,"Spring boot 2, Angular 2+",Lima-Peru,2013-05-06T17:55:01Z,0,0,0,0,4695,0.0,10,16,0.625,0,10,,0,0,,0,0,0,,False
+NicolasCombe5555,Nicolas Combe,,"Lima, Peru",2018-08-15T18:19:34Z,0,0,0,0,2768,0.0,9,4,2.25,0,9,,0,0,,0,0,0,,False
+plexoapp,Plexo,,Peru,2023-08-07T20:08:29Z,0,0,0,0,950,0.0,9,0,9,0,9,,0,0,,0,0,0,,False
+cmeza20,Carlos Meza Yana,,Peru,2014-10-18T20:03:16Z,0,0,0,0,4165,0.0,9,3,3.0,0,9,,0,0,,0,0,0,,False
+necritos,jose manuel rios vega,Kodevian SAC,Peru,2012-01-09T02:15:31Z,0,0,0,0,5178,0.0,9,2,4.5,0,9,,0,0,,0,0,0,,False
+mcholy,Jonathan Ceferino,,Peru,2014-03-26T22:33:24Z,0,0,0,0,4371,0.0,9,53,0.16981132075471697,0,9,,0,0,,0,0,0,,False
+jhonatantirado,Jhonatan Tirado,,Peru,2011-06-26T05:23:27Z,0,0,0,0,5375,0.0,9,17,0.5294117647058824,0,9,,0,0,,0,0,0,,False
+Luis-Roldan,Luis Fernando Roldan Ortiz,,"Lima, Peru",2022-06-25T15:55:38Z,0,0,0,0,1358,0.0,9,40,0.225,0,9,,0,0,,0,0,0,,False
+urp-moviles-2024-1,urp-moviles-2024-1,,Peru,2024-02-27T06:51:01Z,0,0,0,0,746,0.0,9,0,9,0,9,,0,0,,0,0,0,,False
+dporrascordova,David Paul Porras Cordova,ISCODEM SAC,PERU,2013-08-22T22:21:40Z,0,0,0,0,4587,0.0,9,2,4.5,0,9,,0,0,,0,0,0,,False
+MichaelEncalada,Michael,Q-Lab Laboratorio de Inteligencia Artificial y Métodos Computacionales en Ciencias Sociales,"Lima, Peru",2023-01-05T23:43:00Z,0,0,0,0,1164,0.0,9,27,0.3333333333333333,0,9,,0,0,,0,0,0,,False
+hernanspc,Hernan Pormachi Quichca,Microsoft,"Lima, Peru",2019-12-04T14:32:25Z,0,0,0,0,2292,0.0,9,30,0.3,0,9,,0,0,,0,0,0,,False
+andreewD,andreewaD,,Peru,2019-05-28T13:34:36Z,0,0,0,0,2482,0.0,9,15,0.6,0,9,,0,0,,0,0,0,,False
+Vercris,Vercris,,Lima - Peru,2018-10-09T03:36:40Z,0,0,0,0,2713,0.0,9,13,0.6923076923076923,0,9,,0,0,,0,0,0,,False
+anadurand,Ana Durand Calle,Laboratoria,Peru,2017-02-20T16:54:36Z,0,0,0,0,3309,0.0,9,8,1.125,0,9,,0,0,,0,0,0,,False
+AbelVasquezYuto,abelvy25,,Peru,2017-04-16T04:07:35Z,0,0,0,0,3254,0.0,9,11,0.8181818181818182,0,9,,0,0,,0,0,0,,False
+juandiego9221,Juan Diego Mamani,Globant,Peru,2014-05-02T17:43:53Z,0,0,0,0,4334,0.0,9,11,0.8181818181818182,0,9,,0,0,,0,0,0,,False
+prikido,Priscila Kido,,"Lima, Peru",2020-10-16T15:12:33Z,0,0,0,0,1975,0.0,9,4,2.25,0,9,,0,0,,0,0,0,,False
+oscarmendezzavaleta,osquitarNet,,Peru,2015-09-24T21:15:32Z,0,0,0,0,3824,0.0,9,31,0.2903225806451613,0,9,,0,0,,0,0,0,,False
+ElGamerNovato,Cristopher Alexander,Universidad Tecnológica del Perú,Peru,2021-04-16T18:40:05Z,0,0,0,0,1793,0.0,9,11,0.8181818181818182,0,9,,0,0,,0,0,0,,False
+vertkle,Klevert Herrera,,Lima - Peru,2016-12-30T14:58:13Z,0,0,0,0,3361,0.0,9,9,1.0,0,9,,0,0,,0,0,0,,False
+kellerkatlin,Keller Katlin Pinedo Tocas,Universidad Nacional de San Martin  ,Tarapoto-San Martin-San Martin-Peru ,2023-06-03T18:12:47Z,0,0,0,0,1015,0.0,9,15,0.6,0,9,,0,0,,0,0,0,,False
+neotrons,Jose Carlos,Gestyde - España,Peru,2012-03-27T20:19:23Z,0,0,0,0,5100,0.0,9,2,4.5,0,9,,0,0,,0,0,0,,False
+Maginobion,Dylan,,"Lima, Peru",2020-11-13T16:56:34Z,0,0,0,0,1947,0.0,9,6,1.5,0,9,,0,0,,0,0,0,,False
+xiayudev,Josue Cerron,,"Lima, Peru",2022-02-16T05:29:10Z,0,0,0,0,1487,0.0,9,2,4.5,0,9,,0,0,,0,0,0,,False
+grovertb,GroverTB,Zeal Tech,"Lima, Peru",2014-11-07T21:29:30Z,0,0,0,0,4145,0.0,9,3,3.0,0,9,,0,0,,0,0,0,,False
+luisaaznaran,Luisa Mariel Aznaran Trigoso,,"Lima, Peru",2016-07-24T01:36:41Z,0,0,0,0,3520,0.0,9,14,0.6428571428571429,0,9,,0,0,,0,0,0,,False
+czegarram,Cesar Zegarra,@Probaar-Dev ,"Lima, Peru",2013-04-08T18:22:28Z,0,0,0,0,4723,0.0,9,10,0.9,0,9,,0,0,,0,0,0,,False
+robertcharca,Robert ,TRD Digital,"Arequipa, Peru",2020-10-20T01:03:07Z,0,0,0,0,1971,0.0,9,15,0.6,0,9,,0,0,,0,0,0,,False
+dev-jromero,Jonathan Romero,Freelance,"huancayo,peru",2013-06-01T21:30:02Z,0,0,0,0,4669,0.0,9,36,0.25,0,9,,0,0,,0,0,0,,False
+juanpablohp33,,Tech Strategy Solution,Lima Peru,2017-03-05T17:28:17Z,0,0,0,0,3296,0.0,9,6,1.5,0,9,,0,0,,0,0,0,,False
+AotinianoZ,Alonso_Otiniano,https://webaoz2.netlify.app/,"Peru, Lima",2021-02-24T17:53:19Z,0,0,0,0,1844,0.0,9,8,1.125,0,9,,0,0,,0,0,0,,False
+CesarAHN,César Anderson Huamaní Ninahuanca,PRONABEC,HUANCAYO (PERU),2019-08-19T03:46:20Z,0,0,0,0,2399,0.0,9,1,9.0,0,9,,0,0,,0,0,0,,False
+dajzegarraf,David Javier Zegarra,,"Lima, Peru",2019-10-28T22:38:59Z,0,0,0,0,2329,0.0,9,13,0.6923076923076923,0,9,,0,0,,0,0,0,,False
+PatricRc,Patricio Rios,,"Lima, Peru",2021-06-12T00:35:11Z,0,0,0,0,1737,0.0,9,32,0.28125,0,9,,0,0,,0,0,0,,False
+jhon2301922021,Jhon Poma Rosales,,Peru,2021-02-06T02:03:38Z,0,0,0,0,1862,0.0,9,2,4.5,0,9,,0,0,,0,0,0,,False
+pollitoconpapass,Jose A. Quispe,,"Lima, Peru",2021-09-14T03:03:41Z,0,0,0,0,1642,0.0,9,7,1.2857142857142858,0,9,,0,0,,0,0,0,,False
+gianpaul,Gian Paul Ramirez Pacheco,Exirium,Peru,2015-11-13T17:23:48Z,0,0,0,0,3774,0.0,9,39,0.23076923076923078,0,9,,0,0,,0,0,0,,False
+mysofterlabs,My Softer Labs,,Peru,2024-12-29T16:31:56Z,0,0,0,0,440,0.0,9,0,9,0,9,,0,0,,0,0,0,,False
+sebaminaya0,Seba Minaya,Alegra,"Lima, Peru",2020-06-19T16:17:18Z,0,0,0,0,2094,0.0,9,29,0.3103448275862069,0,9,,0,0,,0,0,0,,False
+jesus1811,jesus ayarza,React Front End Developer,Lima-Peru,2021-08-16T01:47:39Z,0,0,0,0,1671,0.0,9,3,3.0,0,9,,0,0,,0,0,0,,False
+walteralv,Walter Alvarado,,Peru,2019-07-31T07:30:52Z,0,0,0,0,2418,0.0,9,14,0.6428571428571429,0,9,,0,0,,0,0,0,,False
+paulocrr,Paulo Rodriguez,,"Arequipa, Peru",2016-08-18T12:42:37Z,0,0,0,0,3495,0.0,9,1,9.0,0,9,,0,0,,0,0,0,,False
+luissardon,Luis Sardon,Authentic Digital,Lima - Peru,2013-04-29T18:25:02Z,0,0,0,0,4702,0.0,9,6,1.5,0,9,,0,0,,0,0,0,,False
+yasielpv,Yasiel Pérez Vera,,Peru,2019-03-28T20:50:09Z,0,0,0,0,2543,0.0,9,4,2.25,0,9,,0,0,,0,0,0,,False
+tineojf,Tineo,,"Lima, Peru",2021-10-18T15:58:59Z,0,0,0,0,1608,0.0,9,4,2.25,0,9,,0,0,,0,0,0,,False
+franciscopantojag,Francisco Pantoja,@Castifi,"Chiclayo, Peru",2020-02-01T02:40:30Z,0,0,0,0,2233,0.0,9,17,0.5294117647058824,0,9,,0,0,,0,0,0,,False
+rivacortez,rivacortezf2006,Universidad Peruana de Ciencias Aplicadas,"Lima,PERU",2022-12-23T06:32:18Z,0,0,0,0,1177,0.0,9,27,0.3333333333333333,0,9,,0,0,,0,0,0,,False
+cruzdiego,Diego Cruz,,"Lima, Peru",2012-04-30T17:09:42Z,0,0,0,0,5066,0.0,9,0,9,0,9,,0,0,,0,0,0,,False
+CesarYnga,César Ynga,,"Lima, Peru",2012-05-24T19:30:21Z,0,0,0,0,5042,0.0,9,0,9,0,9,,0,0,,0,0,0,,False
+haba-sensei,Jorge Acosta,,lima peru,2020-10-15T18:35:00Z,0,0,0,0,1976,0.0,9,23,0.391304347826087,0,9,,0,0,,0,0,0,,False
+danielatp,daniela_tizon,,"Lima, Peru",2016-06-13T16:01:50Z,0,0,0,0,3561,0.0,9,12,0.75,0,9,,0,0,,0,0,0,,False
+Gabrieltec123,GabrielTec_735,GT_sac,Peru,2020-11-10T17:57:36Z,0,0,0,0,1950,0.0,9,1,9.0,0,9,,0,0,,0,0,0,,False
+eduardomacetas,Eduardo Macetas,Ravn,Arequipa - Peru,2015-10-01T15:06:37Z,0,0,0,0,3817,0.0,9,11,0.8181818181818182,0,9,,0,0,,0,0,0,,False
+SalvadorHilares,Salvador Eliot Hilares Barrios,,Lima - Peru,2018-06-01T20:59:07Z,0,0,0,0,2843,0.0,9,6,1.5,0,9,,0,0,,0,0,0,,False
+edtorrespe,Eduardo Torres,,Lima - Peru,2020-09-16T15:56:41Z,0,0,0,0,2005,0.0,9,8,1.125,0,9,,0,0,,0,0,0,,False
+luuzuriaga,Lucero Uzuriaga,,Peru,2017-03-25T02:32:42Z,0,0,0,0,3276,0.0,9,13,0.6923076923076923,0,9,,0,0,,0,0,0,,False
+leexpucp,leexpucp,,"Lima, Peru",2017-04-11T19:19:53Z,0,0,0,0,3259,0.0,9,0,9,0,9,,0,0,,0,0,0,,False
+zi2p,Pisareva Iuliia,ITMO,Peru,2020-09-13T15:29:09Z,0,0,0,0,2008,0.0,9,5,1.8,0,9,,0,0,,0,0,0,,False
+JuanMansilla,Juan Mansilla,Astay Systems,PERU,2013-09-16T00:47:05Z,0,0,0,0,4563,0.0,9,1,9.0,0,9,,0,0,,0,0,0,,False
+IsmaelMasharo,Ismael,,"Lima, Peru",2017-10-07T14:57:39Z,0,0,0,0,3080,0.0,9,5,1.8,0,9,,0,0,,0,0,0,,False
+joseschmidt,Jose Schmidt,James Hardie Building Products,Peru Illinois ,2010-05-10T12:33:50Z,0,0,0,0,5787,0.0,9,7,1.2857142857142858,0,9,,0,0,,0,0,0,,False
+Elloisa,Lorena Tito Ramos,,Peru,2020-08-19T05:37:35Z,0,0,0,0,2033,0.0,9,26,0.34615384615384615,0,9,,0,0,,0,0,0,,False
+jorgedelacruz07,Jorge de la Cruz Padilla,@godaddy,"Lima, Peru",2014-08-27T02:48:33Z,0,0,0,0,4217,0.0,9,22,0.4090909090909091,0,9,,0,0,,0,0,0,,False
+Aftorres02,Angel O. Flores Torres ,OswaldoInnovations,Arequipa Peru,2018-05-18T14:09:10Z,0,0,0,0,2857,0.0,9,6,1.5,0,9,,0,0,,0,0,0,,False
+davemaster,David Elias,TeleTracking SAC,Peru - South America,2011-09-24T05:57:52Z,0,0,0,0,5285,0.0,9,44,0.20454545454545456,0,9,,0,0,,0,0,0,,False
+upc-pre-202201-si653-wx51,UPC 202201 SI653 WX51,,Peru,2022-04-15T04:53:34Z,0,0,0,0,1429,0.0,9,0,9,0,9,,0,0,,0,0,0,,False
+felipeturing,Felipe Turing,@terexor,"Lima, Peru",2018-09-05T03:42:56Z,0,0,0,0,2747,0.0,9,8,1.125,0,9,,0,0,,0,0,0,,False
+stevematos,Steve Matos,,"Lima,Peru",2017-12-01T06:34:08Z,0,0,0,0,3025,0.0,9,14,0.6428571428571429,0,9,,0,0,,0,0,0,,False
+Ariandel007,Alexander Gonzalo Urbina Mar,,"Lima, Peru",2018-10-05T18:52:45Z,0,0,0,0,2717,0.0,9,5,1.8,0,9,,0,0,,0,0,0,,False
+seethersan,Juan Carlos Espinoza Zurita,,Peru,2014-02-17T02:05:41Z,0,0,0,0,4408,0.0,9,1,9.0,0,9,,0,0,,0,0,0,,False
+onilsalvador,Rodrigo,,Peru,2021-10-10T05:11:53Z,0,0,0,0,1616,0.0,9,4,2.25,0,9,,0,0,,0,0,0,,False
+Jroa,Jonathan Roa,,"Lima, Peru",2011-10-18T05:58:12Z,0,0,0,0,5261,0.0,9,17,0.5294117647058824,0,9,,0,0,,0,0,0,,False
+prossir,Paolo,,"Lima, Peru",2014-09-20T04:15:25Z,0,0,0,0,4193,0.0,9,3,3.0,0,9,,0,0,,0,0,0,,False
+madrazo,Carlos Madrazo,Bamtang,"Lima, Peru",2013-10-10T20:09:50Z,0,0,0,0,4538,0.0,9,12,0.75,0,9,,0,0,,0,0,0,,False
+JeanGut,Jean Pierre,UNI,Lima - Peru,2017-09-23T17:53:41Z,0,0,0,0,3094,0.0,9,75,0.12,0,9,,0,0,,0,0,0,,False
+lilab-hub,Lilab,,Peru,2020-02-26T01:35:45Z,0,0,0,0,2208,0.0,9,0,9,0,9,,0,0,,0,0,0,,False
+joseeantonior,Jose Antonio Rey,"Ubuntu, Libera Chat","Lima, Peru",2014-02-04T00:48:50Z,0,0,0,0,4422,0.0,9,0,9,0,9,,0,0,,0,0,0,,False
+globaltpa,Global TPA,,Peru,2020-11-13T14:24:14Z,0,0,0,0,1947,0.0,9,0,9,0,9,,0,0,,0,0,0,,False
+Sanki0,Sebastian Ferreyra,Universidad Nacional de Ingenieria,Peru,2020-05-30T00:01:01Z,0,0,0,0,2115,0.0,9,9,1.0,0,9,,0,0,,0,0,0,,False
+SinuheM,Adrian Priale,@icetart-group ,Peru,2015-03-02T20:38:11Z,0,0,0,0,4030,0.0,9,8,1.125,0,9,,0,0,,0,0,0,,False
+andreefarro,Andree Farro,Universidad Nacional del Santa,"Casma, Peru",2020-07-31T17:48:15Z,0,0,0,0,2052,0.0,9,7,1.2857142857142858,0,9,,0,0,,0,0,0,,False
+jeanpaulct,Jean Paul Curiñaupa Taype,,Lima - Peru,2012-10-29T22:08:04Z,0,0,0,0,4884,0.0,9,50,0.18,0,9,,0,0,,0,0,0,,False
+juanleondev,Juanjo,,"Arequipa, Peru",2014-09-06T00:44:47Z,0,0,0,0,4208,0.0,9,2,4.5,0,9,,0,0,,0,0,0,,False
+Fromsolvers,FromSolvers,,Peru,2021-04-06T08:15:44Z,0,0,0,0,1803,0.0,9,0,9,0,9,,0,0,,0,0,0,,False
+Luis0Antonio,Luis Arce,,Peru,2015-07-05T17:10:48Z,0,0,0,0,3905,0.0,9,15,0.6,0,9,,0,0,,0,0,0,,False
+legancode,Angel Salvador,,"Peru, Lima",2019-05-18T04:42:55Z,0,0,0,0,2492,0.0,9,12,0.75,0,9,,0,0,,0,0,0,,False
+Alescript,Alejandra Hernandez Aparcana ,,"Ica, Peru",2015-09-01T19:16:31Z,0,0,0,0,3847,0.0,9,13,0.6923076923076923,0,9,,0,0,,0,0,0,,False
+upc-pre-202402-si730-wx53,,,Peru,2024-08-10T01:42:24Z,0,0,0,0,581,0.0,9,0,9,0,9,,0,0,,0,0,0,,False
+edward-frans,Edward Frans Torres Gutierrez,,"Lima, Peru",2021-05-09T05:40:29Z,0,0,0,0,1770,0.0,9,13,0.6923076923076923,0,9,,0,0,,0,0,0,,False
+ricardosuab93,Ricardo Suarez Briones,,"Trujillo, Peru",2018-09-23T16:58:23Z,0,0,0,0,2729,0.0,9,13,0.6923076923076923,0,9,,0,0,,0,0,0,,False
+lrAlval,Robert Alva,@ch-robinson,Peru - Lima,2015-07-31T02:10:27Z,0,0,0,0,3879,0.0,9,29,0.3103448275862069,0,9,,0,0,,0,0,0,,False
+2huBrulee,Alejandro Merino,,Peru,2017-05-28T05:58:23Z,0,0,0,0,3212,0.0,9,35,0.2571428571428571,0,9,,0,0,,0,0,0,,False
+vowxky,Vowxky,,Peru,2022-09-23T20:40:44Z,0,0,0,0,1268,0.0,9,5,1.8,0,9,,0,0,,0,0,0,,False
+miguelquispe,Miguel Quispe,,"Lima, Peru",2011-05-16T22:27:44Z,0,0,0,0,5416,0.0,9,28,0.32142857142857145,0,9,,0,0,,0,0,0,,False
+JuniorChistemas,Junior15Dev,,Piura/Peru,2023-03-07T07:19:34Z,0,0,0,0,1103,0.0,9,3,3.0,0,9,,0,0,,0,0,0,,False
+christianac,Christian Gianfranco,@escienza,Lima - Peru,2014-07-17T14:31:49Z,0,0,0,0,4258,0.0,9,6,1.5,0,9,,0,0,,0,0,0,,False
+zurefx,Genaro,,Peru,2024-07-10T21:01:50Z,0,0,0,0,612,0.0,9,3,3.0,0,9,,0,0,,0,0,0,,False
+codexqui,CodexQUI,,Peru,2024-02-14T07:44:19Z,0,0,0,0,759,0.0,9,62,0.14516129032258066,0,9,,0,0,,0,0,0,,False
+luceroobispo,Lucero Obispo,,Peru,2021-10-03T03:40:53Z,0,0,0,0,1623,0.0,9,8,1.125,0,9,,0,0,,0,0,0,,False
+Louiso,Luis Sullca H,LuisCompany,"Lima, Peru",2016-04-08T18:49:49Z,0,0,0,0,3627,0.0,9,14,0.6428571428571429,0,9,,0,0,,0,0,0,,False
+saravia,saravia,,"Lima,Peru",2013-10-27T14:34:44Z,0,0,0,0,4521,0.0,9,2,4.5,0,9,,0,0,,0,0,0,,False
+zerok06,Jose Paye,Arkax,Peru,2020-06-02T18:21:51Z,0,0,0,0,2111,0.0,9,22,0.4090909090909091,0,9,,0,0,,0,0,0,,False
+SebastianUrdaneguiBisalaya,Sebastian Marat Urdanegui Bisalaya,,"Lima, Peru",2022-01-14T04:32:01Z,0,0,0,0,1520,0.0,9,5,1.8,0,9,,0,0,,0,0,0,,False
+IsaacAmp24,Jocais Ampudia,Universidad Peruana de Ciencias Aplicadas,"Lima, Peru.",2022-10-28T21:11:58Z,0,0,0,0,1233,0.0,9,8,1.125,0,9,,0,0,,0,0,0,,False
+LilNait-S,LilNait,,Peru,2022-05-02T20:41:08Z,0,0,0,0,1412,0.0,9,9,1.0,0,9,,0,0,,0,0,0,,False
+JanitoQC18,,Pluspetrol,Peru,2019-01-29T02:35:01Z,0,0,0,0,2601,0.0,8,29,0.27586206896551724,0,8,,0,0,,0,0,0,,False
+jinca,Julita Inca,GNOME,Peru,2011-11-30T18:56:01Z,0,0,0,0,5218,0.0,8,16,0.5,0,8,,0,0,,0,0,0,,False
+yonatan-90,yonatan,,PERU,2021-10-12T22:18:04Z,0,0,0,0,1614,0.0,8,45,0.17777777777777778,0,8,,0,0,,0,0,0,,False
+dbparedes,David Paredes,,"Lima, Peru",2012-05-07T02:53:29Z,0,0,0,0,5059,0.0,8,11,0.7272727272727273,0,8,,0,0,,0,0,0,,False
+msolarig,Matías Solari,,"Chicago, USA / Lima, Peru",2023-11-05T01:18:28Z,0,0,0,0,860,0.0,8,19,0.42105263157894735,0,8,,0,0,,0,0,0,,False
+ChrisK106,Christian Cano,Empire Soft Group Peru,"Lima, Peru",2019-01-06T07:02:40Z,0,0,0,0,2624,0.0,8,12,0.6666666666666666,0,8,,0,0,,0,0,0,,False
+The-ALANA-Project,The ALANA Project,,Peru,2023-05-09T21:53:15Z,0,0,0,0,1040,0.0,8,0,8,0,8,,0,0,,0,0,0,,False
+GuidoCh23,Guido Chipana,ACECOM IA,"Lima, Peru",2024-04-29T02:11:46Z,0,0,0,0,684,0.0,8,16,0.5,0,8,,0,0,,0,0,0,,False
+Anwera64,Anton Tchistiakova,Globant,"Lima, Peru",2017-10-19T17:28:42Z,0,0,0,0,3068,0.0,8,10,0.8,0,8,,0,0,,0,0,0,,False
+code4humans,Code4Humans,,"Lima, Peru",2018-10-09T05:03:32Z,0,0,0,0,2713,0.0,8,2,4.0,0,8,,0,0,,0,0,0,,False
+soad241,Jose Penarrieta,My Company,Peru,2008-05-21T22:53:19Z,0,0,0,0,6506,0.0,8,0,8,0,8,,0,0,,0,0,0,,False
+JoseDelacruz0212,Jose De la cruz,,Lima-Peru,2019-06-23T23:57:19Z,0,0,0,0,2456,0.0,8,7,1.1428571428571428,0,8,,0,0,,0,0,0,,False
+dgllanos,Diego,,"Lima, Peru",2016-07-24T16:50:57Z,0,0,0,0,3520,0.0,8,14,0.5714285714285714,0,8,,0,0,,0,0,0,,False
+amatosg,Alejandro Matos,,"Lima, Peru",2018-09-02T19:23:42Z,0,0,0,0,2750,0.0,8,2,4.0,0,8,,0,0,,0,0,0,,False
+eocares,Ebert Ocares Luna,IESTP VALLEGRANDE,LIMA - CAÑETE - PERU,2017-03-09T17:31:51Z,0,0,0,0,3292,0.0,8,5,1.6,0,8,,0,0,,0,0,0,,False
+badkitten-bug,Steve Gomez ,@CrackTheCode @GoogleDevs @OpenBootCamp,Lima-Peru,2022-04-27T13:54:39Z,0,0,0,0,1417,0.0,8,14,0.5714285714285714,0,8,,0,0,,0,0,0,,False
+Xangel0s,Angel lopez,,Peru,2024-06-01T20:24:05Z,0,0,0,0,651,0.0,8,10,0.8,0,8,,0,0,,0,0,0,,False
+aapa96,Alex Andre Paredes Aranzamendi,Aranzagroup,Arequipa - Peru,2016-03-31T03:08:33Z,0,0,0,0,3635,0.0,8,0,8,0,8,,0,0,,0,0,0,,False
+jrgventura,Jorge Ventura,Janaq Software & Consultoría,Peru,2014-10-04T09:03:44Z,0,0,0,0,4179,0.0,8,7,1.1428571428571428,0,8,,0,0,,0,0,0,,False
+denniscastro,Dennis Castro,Freelancer,Lima-Peru,2009-09-18T05:07:33Z,0,0,0,0,6021,0.0,8,6,1.3333333333333333,0,8,,0,0,,0,0,0,,False
+angel452,Angel Josue Loayza Huarachi,,Peru,2020-08-28T14:47:33Z,0,0,0,0,2024,0.0,8,31,0.25806451612903225,0,8,,0,0,,0,0,0,,False
+Jvnc0503,Jesús Valentín Niño Castañeda,UTEC,Peru,2022-03-21T03:54:45Z,0,0,0,0,1454,0.0,8,20,0.4,0,8,,0,0,,0,0,0,,False
+JamesReate,James Reategui,"DIMO, Materia","Detroit, MI / Lima, Peru / NYC",2012-11-25T19:54:02Z,0,0,0,0,4857,0.0,8,5,1.6,0,8,,0,0,,0,0,0,,False
+TAOGenna,Renzo Kenyi Takagui-Perez,,"Lima, Peru",2018-01-13T13:04:17Z,0,0,0,0,2982,0.0,8,14,0.5714285714285714,0,8,,0,0,,0,0,0,,False
+sh4rjf,Omar Dolores,ELCADES,Peru,2015-04-12T05:04:14Z,0,0,0,0,3989,0.0,8,0,8,0,8,,0,0,,0,0,0,,False
+danielaaz04,Daniela Alvarez Zegarra,Producers Direct,Peru,2016-03-22T05:19:28Z,0,0,0,0,3644,0.0,8,2,4.0,0,8,,0,0,,0,0,0,,False
+FiorellaQuispe,Fiorella Quispe ,Preauth,Peru,2016-11-26T23:46:47Z,0,0,0,0,3395,0.0,8,9,0.8888888888888888,0,8,,0,0,,0,0,0,,False
+armandoangulov,Armando Angulo,,"Lima, Peru",2017-02-20T00:45:32Z,0,0,0,0,3310,0.0,8,36,0.2222222222222222,0,8,,0,0,,0,0,0,,False
+davidhoruna,David Huaman Oruna,,"Lima, Peru",2022-04-27T18:10:39Z,0,0,0,0,1417,0.0,8,11,0.7272727272727273,0,8,,0,0,,0,0,0,,False
+3ileen,Eileen,,peru,2020-05-23T00:57:56Z,0,0,0,0,2121,0.0,8,17,0.47058823529411764,0,8,,0,0,,0,0,0,,False
+IDEGO-STANDARD,IDEGO,,Peru,2023-03-18T14:11:35Z,0,0,0,0,1092,0.0,8,0,8,0,8,,0,0,,0,0,0,,False
+GabrielFMH,Gabriel Melendez Huarachi,MundoTech,Peru,2021-05-21T16:34:31Z,0,0,0,0,1758,0.0,8,38,0.21052631578947367,0,8,,0,0,,0,0,0,,False
+alezhia,Alezhia Software Development,,Peru,2022-12-27T02:26:13Z,0,0,0,0,1173,0.0,8,0,8,0,8,,0,0,,0,0,0,,False
+fatimajr,Fátimajr,,"Lima, Peru",2016-07-12T18:33:03Z,0,0,0,0,3532,0.0,8,6,1.3333333333333333,0,8,,0,0,,0,0,0,,False
+Maxlopez,Max,CodexHelp Inc.,Peru,2014-10-19T23:50:41Z,0,0,0,0,4164,0.0,8,4,2.0,0,8,,0,0,,0,0,0,,False
+Binlandorg,Binland,,Peru,2024-01-25T02:21:07Z,0,0,0,0,779,0.0,8,0,8,0,8,,0,0,,0,0,0,,False
+dievillano,Diego Villa,@healthinnovation ,"Lima, Peru",2018-05-15T09:54:36Z,0,0,0,0,2860,0.0,8,4,2.0,0,8,,0,0,,0,0,0,,False
+Fabrizio99,Fabrizio Raul,,"Lima, Peru.",2018-10-08T04:20:41Z,0,0,0,0,2714,0.0,8,22,0.36363636363636365,0,8,,0,0,,0,0,0,,False
+enriquemoralesvite,Enrique,,Peru,2020-06-25T17:05:21Z,0,0,0,0,2088,0.0,8,40,0.2,0,8,,0,0,,0,0,0,,False
+zalogarciam,Gonzalo Garcia Martinez,,Arequipa - Peru,2016-06-16T03:22:32Z,0,0,0,0,3558,0.0,8,0,8,0,8,,0,0,,0,0,0,,False
+CONOVATEC-publico,CONOVATEC | Público,,Peru,2022-06-14T03:47:30Z,0,0,0,0,1369,0.0,8,0,8,0,8,,0,0,,0,0,0,,False
+ZendljRp,Luis Junior,https://twitter.com/ZendljRp,Peru,2012-07-12T19:19:46Z,0,0,0,0,4993,0.0,8,36,0.2222222222222222,0,8,,0,0,,0,0,0,,False
+luisdevelop23,Luis Saavedra Falcon,,lima peru,2021-10-23T01:34:35Z,0,0,0,0,1603,0.0,8,30,0.26666666666666666,0,8,,0,0,,0,0,0,,False
+TheSadJoke,Miguel Angel,,Peru,2022-12-08T00:14:10Z,0,0,0,0,1193,0.0,8,2,4.0,0,8,,0,0,,0,0,0,,False
+tokumotion,Miguel Tokumoto,,"Lima, Peru",2014-12-17T05:22:28Z,0,0,0,0,4105,0.0,8,18,0.4444444444444444,0,8,,0,0,,0,0,0,,False
+halleyrv,Halley Rios Valenzuela,@orsisperu,Lima - Peru,2013-09-24T21:53:02Z,0,0,0,0,4554,0.0,8,10,0.8,0,8,,0,0,,0,0,0,,False
+luiggi0925,Luiggi Mendoza,,"Lima, Peru",2012-08-04T17:45:58Z,0,0,0,0,4970,0.0,8,0,8,0,8,,0,0,,0,0,0,,False
+BelityApp,Belity,,Peru,2023-01-31T14:41:33Z,0,0,0,0,1138,0.0,8,0,8,0,8,,0,0,,0,0,0,,False
+Transformacion-Digital-UDH,Transformación Digital - UDH,,Peru,2024-07-28T20:33:00Z,0,0,0,0,594,0.0,8,0,8,0,8,,0,0,,0,0,0,,False
+cruzchue,Eduardo R. Cruz-Chu,UPCH,Lima-Peru,2016-06-22T18:23:09Z,0,0,0,0,3552,0.0,8,4,2.0,0,8,,0,0,,0,0,0,,False
+PolvosMagicos,Polvos Magicos,,"Lima, Peru",2020-10-20T22:51:27Z,0,0,0,0,1971,0.0,8,17,0.47058823529411764,0,8,,0,0,,0,0,0,,False
+claudito,Luis Augusto Claudio Ponce,perutec.com.pe,"Lima,Peru",2015-04-18T14:15:14Z,0,0,0,0,3983,0.0,8,0,8,0,8,,0,0,,0,0,0,,False
+ch3557er,Jhonatan Mendoza,,"Lima, Peru",2024-02-08T16:47:43Z,0,0,0,0,765,0.0,8,32,0.25,0,8,,0,0,,0,0,0,,False
+LeidyRosmery,Rose M.,,"Lima , Peru",2017-02-20T15:33:06Z,0,0,0,0,3309,0.0,8,1,8.0,0,8,,0,0,,0,0,0,,False
+SergioNarvasta,Sergio Alan Jesus Narvasta Pichilingue,ITCyan,Peru,2019-10-12T21:08:40Z,0,0,0,0,2345,0.0,8,12,0.6666666666666666,0,8,,0,0,,0,0,0,,False
+der-computerist,Enrique Aliaga,,"Lima, Peru",2014-09-28T06:39:50Z,0,0,0,0,4185,0.0,8,23,0.34782608695652173,0,8,,0,0,,0,0,0,,False
+barufe,BArufePerez,,"Lima, Peru",2019-11-23T21:17:57Z,0,0,0,0,2303,0.0,8,8,1.0,0,8,,0,0,,0,0,0,,False
+Luiscmogrovejo,Luis C Mogrovejo,GameOn,"Lima, Peru",2022-03-08T22:25:35Z,0,0,0,0,1467,0.0,8,22,0.36363636363636365,0,8,,0,0,,0,0,0,,False
+Kenji-K,Kenji,,"Lima, Peru",2011-03-19T18:58:01Z,0,0,0,0,5474,0.0,8,0,8,0,8,,0,0,,0,0,0,,False
+ysacc,Ysacc Roncal,,Peru,2022-08-26T22:51:41Z,0,0,0,0,1296,0.0,8,0,8,0,8,,0,0,,0,0,0,,False
+jhonatn,Jhonatan A.,,"Lima, Peru",2012-03-17T20:29:56Z,0,0,0,0,5110,0.0,8,0,8,0,8,,0,0,,0,0,0,,False
+hoscanoa,Hoscanoa,,Lima-Peru,2012-02-13T17:50:14Z,0,0,0,0,5143,0.0,8,7,1.1428571428571428,0,8,,0,0,,0,0,0,,False
+Luissylar,Luis Saldivar,@Datsun-Enginers ,cusco peru,2019-10-22T20:31:43Z,0,0,0,0,2335,0.0,8,15,0.5333333333333333,0,8,,0,0,,0,0,0,,False
+EduCCor,@Edu,Everis,Peru,2021-08-05T23:17:41Z,0,0,0,0,1682,0.0,8,6,1.3333333333333333,0,8,,0,0,,0,0,0,,False
+JurjDev,,,"Lima, Peru",2016-12-20T01:02:34Z,0,0,0,0,3371,0.0,8,6,1.3333333333333333,0,8,,0,0,,0,0,0,,False
+LNVN5,Lian Nivin,Readiness IT,"Lima, Peru",2020-04-11T23:50:14Z,0,0,0,0,2163,0.0,8,9,0.8888888888888888,0,8,,0,0,,0,0,0,,False
+andyrufasto,Andy Rufasto,UNMSM,"-Lima, Peru",2018-10-31T18:30:07Z,0,0,0,0,2691,0.0,8,22,0.36363636363636365,0,8,,0,0,,0,0,0,,False
+kodewp,Miguel Fuentes,KODEWP,Lima - PERU,2012-12-21T22:39:47Z,0,0,0,0,4831,0.0,8,13,0.6153846153846154,0,8,,0,0,,0,0,0,,False
+juanmorenomotta,Juan Moreno Motta,Geckotronis,"Lima, Peru",2014-10-27T02:16:05Z,0,0,0,0,4156,0.0,8,3,2.6666666666666665,0,8,,0,0,,0,0,0,,False
+okipe,Oscar Roman,,"Lima, Peru",2014-05-12T18:41:09Z,0,0,0,0,4324,0.0,8,14,0.5714285714285714,0,8,,0,0,,0,0,0,,False
+gonzoalo,Gonzalo Sanchez,Appodeal,"Lima, Peru",2017-05-02T23:44:44Z,0,0,0,0,3238,0.0,8,17,0.47058823529411764,0,8,,0,0,,0,0,0,,False
+dmatiason09,Dennis Matias Ortiz Nunez,,"Lima, Peru",2026-02-02T15:41:43Z,0,0,0,0,40,0.0,8,2,4.0,0,8,,0,0,,0,0,0,,False
+LuisRodriguzz,Luis Rodriguez,,Lima - Peru,2022-01-19T21:55:00Z,0,0,0,0,1515,0.0,8,13,0.6153846153846154,0,8,,0,0,,0,0,0,,False
+kdevivanco,Kayla de Vivanco,,"Lima, Peru",2021-06-28T00:47:23Z,0,0,0,0,1721,0.0,8,16,0.5,0,8,,0,0,,0,0,0,,False
+GasperSoft,,,Peru,2020-07-02T03:16:53Z,0,0,0,0,2081,0.0,8,0,8,0,8,,0,0,,0,0,0,,False
