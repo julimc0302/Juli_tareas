@@ -6,6 +6,7 @@ import plotly.express as px
 
 sys.path.append(os.getcwd())
 from app.components.data_loader import load_processed_data
+from app.components.charts import add_footer
 
 st.set_page_config(page_title="Industry Analysis", layout="wide")
 
@@ -14,6 +15,11 @@ st.title("🏭 Industry Analysis")
 user_metrics, repos_classified = load_processed_data()
 
 if repos_classified is not None:
+    # ... (content remains the same until line 45)
+    st.info("Primary industry mapping not found in user metrics.")
+    
+    # Add Branding Footer
+    add_footer()
     # Industry Distribution
     st.subheader("Distribution of Repositories by Industry (CIIU)")
     
@@ -43,3 +49,6 @@ if repos_classified is not None:
             st.bar_chart(spec_counts.set_index("Industry Code"))
         else:
             st.info("Primary industry mapping not found in user metrics.")
+
+    # Add Branding Footer
+    add_footer()

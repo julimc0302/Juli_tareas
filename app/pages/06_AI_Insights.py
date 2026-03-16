@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 
 sys.path.append(os.getcwd())
 from src.agents.classification_agent import InsightsAgent
+from app.components.charts import add_footer
 
 load_dotenv()
 
@@ -45,3 +46,6 @@ if prompt := st.chat_input("Ask about technical trends, top industries, or devel
             response = st.session_state.agent.answer_question(prompt)
             st.markdown(response)
             st.session_state.messages.append({"role": "assistant", "content": response})
+
+# Add Branding Footer
+add_footer()

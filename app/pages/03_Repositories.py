@@ -5,6 +5,7 @@ import os
 
 sys.path.append(os.getcwd())
 from app.components.data_loader import load_processed_data
+from app.components.charts import add_footer
 
 st.set_page_config(page_title="Repository Browser", layout="wide")
 
@@ -47,7 +48,7 @@ if repos_classified is not None:
     
     # Display table with relevant columns
     display_cols = ["name", "industry_name", "language", "stargazers_count", "forks_count", "description", "full_name"]
-    st.dataframe(filtered_df[display_cols], use_container_width=True)
+    st.dataframe(filtered_df[display_cols], use_container_width=True, hide_index=True)
     
     # Detail View
     if len(filtered_df) > 0:
@@ -65,3 +66,6 @@ if repos_classified is not None:
         with d_col2:
             st.markdown("**README Snippet:**")
             st.text_area("", repo_detail["readme"] if pd.notna(repo_detail["readme"]) else "No README available", height=200)
+
+    # Add Branding Footer
+    add_footer()

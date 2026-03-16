@@ -6,6 +6,7 @@ from collections import Counter
 
 sys.path.append(os.getcwd())
 from app.components.data_loader import load_processed_data
+from app.components.charts import add_footer
 
 st.set_page_config(page_title="Language Analytics", layout="wide")
 
@@ -40,3 +41,8 @@ if repos_classified is not None:
         ind_langs = repos_classified[repos_classified["industry_name"] == selected_ind]["language"].value_counts().head(5)
         st.write(f"Top 5 languages in **{selected_ind}**:")
         st.table(ind_langs)
+
+    # Add Branding Footer
+    add_footer()
+else:
+    st.warning("No data found. Please run the extraction scripts first.")
